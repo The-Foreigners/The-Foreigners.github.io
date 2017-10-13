@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Backgrounds
+title:
 permalink: /about/
 ---
 
