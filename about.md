@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### Sorren Barrelband
-##* Life Cleric - Hill Dwarf
+# Life Cleric - Hill Dwarf
 
 Sorren's bright eyes and friendly demeanor belies his age. While most dwarven beards are highly styled he wears his closely cropped, and his complexion is rather tan for a dwarf. Overall he gives the appearance of a short stocky man.
  
