@@ -99,3 +99,32 @@ Ailla
 
 ---
 
+Sorren,
+
+No letter from you this past year. Are you angry with me? I would not blame you if you were, but please tell me how if I have offended you, if I have.
+
+Are my letters not reaching you? I give them to a passing carter and he assures me he delivers them to a stout dwarf who does business with your order. But I wonder if this is perhaps not the most reliable chain of messengers. I'm sure if you saw what was happening in this town, you would know what to do.
+
+Cirili is gone. More and more people leave as the days pass, but I'm surprised she left with no warning, not even a goodbye. Rumors that there's a curse on this town now seem entirely reasonable. I don't remember the moment when I stopped thinking the curse was an absurd fancy and started believing it was true, but it may have been when I learned Cirili was gone.
+
+I wonder if she's okay. Would she have left her family? Her father and mother and sisters? Why? I wonder if she really left of her own will.
+
+I supose I know the answer.
+
+Ailla
+
+---
+
+Sorren,
+
+Something is wrong with Aelric. He was gone for a night and I panicked, but Constable Grover assured me he went with some of the menfolk to Farmer Gile's steading a few hours outside of town. But I know this is not true, Farmer Giles left for Hommlet a fortnight ago. His steading sits empty now.
+
+I never for a moment believed Grover. But somehow I knew I had to pretend I believed, or the Constable would do to me whatever he did to Aelric.
+
+Aelric smiles and makes smalltalk, but there is nothing behind his eyes. He does not know me, unless he looks at me for a long while. He spends all his time at the Golden Grain, conspiring with the men there. He sleeps there and in truth I do not complain. I could not share my bed with him now. His skin is cold to the touch. He is not Aelric.
+
+Am I going mad? Is my husband possessed, and the rest of the town against me? Or is it I who am possessed?
+
+I am not safe here. I do not know what to do. Please, Sorren please come. I beg you.
+
+I am afraid.
