@@ -19,4 +19,4 @@ Meet a blue dragonborn, Reeve Katalin. She's upset that Olany now wants to be a 
 
 Finley says she is headed due east to Fort Felix and will return in ten days and says that if we go a couple hours east then head north we will make the guard tower by nightfall.
 
-Finally, we enjoy Edgar's hospitality for the night.
+Finally, we enjoyed Edgar's hospitality for the night.
