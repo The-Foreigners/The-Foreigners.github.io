@@ -27,7 +27,7 @@ Instead we frequent the Slumbering Serpent which is smaller, but very nice. Ollw
 
 The people here are welcoming and hardworking. We are lucky to live here. But Aelric want more, he is not satisfied mending shoes and pots and pans.
 
-- Ailla
+Ailla
 
 ---
 
@@ -43,7 +43,7 @@ Cirili helps me greatly and spends almost as much time helping raise Ellie and w
 
 Husband was eager for me to tell you the news. He admires you terribly. It would mean the world to him if you could write.
 
-- Ailla
+Ailla
 
 ---
 
@@ -55,7 +55,7 @@ I thought that very wise. Our rector is a good man. The temple is still a ruin, 
 
 All blessings to Lathander, the Morninglord. May his dawn shine upon our hearts.
 
-- Ailla
+Ailla
 
 ---
 
@@ -73,10 +73,29 @@ Still, very strange looking into Tristram's eyes and not seeing any sign of reco
 
 Please write back!
 
-- Ailla
+Ailla
 
 ---
 
 Sorren,
 
 More strange tidings, though I suspect it's my imagination at work more than anything else.
+
+I see strange men coming and going from the Golden Grain. This alone is not worth bothering about, I have never liked that place. But now Simon the owner of the town's general store is acting strange. I went to buy some wool from him and he behaved exactly like Tristram! He didn't recognize me for some long moments.
+
+Well I didn't want to stand there like an idiot while he looked at me waiting to remember who I am, so I introduced myself to the other man in the shop. A stranger, but a friendly one, if a bit ... well, creepy.
+
+He introduced himself as Garath Primo. I could tell by his raiment he was a priest, but I did not recognize the symbol on his chasuble, and he was pale and unkempt. His hair long and greasy. I introduced myself and asked him his business and very matter-of-factly he told me he was looking for an ancient Goliath temple. Well, I said, I was very sure there was no such thing around here! A demon-temple of those barbaric savages! Imagine it!
+
+Then he said the most extraordinary thing. "On the contrary!" he siad, and proceeded to tell me that Simon informed him of the location of such a temple out in the swamp!
+
+Simon certainly looked cross as that, and I got the distinct impression that whatever Simon had told this man, it was supposed to be secret.  But Primo seemed nice enough, even if unclean.
+
+I went to the temple to ask Rector Abramo about this, and me a young lady instead. Misha, she gave her name. She was cold and distant to me and said Rector Abramo was lost in meditation. I saw Abramo pacing through the temple in the shadows behind her and called out to him, but he didn't respond and Misha asked me to leave.
+
+I do not like her. Where did she come from?
+
+Ailla
+
+---
+
