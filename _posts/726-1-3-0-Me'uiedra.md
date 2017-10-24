@@ -14,7 +14,7 @@ We go to the inn, which is busy for the early afternoon and full of soldiers. Or
 
 I heard dice rolling in a back room when reentering. Find out that we are currently in the realm of "The Clock", and that "The Neighbors" in the Dutchy to the west. Zera was approached by a man who recognized him and will trade silence for completeing a few tasks: reestablish "Music" foothold in Orlane, deliver package to Glasstaff in Phandalin, deliver letter to Hommlet.
 
-Meet a blue dragonborn, Reeve Katalin. She's upset that Olany now wants to be a Reeve and is now her apprentice. She tells us of the goblin in Phandalin, where there's also an incursion of bandits and Glasstaff is their leader. She says everyone is headed to Hommlet for riches rumored to be in the Moathouse.
+Meet a blue dragonborn, Reeve Katalin. She's upset that Olanys now wants to be a Reeve and is now her apprentice. She tells us of the goblin in Phandalin, where there's also an incursion of bandits and Glasstaff is their leader. She says everyone is headed to Hommlet for riches rumored to be in the Moathouse.
 
 Finley says she is headed due east to Fort Felix and will return in ten days and says that if we go a couple hours east then head north we will make the guard tower by nightfall.
 
