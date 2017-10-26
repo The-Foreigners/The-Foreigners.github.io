@@ -1,3 +1,7 @@
+---
+layout: post
+title: Guard Tower
+---
 The following morning Jorsda gives us baked goods; including a chocolate cake named 'Barrelbands.' Jaffrey stabled the mule, and we purchased rations and traveller's cloaks for the cold weather from Nathaniel.
 
 We took off ahead of Cpt. Degas and by mid-day we made the cavern where we were captured. By late evening we made the guard tower. We waited to see if there was a patrol and then charged the tower concealed by dusk and heavy rain. We easily broke through the damaged entry door and fought our way to the top of the tower. There we found three hobgoblins around a planning table. We found a map of the area and rescued a man tortured on the balcony. Below we could see Degas' men fighting a goblin patrol we had avoided.
