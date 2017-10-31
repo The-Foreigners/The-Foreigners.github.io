@@ -17,7 +17,7 @@ Lord Albrek,
 
 My spies in Kuldara tell me that strangers are due to arrive in Phandalin. They could be working for the Dwarves. Capture them if you can, kill them if you must, but don't allow them to upset our plans. See that any dwarven maps in their possession are delievered to me with haste. I'm counting on you. Don't disappoint me.
 
-- Black Spider
+Black Spider
 ---
 
 Glasstaff is Lord Albrek! We try to secret Glasstaff out and disturb a nothic in the cravasse. We kill the notic and harvest its eye. Below, we find a chest with 120g 160s, 2 potions of healing, scroll of augury, and a longsword inscribed with 'Talon'. Zera recounts that he sword belonged to the head of the household know as Blackhawk.
