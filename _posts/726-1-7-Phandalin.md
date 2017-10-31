@@ -18,8 +18,8 @@ Lord Albrek,
 My spies in Kuldara tell me that strangers are due to arrive in Phandalin. They could be working for the Dwarves. Capture them if you can, kill them if you must, but don't allow them to upset our plans. See that any dwarven maps in their possession are delievered to me with haste. I'm counting on you. Don't disappoint me.
 
 Black Spider
----
 
+---
 Glasstaff is Lord Albrek! We try to secret Glasstaff out and disturb a nothic in the cravasse. We kill the notic and harvest its eye. Below, we find a chest with 120g 160s, 2 potions of healing, scroll of augury, and a longsword inscribed with 'Talon'. Zera recounts that he sword belonged to the head of the household know as Blackhawk.
 
 We load Glasstaff into a barrel and wheel him to the cellar of the Townmaster Hall, and show Sildar the evidence. Sildar is furious at Iarno/Glasstaff. Iarno said he made a deal with the Black Spider so he could remain in charge and prevent the Black Spider from destroying the town. We learn Black Spider is a drow looking for Wave Echo Cave. He tells us that there are four bugbears across the hall from his quarters that the Black Spider sent. Sildar wants Iarno sent to Kuldara to be tried and executed. We convience Sildar he should be Reeve, and give him 'Talon' as symbol of power. We go to speak with Harbin and he is very unhappy with our actions, especially our unauthorized appointing of Reeve and our fight with the Redbrands. We take Harbin around town to convience him otherwise. We talk to the Sister, she has a problem with a banshee in Thundertree and asks if we'll trade a silver comb for a spellbook that belongs to Bowgentle. We talk to Barthis, he recounts the problems with the Redbrands: extortion, disappearance of the carpenter and his wife. Then we take Harbin to Mirna, she recounts the Redbrand atrocites towards her family.
