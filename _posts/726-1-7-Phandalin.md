@@ -10,4 +10,25 @@ Walking up to the Taphouse, three guards get a bit fiesty when we say we have a 
 
 We escorted the freed prisoners out of the cellar dressed in Redbrand cloaks. Near the cellar entrance Zera checks a door and finds Redbrands. We take a prisoner and lock him in a cell. The Redbrand prisoner tells us to take the right bridge, the right hallway, through the right door. With further questioning, we learn there is a secret backdoor in the storeroom before the crevasse. He warns us of the eye monster in the cravasse and says that the "Black Spider" hired the Redbrands to scare off adventurers and intimidate the locals. Says they aren't working with the orcs in the North.
 
-We take a short rest in the first room where we found the Redbrands.
+We take a short rest in the first room where we found the Redbrands. After finishing our short rest, I detect an illusion within the cistern. I pull up on rope and find a backpack containing 50g, a potion of healing, and a potion of invisibility. See Tresender inscribed on the tombss, and detect necrotic magic on skeletons. We checkin on prisoner, thin continue to second storage area that reeks of death. Zera uses his wand of secrets to find the secret door. We walk up the staircase to back secret door to Glasstaff's quarters, he was surprised when we came from his escape route. We briefly talk, Zera tells him we have a package, which he then gives him. He unlocks the package then tells us to leave, but Thayne refuses. Glasstaff attempts to use a scroll of fireball aganst us but he fails. We silence, hold person, and quickly disable him. We take his spellbook, gag him, and bind him to a chair. The book we delivered was "Kill It And Distill It", and alchemy guide that Zera takes. Find the following letter to Lord Albrek from Black Spider.
+
+***
+Lord Albrek,
+
+My spies in Kuldara tell me that strangers are due to arrive in Phandalin. They could be working for the Dwarves. Capture them if you can, kill them if you must, but don't allow them to upset our plans. See that any dwarven maps in their possession are delievered to me with haste. I'm counting on you. Don't disappoint me.
+
+- Black Spider
+---
+
+Glasstaff is Lord Albrek! We try to secret Glasstaff out and disturb a nothic in the cravasse. We kill the notic and harvest its eye. Below, we find a chest with 120g 160s, 2 potions of healing, scroll of augury, and a longsword inscribed with 'Talon'. Zera recounts that he sword belonged to the head of the household know as Blackhawk.
+
+We load Glasstaff into a barrel and wheel him to the cellar of the Townmaster Hall, and show Sildar the evidence. Sildar is furious at Iarno/Glasstaff. Iarno said he made a deal with the Black Spider so he could remain in charge and prevent the Black Spider from destroying the town. We learn Black Spider is a drow looking for Wave Echo Cave. He tells us that there are four bugbears across the hall from his quarters that the Black Spider sent. Sildar wants Iarno sent to Kuldara to be tried and executed. We convience Sildar he should be Reeve, and give him 'Talon' as symbol of power. We go to speak with Harbin and he is very unhappy with our actions, especially our unauthorized appointing of Reeve and our fight with the Redbrands. We take Harbin around town to convience him otherwise. We talk to the Sister, she has a problem with a banshee in Thundertree and asks if we'll trade a silver comb for a spellbook that belongs to Bowgentle. We talk to Barthis, he recounts the problems with the Redbrands: extortion, disappearance of the carpenter and his wife. Then we take Harbin to Mirna, she recounts the Redbrand atrocites towards her family.
+
+We go back to the manor. Check in on our prisoner and he had escaped. We work our way back and fight off three bugbears, a bugbear captain, and six Redbrands. Nearly defeated, we go upstairs to barricade ourselves in a room to take a long rest. We gather up a couple of hammers, nails, and boards from the store room in the cellar. With our arms full, we find a room to hole up in and wait, locking the door with the iron key and nailing the door shut for good measure. Grin falls asleep instantly. Thayne wrestles with taking off his armor and finds a place to rest. Zera meditates over his new book, revealing its secrets before going to bed. I took the first watch.
+
+Night falls and darkness takes the room, alone I hear people moving around the manor house. Foot steps that descend downstairs, and then return back up. I hear doors opening and closing, steps and creaking boards getting closer and closer. Someone tries our door. Then slams into it. A voice calls out "Over here!"
+
+This is followed by another pair of footsteps approaching the door. The slamming against the door increases, waking everyone in the room. One of them says "I'll get something to knock this down" and walks off. We all hear a thud of something hitting the floor. 
+
+The second voice says "For Mask's sake, what did you do out there?" As he walks off. Then we hear another thud. 
+After that the silence draws out like a knife. After a slow hour we return to an uneasy sleep. Eventually Thayne switches watches, but it carries on uneventfully.
