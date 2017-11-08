@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phandalin
+title: Tresender Manor
 ---
 Spend the night in the inn, while maintaining watch. Have breakfast in a hurry with Sildar then head to Barthin's provisions. We hear from Barthin that Quenell Alderleaf's son Carp has seen Redbrands near a cave in the wood outside their farm. A little bit North is a mining camp with Gundrand's brothers. We hear that the Miner's Exchange isn't getting any trouble from the Redbrands.  The Sleeping Giant Taphouse near the ruined manor is crawling with Redbrands. There is also a band of orcs harassing people off the Triboar Trail.
 
