@@ -4,7 +4,7 @@ title: Tresender Manor
 ---
 We awake in our defensive position, and find Sildar out in the hall. He says a large contingent of soldiers arrived last night looking for us. Our reinforcements arrived! Sildar wants us to find Cragmaw Castle, goblins there have ties to the hobgoblins downstairs. Need to ask them questions, still need to find Black Spider.
 
-We must head to Wyvern Torm, so we restock at Barthin's. Proceed to Miner's Exchange, where Holia trades us for coinage and reagents. We check-in with Cpt. Dega at the inn, he'll send a letter to have Sildar appointed as Reeve. He says orcs rarely make it this far north through the domain. As we leave the inn we spot a red cloak dashing behind the corner. We give chase but lose him in the crowd near Mirna's. We barge in to her house, but no red cloak. She says she is heading to Kuldera with the troops then on to her cousins in Drellin's Mill. 
+We must head to Wyvern Tor, so we restock at Barthin's. Proceed to Miner's Exchange, where Holia trades us for coinage and reagents. We check-in with Cpt. Dega at the inn, he'll send a letter to have Sildar appointed as Reeve. He says orcs rarely make it this far north through the domain. As we leave the inn we spot a red cloak dashing behind the corner. We give chase but lose him in the crowd near Mirna's. We barge in to her house, but no red cloak. She says she is heading to Kuldera with the troops then on to her cousins in Drellin's Mill. 
 
 Walking out we see the red cloak round the neighboring building, the Miner's Exchange. Thayne and Zera enter and Grin and I watch the back. Holia was adamant that the Redbrands aren't a problem. We tell Sildar and he grabs two soliders and head back to the Miner's Exchange to deal with them.
 
