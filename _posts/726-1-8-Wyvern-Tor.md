@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tresender Manor
+title: Wyvern Tor
 ---
 We awake in our defensive position, and find Sildar out in the hall. He says a large contingent of soldiers arrived last night looking for us. Our reinforcements arrived! Sildar wants us to find Cragmaw Castle, goblins there have ties to the hobgoblins downstairs. Need to ask them questions, still need to find Black Spider.
 
