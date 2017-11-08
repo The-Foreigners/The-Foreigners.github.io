@@ -2,7 +2,7 @@
 layout: post
 title: Tresender Manor
 ---
-Spend the night in the inn, while maintaining watch. Have breakfast in a hurry with Sildar then head to Barthin's provisions. We hear from Barthin that Quenell Alderleaf's son Carp has seen Redbrands near a cave in the wood outside their farm. A little bit North is a mining camp with Gundrand's brothers. We hear that the Miner's Exchange isn't getting any trouble from the Redbrands.  The Sleeping Giant Taphouse near the ruined manor is crawling with Redbrands. There is also a band of orcs harassing people off the Triboar Trail.
+Spend the night in the inn, while maintaining watch. Have breakfast in a hurry with Sildar then head to Barthin's Provisions. We hear from Barthin that Quenell Alderleaf's son Carp has seen Redbrands near a cave in the wood outside their farm. A little bit North is a mining camp with Gundrand's brothers. We hear that the Miner's Exchange isn't getting any trouble from the Redbrands.  The Sleeping Giant Taphouse near the ruined manor is crawling with Redbrands. There is also a band of orcs harassing people off the Triboar Trail.
 
 We head to the Townmaster Hall, and see a notice board offering a reward for the orcs on the Triboar Trail. Harbin Wester, the Townmaster, is unconcerned by the goblins that captured Sildar or the Redbrands, he's only concerned with the orcs.  This infuriates Sildar, whoh sticks around as we head to the Sleeping Giant Taphouse.
 
