@@ -2,7 +2,6 @@
 layout: post
 title: Letters from Ailla
 ---
-
 Dearest Brother Sorren,
 
 I hope your work is going well. Forgive me for not writing the last year but at first the baby consumed all of my time. Then after a few months I was so ashamed at not writing that I found I couldn't write, and the longer I went the more my shame grew until I didn't know what to do!
@@ -17,7 +16,7 @@ Orlane grows and prospers. The mayor, Zakarias Ormond, is wise and strong and we
 
 Farmer Hewitt invites us to dinner at least once a week and we always accept. He has such a lovely family. I envy him. His eldest girl, Cirili, looks up to me, I think. She's been helping me a great deal with Ellie and around the house. She has no taste for farming so we hired her as a nanny. I have also started to teach her sewing and whitesmithing. She is a fast learner.
 
-The constable is a man named Grover. He's a hard and suspicious man who orginally tried to talk Aelric and I into returning to my father's farm, but once we made it clear we were staying, he came around. He is not welcoming, but he treats everyone the same, which is a kind of fairness I suppose.
+The constable is a man named Grover. He's a hard and suspicious man who originally tried to talk Aelric and I into returning to my father's farm, but once we made it clear we were staying, he came around. He is not welcoming, but he treats everyone the same, which is a kind of fairness I suppose.
 
 There is a temple to Lathander here. It makes me sad to see that beautiful place standing ruined. Many of the people remember when it was the source of the town's fortune and health. But we have not seen a priest of Lathander in a long time, and it has fallen into disuse.
 
@@ -87,7 +86,7 @@ Well I didn't want to stand there like an idiot while he looked at me waiting to
 
 He introduced himself as Garath Primo. I could tell by his raiment he was a priest, but I did not recognize the symbol on his chasuble, and he was pale and unkempt. His hair long and greasy. I introduced myself and asked him his business and very matter-of-factly he told me he was looking for an ancient Goliath temple. Well, I said, I was very sure there was no such thing around here! A demon-temple of those barbaric savages! Imagine it!
 
-Then he said the most extraordinary thing. "On the contrary!" he siad, and proceeded to tell me that Simon informed him of the location of such a temple out in the swamp!
+Then he said the most extraordinary thing. "On the contrary!" he said, and proceeded to tell me that Simon informed him of the location of such a temple out in the swamp!
 
 Simon certainly looked cross as that, and I got the distinct impression that whatever Simon had told this man, it was supposed to be secret.  But Primo seemed nice enough, even if unclean.
 
@@ -109,7 +108,7 @@ Cirili is gone. More and more people leave as the days pass, but I'm surprised s
 
 I wonder if she's okay. Would she have left her family? Her father and mother and sisters? Why? I wonder if she really left of her own will.
 
-I supose I know the answer.
+I suppose I know the answer.
 
 Ailla
 
