@@ -1,3 +1,7 @@
+---
+layout: post
+title: Phandalin
+---
 We stayed the night at the tower. The following day Sildar decides to travel with us over the moutain pass to Phandalin where we will meet Degas and his men, who will travel back through Me'uidre, in a few days.
 
 We make camp along the pass the following night. Sildar tells us of Gundrand's brothers Thurden and Nundro are also part of the group looking for the cave. He also tells us that Felix is being moved south because he has too much power; had a loyal army and fort with his own name. The Dukes don't want a fourth sharing power. Sildar started "The Talents" from the original "Flying Eagles," whose job it is to make sure everything runs smoothly and to protect the General and his men. The Talents would like to see Felix a Duke or better. Sildar knows Iarno through the Talents. We learn we have eleven days until the General comes through Mu'eiudre.
