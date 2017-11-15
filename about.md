@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Backgrounds
+permalink: /backgrounds/
 ---
 
 ## Sorren Barrelband
