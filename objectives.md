@@ -3,5 +3,4 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-- Hello
-- World
+- Return "Flying Eagles" armor and weapons to Sildar Hallwinter in Phandalin
