@@ -45,7 +45,6 @@ permalink: /objectives/
   - Deliver letter to Hommlet
   - Reestablish 'Music' in Orlane
 
-
 ## Goals
 
 - Find Gringur's father.
