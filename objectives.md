@@ -14,8 +14,8 @@ permalink: /objectives/
 - Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Brew hard cider for taphouse?)
 
 - Deliver message to General Felix from Sildar:
-..- Confer with Sildar and Cpt. Degas as to when Gen. Felix will pass through Me'uiedra.
-..- Ask for letter of introduction from Sildar.
+  - Confer with Sildar and Cpt. Degas as to when Gen. Felix will pass through Me'uiedra.
+  - Ask for letter of introduction from Sildar.
 
 - Follow up with report that Quenell Alderleaf's son Carp saw Redbrands near a cave in the woods outside their farm near Phandalin.
 
@@ -32,5 +32,5 @@ permalink: /objectives/
 - Learn history of Mealton the Great, who is the subject of a tapestry we found. (Where's the dragon's hoard?)
 
 - Complete Zera's missions for the 'Music' in Me'uiadra:
-..- Deliver letter to Hommlet
-..- Reestablish 'Music' in Orlane
+  - Deliver letter to Hommlet
+  - Reestablish 'Music' in Orlane
