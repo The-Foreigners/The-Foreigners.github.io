@@ -30,6 +30,6 @@ Thayne and Grin assisted each other in crossing borders safely, Grin knowing the
 
 It would be unwise to consider Grin's family and tribe allies; he has no idea how they reacted to his leaving, other than knowing it would not have been accepted well. However, his tribe, however secluded, is also old, and deserves some explanation:
 
-     Toothsharp Lineage: Grin's family line, one of 3 in his tribe. They are known for their short tusks, often filed into points.
+  Toothsharp Lineage: Grin's family line, one of 3 in his tribe. They are known for their short tusks, often filed into points.
 
-    Sharp Tribe: Grin grew up in a tribe of orcs that consisted of 3 lineages: Toothsharp, Clawsharp, Axesharp. They liked sharp things. A tribe of no more than 50, they admire bears for their strength and ferocity -- bear wrestling is popular.
+  Sharp Tribe: Grin grew up in a tribe of orcs that consisted of 3 lineages: Toothsharp, Clawsharp, Axesharp. They liked sharp things. A tribe of no more than 50, they admire bears for their strength and ferocity -- bear wrestling is popular.
