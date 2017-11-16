@@ -35,11 +35,11 @@ permalink: /objectives/
 
 - Resolve mysterious happenings in Orlane. (See Ailla)
 
-- Investigate the Hommlet moathouse and it's rumored riches.
-
 - Complete Zera's missions for the 'Music' in Me'uiadra:
   - Deliver letter to Hommlet
   - Reestablish 'Music' in Orlane
+
+- Investigate the Hommlet moathouse and it's rumored riches.
 
 - Learn history of Mealton the Great, who is the subject of a tapestry we found.
   - Where's the dragon's hoard?
