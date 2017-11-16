@@ -3,6 +3,34 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-- Complete a final search through Cragmaw Castle (using Detect Magic), look for basement/dungeon.
-- Return "Flying Eagles" armor and weapon to Sildar in Phandalin (clean and mend beforehand)
-- Deliver message to General Felix from Sildar; confer with Sildar and Cpt. Degas as to when he will pass through Me'uiedra (ask for letter of introduction from Sildar)
+- **Question doppelganger and Gundrend.**
+
+- **Complete a final search through Cragmaw Castle (using Detect Magic), look for basement/dungeon.**
+
+- Return "Flying Eagles" armor and weapons to Sildar in Phandalin. (Clean and mend beforehand)
+
+- Find Gundrand, Turden, and Nundro Rockseeker; they may lead to Wave Echo Cave.
+
+- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Brew hard cider for taphouse?)
+
+- Deliver message to General Felix from Sildar:
+..- Confer with Sildar and Cpt. Degas as to when Gen. Felix will pass through Me'uiedra.
+..- Ask for letter of introduction from Sildar.
+
+- Follow up with report that Quenell Alderleaf's son Carp saw Redbrands near a cave in the woods outside their farm near Phandalin.
+
+- Clear Tresender Manor's basement cavern of necrotic magic. (Take possession of Manor or Sleeping Giant Taphouse?)
+
+- Acquire Augry and Warding Bond material components and a satchel.
+
+- Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin.
+
+- Retrieve Mirna Dendrar's family heirloom from a shop shelf in southeastern Thundertree. (Return to Mirna, she's heading to Drellin's Mill)
+
+- Investigate the Hommlet moathouse.
+
+- Learn history of Mealton the Great, who is the subject of a tapestry we found. (Where's the dragon's hoard?)
+
+- Complete Zera's missions for the 'Music' in Me'uiadra:
+..- Deliver letter to Hommlet
+..- Reestablish 'Music' in Orlane
