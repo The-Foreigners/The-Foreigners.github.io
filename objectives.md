@@ -27,6 +27,8 @@ permalink: /objectives/
 
 - Retrieve Mirna Dendrar's family heirloom from a shop shelf in southeastern Thundertree. (Return to Mirna, she's heading to Drellin's Mill)
 
+- Resolve mysterious happenings in Orlane. (See Ailla)
+
 - Investigate the Hommlet moathouse.
 
 - Learn history of Mealton the Great, who is the subject of a tapestry we found. (Where's the dragon's hoard?)
