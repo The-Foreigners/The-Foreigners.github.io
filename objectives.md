@@ -54,4 +54,4 @@ permalink: /objectives/
 
 - Create a route to take orphans through the southern frontier to half-orc bands.
   - Also use for orc refugees fleeing internal conflict.
-  - Bruglor Axebiter has agree to shelter refugees in the north.
+  - Bruglor Axebiter has agreed to shelter refugees in the north.
