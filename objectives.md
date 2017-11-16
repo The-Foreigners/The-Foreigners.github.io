@@ -50,8 +50,8 @@ permalink: /objectives/
 
 - Find Gringur's father.
 
-- Determine why Zera is marked for death by the thieves’ guild known as “The Neighbors.”
-
 - Create a route to take orphans through the southern frontier to half-orc bands.
   - Also use for orc refugees fleeing internal conflict.
   - Bruglor Axebiter has agree to shelter refugees in the north.
+
+- Determine why Zera is marked for death by the thieves’ guild known as “The Neighbors.”
