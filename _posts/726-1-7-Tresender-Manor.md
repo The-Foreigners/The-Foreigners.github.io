@@ -12,13 +12,12 @@ We escort the freed prisoners out of the cellar dressed in Redbrand cloaks. Near
 
 We take a short rest in the first room where we found the Redbrands. After finishing our short rest, I detect an illusion within the cistern. I pull up on the rope and find a backpack containing 50g, a potion of healing, and a potion of invisibility. See Tresender inscribed on the tombs, and detect necrotic magic on skeletons. We check in on prisoner, thin continue to second storage area that reeks of death. Zera uses his wand of secrets to find the secret door. We walk up the staircase to back secret door to Glasstaff's quarters, he was surprised when we came from his escape route. We briefly talk, Zera tells him we have a package, which he then gives him. He unlocks the package then tells us to leave, but Thayne refuses. Glasstaff attempts to use a scroll of fireball against us but he fails. We silence, hold person, and quickly disable him. We take his spellbook, gag him, and bind him to a chair. The book we delivered was "Kill It And Distill It", and alchemy guide that Zera takes. Find the following letter to Lord Albrek from Black Spider.
 
-***
-> Lord Albrek,
+>Lord Albrek,
 > 
-> My spies in Kuldara tell me that strangers are due to arrive in Phandalin. They could be working for the Dwarves. Capture them if you can, kill them if you must, but don't allow them to upset our plans. See that any dwarven maps in their possession are delivered to me with haste. I'm counting on you. Don't disappoint me.
+>My spies in Kuldara tell me that strangers are due to arrive in Phandalin. They could be working for the Dwarves. Capture them if you can, kill them if you must, but don't allow them to upset our plans. See that any dwarven maps in their possession are delivered to me with haste. I'm counting on you. Don't disappoint me.
 >
-> Black Spider
----
+>Black Spider
+
 Glasstaff is Lord Albrek! We try to secret Glasstaff out and disturb a nothic in the crevasse. We kill the notic and harvest its eye. Below, we find a chest with 120g 160s, 2 potions of healing, scroll of augury, and a longsword inscribed with 'Talon'. Zera recounts that he sword belonged to the head of the household know as Blackhawk.
 
 We load Glasstaff into a barrel and wheel him to the cellar of the Townmaster Hall, and show Sildar the evidence. Sildar is furious at Iarno/Glasstaff. Iarno said he made a deal with the Black Spider so he could remain in charge and prevent the Black Spider from destroying the town. We learn Black Spider is a drow looking for Wave Echo Cave. He tells us that there are four bugbears across the hall from his quarters that the Black Spider sent. Sildar wants Iarno sent to Kuldara to be tried and executed. We convince Sildar he should be Reeve, and give him 'Talon' as symbol of power. We go to speak with Harbin and he is very unhappy with our actions, especially our unauthorized appointing of Reeve and our fight with the Redbrands. We take Harbin around town to convince him otherwise. We talk to the Sister, she has a problem with a banshee in Thundertree and asks if we'll trade a silver comb for a spellbook that belongs to Bowgentle. We talk to Barthis, he recounts the problems with the Redbrands: extortion, disappearance of the carpenter and his wife. Then we take Harbin to Mirna, she recounts the Redbrand atrocities towards her family.
