@@ -6,9 +6,15 @@ permalink: /objectives/
 - **Question doppelganger.**
 
 - **Question Gundrand.**
+  - What where they asking you?
 
 - **Complete a final search through Cragmaw Castle.** (using Detect Magic)
   - Look for basement/dungeon, where are all the spoils the Goblin King was collecting?
+
+- Conduct general business:
+  - Return Beastmaster whip to Grin.
+  - Inventory art objects (value of brazier statue), evaluate gem worth.
+  - Acquire Augry, Warding Bond, and Revivify material components and a satchel.
 
 - Return "Flying Eagles" armor and weapons to Sildar in Phandalin. (Clean and mend beforehand)
 
@@ -26,8 +32,6 @@ permalink: /objectives/
 - Clear Tresender Manor's basement cavern of necrotic magic.
   - Why is a cavern there?
   - Take possession of Manor? (or Sleeping Giant Taphouse?)
-
-- Acquire Augry, Warding Bond, and Revivify material components and a satchel.
 
 - Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin.
 
