@@ -3,10 +3,10 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-- **Question doppelganger.**
-
 - **Question Gundrand.**
   - What where they asking you?
+
+- **Question doppelganger.**
 
 - **Complete a final search through Cragmaw Castle.** (using Detect Magic)
   - Look for basement/dungeon, where are all the spoils the Goblin King was collecting?
