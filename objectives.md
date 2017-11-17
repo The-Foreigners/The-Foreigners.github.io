@@ -17,6 +17,7 @@ permalink: /objectives/
   - Return Beastmaster whip to Grin.
   - Inventory art objects (value of brazier statue), evaluate gem worth.
   - Acquire Augry, Warding Bond, and Revivify material components and a satchel.
+  - Fetch mule and cart in Me'uiedra
 
 - Find Gundrand, Turden, and Nundro Rockseeker; they may lead to Wave Echo Cave. (Magical forge may provide strategic advantage)
 
