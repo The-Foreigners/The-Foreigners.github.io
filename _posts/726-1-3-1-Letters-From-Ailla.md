@@ -24,7 +24,7 @@ The town has two inns! Not even Hommlet, which everyone says is the better of th
 
 Instead we frequent the Slumbering Serpent which is smaller, but very nice. Ollwin the innkeep and his wife Belba were the first to welcome Aelric and I and made us feel at home. They are good people, I hope their inn prospers.
 
-The people here are welcoming and hardworking. We are lucky to live here. But Aelric want more, he is not satisfied mending shoes and pots and pans.
+The people here are welcoming and hardworking. We are lucky to live here. But Aelric wants more, he is not satisfied mending shoes and pots and pans.
 
 Ailla
 
