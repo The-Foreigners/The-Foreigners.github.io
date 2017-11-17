@@ -11,12 +11,12 @@ permalink: /objectives/
 - **Complete a final search through Cragmaw Castle.** (using Detect Magic)
   - Look for basement/dungeon, where are all the spoils the Goblin King was collecting?
 
+- Return "Flying Eagles" armor and weapons to Sildar in Phandalin. (Clean and mend beforehand)
+
 - Conduct general business:
   - Return Beastmaster whip to Grin.
   - Inventory art objects (value of brazier statue), evaluate gem worth.
   - Acquire Augry, Warding Bond, and Revivify material components and a satchel.
-
-- Return "Flying Eagles" armor and weapons to Sildar in Phandalin. (Clean and mend beforehand)
 
 - Find Gundrand, Turden, and Nundro Rockseeker; they may lead to Wave Echo Cave. (Magical forge may provide strategic advantage)
 
