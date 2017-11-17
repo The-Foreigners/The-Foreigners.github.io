@@ -30,6 +30,7 @@ permalink: /objectives/
 - Follow up with report that Quenell Alderleaf's son Carp saw Redbrands near a cave in the woods outside their farm near Phandalin.
 
 - Clear Tresender Manor's basement cavern of necrotic magic.
+  - Return 'wizard' crates to owner
   - Why is a cavern there?
   - Take possession of Manor? (or Sleeping Giant Taphouse?)
 
