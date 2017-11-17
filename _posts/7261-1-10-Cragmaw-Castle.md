@@ -4,7 +4,7 @@ title: Cragmaw Castle
 ---
 We part ways with the orcs in the morning. They head northwest off the trail, and we head southwest in an attempt to take a shortcut. We get lost in the woods for most of the day. Late in the evening we run into a pack of wolves. We killed them all, but then we discover a puppy, Ethor, who Grin adopts after a short animal-speaking conversation.
 
-The next day, the 11th, we eventually find the trail and make it into view of the castle. There are seven towers which are mostly decrepit. There are steps to a terraced entrance with overwatching arrowslits. We reconnoitered around the castle and see a dark canvas covered entry in back.
+The next day, we eventually find the trail and make it into view of the castle. There are seven towers which are mostly decrepit. There are steps to a terraced entrance with overwatching arrowslits. We reconnoitered around the castle and see a dark canvas covered entry in back.
 
 We sneak through back entrance and get a drop on a bugbear arguing with a female drow over a beaten and unconscious dwarf lying on the floor. We knock out the drow and it reverts to its doppelganger form. Find a pack under the bed containing 1020s, 3 potions of healing, and a map to Wave Echo Cave. We decide to clear the rest of the castle. I heal Gundrand Rockseeker and he remains behind to watch the bound captive. He says the map leads back to his brothers, who were still there when he left.
 
