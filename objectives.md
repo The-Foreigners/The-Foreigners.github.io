@@ -34,7 +34,7 @@ permalink: /objectives/
   - Why is a cavern there?
   - Take possession of Manor? (or Sleeping Giant Taphouse?)
 
-- Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin.
+- Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin. (What caused her injuries?)
 
 - Retrieve Mirna Dendrar's family heirloom from a shop shelf in southeastern Thundertree. (Return to Mirna, she's heading to Drellin's Mill)
 
