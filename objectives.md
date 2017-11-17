@@ -4,7 +4,7 @@ title: Current Objectives
 permalink: /objectives/
 ---
 - **Question Gundrand.**
-  - What were they asking you?
+  - ~What were they asking you?~
 
 - **Question doppelganger.**
 
