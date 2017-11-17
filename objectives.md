@@ -9,7 +9,7 @@ permalink: /objectives/
 - **Question doppelganger.**
 
 - **Complete a final search through Cragmaw Castle.** (using Detect Magic)
-  - Look for basement/dungeon, where are all the spoils the Goblin King was collecting?
+  - Look for basement/dungeon, where are all the spoils the King Grol was collecting?
 
 - Return "Flying Eagles" armor and weapons to Sildar in Phandalin. (Clean and mend beforehand)
 
