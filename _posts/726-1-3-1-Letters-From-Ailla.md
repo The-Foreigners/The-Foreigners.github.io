@@ -116,7 +116,7 @@ Ailla
 
 Sorren,
 
-Something is wrong with Aelric. He was gone for a night and I panicked, but Constable Grover assured me he went with some of the menfolk to Farmer Gile's steading a few hours outside of town. But I know this is not true, Farmer Giles left for Hommlet a fortnight ago. His steading sits empty now.
+Something is wrong with Aelric. He was gone for a night and I panicked, but Constable Grover assured me he went with some of the menfolk to Farmer Giles' steading a few hours outside of town. But I know this is not true, Farmer Giles left for Hommlet a fortnight ago. His steading sits empty now.
 
 I never for a moment believed Grover. But somehow I knew I had to pretend I believed, or the Constable would do to me whatever he did to Aelric.
 
