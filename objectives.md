@@ -50,9 +50,6 @@ permalink: /objectives/
   - Where's the dragon's hoard?
   - What caused the fall of Mealton's empire?
 
-- [ ] goal
-- [x] completed
-
 ## Goals
 
 - Find Gringur's father.
