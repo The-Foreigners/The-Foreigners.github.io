@@ -50,7 +50,8 @@ permalink: /objectives/
   - Where's the dragon's hoard?
   - What caused the fall of Mealton's empire?
 
-- ~completed~
+- [ ] goal
+- [x] completed
 
 ## Goals
 
