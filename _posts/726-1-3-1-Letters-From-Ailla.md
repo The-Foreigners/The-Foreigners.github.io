@@ -90,7 +90,7 @@ Then he said the most extraordinary thing. "On the contrary!" he said, and proce
 
 Simon certainly looked cross as that, and I got the distinct impression that whatever Simon had told this man, it was supposed to be secret.  But Primo seemed nice enough, even if unclean.
 
-I went to the temple to ask Rector Abramo about this, and me a young lady instead. Misha, she gave her name. She was cold and distant to me and said Rector Abramo was lost in meditation. I saw Abramo pacing through the temple in the shadows behind her and called out to him, but he didn't respond and Misha asked me to leave.
+I went to the temple to ask Rector Abramo about this, and met a young lady instead. Misha, she gave her name. She was cold and distant to me and said Rector Abramo was lost in meditation. I saw Abramo pacing through the temple in the shadows behind her and called out to him, but he didn't respond and Misha asked me to leave.
 
 I do not like her. Where did she come from?
 
