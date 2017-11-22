@@ -3,34 +3,23 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-- <s>Question doppelganger.<s>
+- Deliver message about orcs to General Felix from Sildar by the 16th in Me'uiedra:
+  - Request papers granting passage through southern frontier.
 
-- <s>Complete a final search through Cragmaw Castle. (using Detect Magic)</s>
-  - <s>Look for basement/dungeon, where are all the spoils the King Grol was collecting?</s>
-
-- <s>Return "Flying Eagles" armor and weapons to Sildar in Phandalin. (Clean and mend beforehand)</s>
+- Find Gundrand, Turden, and Nundro Rockseeker at Wave Echo Cave. (Magical forge may provide strategic advantage)
 
 - Conduct general business:
-  - <s>Return Beastmaster whip to Grin.</s>
-  - <s>Inventory art objects (value of brazier statue), evaluate gem worth.</s>
-  - <s>Acquire Augry, Warding Bond, and Revivify material components</s> and a satchel.
+  - Acquire a satchel.
   - Fetch mule and cart in Me'uiedra
-
-- Find <s>Gundrand</s>, Turden, and Nundro Rockseeker; they may lead to Wave Echo Cave. (Magical forge may provide strategic advantage)
 
 - Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Brew hard cider for taphouse?)
 
-- Deliver message to General Felix from Sildar:
-  - <s>Confer with Sildar as to when Gen. Felix will pass through Me'uiedra.</s> *the 16th*
-  - <s>Ask for letter of introduction from Sildar.</s> *Grin's Flying Eagle brand*
-  - Request papers granting passage through southern frontier.
-
-- Follow up with report that Quenell Alderleaf's son Carp saw Redbrands near a cave in the woods outside their farm near Phandalin.
+- Follow up with report that Quenell Alderleaf's son Carp saw Redbrands near a cave in the woods outside their farm near Phandalin (Maybe inform Sildar).
 
 - Clear Tresender Manor's basement cavern of necrotic magic.
   - Return 'wizard' crates to owner
-  - Why is a cavern there?
-  - <s>Take possession of Manor?</s> *Will take 75 days and 13,000g for Barthin to rebuild* (or Sleeping Giant Taphouse?)
+  - The cavern lead to a tunnel leading out of the rear clifface, may need to secure.
+  - It will take 75 days and 13,000g for Barthin to rebuild.
 
 - Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin. (What caused her injuries?)
 
