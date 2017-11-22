@@ -4,9 +4,11 @@ title: Current Objectives
 permalink: /objectives/
 ---
 - Deliver message about orcs to General Felix from Sildar by the 16th in Me'uiedra:
+  - Show Grin's Flying Eagle brand to Sothas, the booze-ooze in the inn.
   - Request papers granting passage through southern frontier.
 
 - Find Gundrand, Turden, and Nundro Rockseeker at Wave Echo Cave. (Magical forge may provide strategic advantage)
+  - Gundrand is expecting our arrival by the 19th.
 
 - Conduct general business:
   - Pay for Gundrand's provisions.
