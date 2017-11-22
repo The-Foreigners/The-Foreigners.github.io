@@ -3,7 +3,7 @@ layout: post
 title: Questioning Vyerith
 ---
 
-We awake, and after some compelling begin our questioning of our prisoner within a Zone of Truth (an answer after a failed save will be italisized):
+We awake, and after some compelling begin our questioning of our prisoner within a Zone of Truth (an answer after a failed save will be italicized):
 
 **Who are you?** I forget the original, I've had so many names.
 
@@ -63,7 +63,7 @@ We awake, and after some compelling begin our questioning of our prisoner within
 
 **What humans?** Glasstaff and his buddies.
 
-**Does Black Spider know what happended to Glasstaff?** No.
+**Does Black Spider know what happened to Glasstaff?** No.
 
 **Did you interact with Glasstaff?** *Occasionally.*
 
@@ -95,11 +95,11 @@ We awake, and after some compelling begin our questioning of our prisoner within
 
 **How long does it take to get there?** About a day.
 
-**Do you plan on killing us if we let you go?** Not if I don't have to, but there are any number of reasons too...attack me again.
+**Do you plan on killing us if we let you go?** Not if I don't have to, but there are any number of reasons to...attack me again.
 
 
 We return to Phandalin with Gundrand and Vyerith. Head to Townmaster hall and Sildar to have Vyerith imprisoned. Inform Sildar that King Grol is dead, and return him is armor and weapons. When I asked for a letter of introduction to Gen. Felix Sildar branded Grin with a Flying Eagle scar. We should show the scar to Sothas, the booze-ooze in the inn, and he'll direct us from there. However, we only have four days til Gen. Felix passes through Me'uiedra on the 16th.
 
 We do some general housekeeping business. We also register the manor in our name, it will take 75 days and 13,000g to rebuild.
 
-We try to convience Gundrand to stay and await our return, but he refuses. We do convience him to go and scout out the cave and wait for us there, and we offer to provision him. He tells us that to get to Wave Echo Cave, travel east from Phandalin to the Duke's Defenses. We will cross over a mountain with a lake, from there head north over two mountains. In the final valley there is a cavern to the east.
+We try to convince Gundrand to stay and await our return, but he refuses. We do convince him to go and scout out the cave and wait for us there, and we offer to provision him. He tells us that to get to Wave Echo Cave, travel east from Phandalin to the Duke's Defenses. We will cross over a mountain with a lake, from there head north over two mountains. In the final valley there is a cavern to the east.
