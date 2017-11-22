@@ -3,7 +3,7 @@ layout: post
 title: Questioning Vyerith
 ---
 
-We awake, and after some compelling begin our questioning of our prisoner within a Zone of Truth (an answer after a failed save will be italicized):
+We awake, and after some compelling begin our questioning of our prisoner within a Zone of Truth (a successful save will be italicized):
 
 **Who are you?** I forget the original, I've had so many names.
 
