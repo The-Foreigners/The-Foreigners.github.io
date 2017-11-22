@@ -3,29 +3,26 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-- **Question Gundrand.**
-  - What were they asking you?
+- <s>Question doppelganger.<s>
 
-- **Question doppelganger.**
+- <s>Complete a final search through Cragmaw Castle. (using Detect Magic)<s>
+  - <s>Look for basement/dungeon, where are all the spoils the King Grol was collecting?<s>
 
-- **Complete a final search through Cragmaw Castle.** (using Detect Magic)
-  - Look for basement/dungeon, where are all the spoils the King Grol was collecting?
-
-- Return "Flying Eagles" armor and weapons to Sildar in Phandalin. (Clean and mend beforehand)
+- <s>Return "Flying Eagles" armor and weapons to Sildar in Phandalin. (Clean and mend beforehand)<s>
 
 - Conduct general business:
-  - Return Beastmaster whip to Grin.
-  - Inventory art objects (value of brazier statue), evaluate gem worth.
-  - Acquire Augry, Warding Bond, and Revivify material components and a satchel.
+  - <s>Return Beastmaster whip to Grin.<s>
+  - <s>Inventory art objects (value of brazier statue), evaluate gem worth.<s>
+  - <s>Acquire Augry, Warding Bond, and Revivify material components<s> and a satchel.
   - Fetch mule and cart in Me'uiedra
 
-- Find Gundrand, Turden, and Nundro Rockseeker; they may lead to Wave Echo Cave. (Magical forge may provide strategic advantage)
+- Find <s>Gundrand<s>, Turden, and Nundro Rockseeker; they may lead to Wave Echo Cave. (Magical forge may provide strategic advantage)
 
 - Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Brew hard cider for taphouse?)
 
 - Deliver message to General Felix from Sildar:
-  - Confer with Sildar and Cpt. Degas as to when Gen. Felix will pass through Me'uiedra.
-  - Ask for letter of introduction from Sildar.
+  - <s>Confer with Sildar as to when Gen. Felix will pass through Me'uiedra.<s> The 16th
+  - <s>Ask for letter of introduction from Sildar.<s>
   - Request papers granting passage through southern frontier.
 
 - Follow up with report that Quenell Alderleaf's son Carp saw Redbrands near a cave in the woods outside their farm near Phandalin.
@@ -33,7 +30,7 @@ permalink: /objectives/
 - Clear Tresender Manor's basement cavern of necrotic magic.
   - Return 'wizard' crates to owner
   - Why is a cavern there?
-  - Take possession of Manor? (or Sleeping Giant Taphouse?)
+  - <s>Take possession of Manor?<s> (or Sleeping Giant Taphouse?)
 
 - Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin. (What caused her injuries?)
 
