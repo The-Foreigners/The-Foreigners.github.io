@@ -19,9 +19,10 @@ permalink: /objectives/
 
 - Follow up with report that Quenell Alderleaf's son Carp saw Redbrands near a cave in the woods outside their farm near Phandalin (Maybe inform Sildar).
 
-- Clear Tresender Manor's basement cavern of necrotic magic.
-  - Return 'wizard' crates to owner
-  - The cavern lead to a tunnel leading out of the rear clifface, may need to secure.
+- Manage Tresender Manor: 
+  - Clear basement cavern of necrotic magic.
+  - Return 'wizard' crates to owner.
+  - Secure tunnel leading out of the cavern to the rear cliff face.
   - It will take 75 days and 13,000g for Barthin to rebuild.
 
 - Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin. (What caused her injuries?)
