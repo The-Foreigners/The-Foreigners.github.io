@@ -11,7 +11,7 @@ We awake, and after some compelling begin our questioning of our prisoner within
 
 **What do you know about Black Spider?** A lot....want's Gundrand dead.
 
-**Is Black Spider a doppelganger?** Never seen him in another form than a drow.
+**Is Black Spider a doppelganger?** Never seen him in another form other than a drow.
 
 **Are you confident that Black Spider is not a doppelganger and is a drow?** ...
 
