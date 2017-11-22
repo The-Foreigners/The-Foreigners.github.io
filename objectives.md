@@ -23,7 +23,7 @@ permalink: /objectives/
   - Clear basement cavern of necrotic magic.
   - Return 'wizard' crates to owner.
   - Secure tunnel leading out of the cavern to the rear cliff face.
-  - It will take 75 days and 13,000g for Barthin to rebuild.
+  - Barthin quoted 75 days and 13,000g to rebuild.
 
 - Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin. (What caused her injuries?)
 
