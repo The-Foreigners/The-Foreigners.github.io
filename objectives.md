@@ -9,6 +9,7 @@ permalink: /objectives/
 - Find Gundrand, Turden, and Nundro Rockseeker at Wave Echo Cave. (Magical forge may provide strategic advantage)
 
 - Conduct general business:
+  - Pay for Gundrand's provisions.
   - Acquire a satchel.
   - Fetch mule and cart in Me'uiedra
 
