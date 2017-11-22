@@ -7,9 +7,7 @@ permalink: /objectives/
   - Show Grin's Flying Eagle brand to Sothas, the booze-ooze in the inn.
   - Request papers granting passage through southern frontier.
 
-- Find Gundrand, Turden, and Nundro Rockseeker at Wave Echo Cave.
-  - Gundrand is expecting our arrival by the 19th.
-  - Magical forge may provide strategic advantage.
+- Find Gundrand, Turden, and Nundro Rockseeker at Wave Echo Cave. (Gundrand is expecting us by the 19th)
 
 - Conduct general business:
   - Pay for Gundrand's provisions.
