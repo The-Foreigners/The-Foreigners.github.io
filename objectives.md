@@ -13,8 +13,12 @@ permalink: /objectives/
   - Pay for Gundrand's provisions.
   - Acquire a satchel.
   - Fetch mule and cart in Me'uiedra
+  
+- Resolve mysterious happenings in Orlane. (See Ailla)
 
-- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Brew hard cider for taphouse?)
+- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. 
+  - Provide apples to brew hard cider (for taphouse?)
+  - Is he a good source of creature lore?
 
 - Follow up with report that Quenell Alderleaf's son Carp saw Redbrands near a cave in the woods outside their farm near Phandalin (Maybe inform Sildar).
 
@@ -29,8 +33,6 @@ permalink: /objectives/
 - Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin. (What caused her injuries?)
 
 - Retrieve Mirna Dendrar's family heirloom from a shop shelf in southeastern Thundertree. (Return to Mirna, she's heading to Drellin's Mill)
-
-- Resolve mysterious happenings in Orlane. (See Ailla)
 
 - Complete Zera's missions for the 'Music' in Me'uiadra:
   - Deliver letter to Hommlet
