@@ -6,8 +6,9 @@ permalink: /objectives/
 - Deliver message about orcs to General Felix from Sildar by the 16th in Me'uiedra:
   - Show Grin's Flying Eagle brand to Sothas, the booze-ooze in the inn.
   - Request papers granting passage through southern frontier.
+  - Ask around town about Orlane. (Tell Felix? Don't want more victims.)
 
-- Find Gundrand, Turden, and Nundro Rockseeker at Wave Echo Cave. (Gundrand is expecting us by the 19th)
+- Defeat Black Spider and save Rockseekers at Wave Echo Cave. (Gundrand is expecting us by the 19th)
 
 - Conduct general business:
   - Pay for Gundrand's provisions.
