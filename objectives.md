@@ -20,6 +20,7 @@ permalink: /objectives/
   - Deliver message about orcs to General Felix from Sildar by the 16th.
     - Show Grin's Flying Eagle brand to Sothas, the booze-ooze in the inn.
     - Request papers granting passage through southern frontier.
+    - Confirm Glasstaff's imprisonment with Cpt. Degas.
   - Ask around town about Orlane. (Tell Felix? Don't want more victims.)
   - Check in with Father William. 
     - Any more mail from Ailla? 
