@@ -4,7 +4,7 @@ title: Current Objectives
 permalink: /objectives/
 ---
 - Trim loose ends before departing Phandalin.
-  - Pay for Gundrand's provisions, acquire a satchel.
+  - Pay for Gundrand's provisions.
   - Can Sildar question Vyerith?
     - Why was he trying to lure us to Thundertree? 
     - What defenses should we expect at Wave Echo Cave?
@@ -13,6 +13,8 @@ permalink: /objectives/
   - Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. 
     - Provide apples to brew hard cider (for taphouse?)
     - Is he a good source of creature lore?
+    
+- Conduct inventory, purchase equipment. (satchel, holy water)
 
 - Travel to Me'uiedra by the 16th.
   - Deliver message about orcs to General Felix from Sildar by the 16th.
@@ -22,6 +24,7 @@ permalink: /objectives/
   - Check in with Father William. 
     - Any more mail from Ailla? 
     - Can messenger escort Ailla here?
+    - Can he provide holy water to use against undead in W.E.C.?
   - Fetch mule and cart.
   - Check in with the 'Music'.
     - Confirm delivery to Glasstaff
