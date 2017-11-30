@@ -3,33 +3,39 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-- Deliver message about orcs to General Felix from Sildar by the 16th in Me'uiedra:
-  - Show Grin's Flying Eagle brand to Sothas, the booze-ooze in the inn.
-  - Request papers granting passage through southern frontier.
+- Trim loose ends before departing Phandalin.
+  - Pay for Gundrand's provisions, acquire a satchel.
+  - Can Sildar question Vyerith?
+    - Why was he trying to lure us to Thundertree? 
+    - What defenses should we expect at Wave Echo Cave?
+    - What are Black Spider's capabilties/weaknesses?
+  - Inform Sildar that Quenell Alderleaf's son Carp saw Redbrands near a cave in the woods outside their farm.
+  - Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. 
+    - Provide apples to brew hard cider (for taphouse?)
+    - Is he a good source of creature lore?
+
+- Travel to Me'uiedra by the 16th.
+  - Deliver message about orcs to General Felix from Sildar by the 16th.
+    - Show Grin's Flying Eagle brand to Sothas, the booze-ooze in the inn.
+    - Request papers granting passage through southern frontier.
   - Ask around town about Orlane. (Tell Felix? Don't want more victims.)
+  - Check in with Father William. 
+    - Any more mail from Ailla? 
+    - Can messenger escort Ailla here?
+  - Fetch mule and cart.
+  - Check in with the 'Music'.
+    - Confirm delivery to Glasstaff
+    - Inquire about mission to Orlane
 
 - Defeat Black Spider and save Rockseekers at Wave Echo Cave. (Gundrand is expecting us by the 19th)
-
-- Conduct general business:
-  - Pay for Gundrand's provisions.
-  - Acquire a satchel.
-  - Fetch mule and cart in Me'uiedra
   
 - Resolve mysterious happenings in Orlane. (See Ailla)
-
-- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. 
-  - Provide apples to brew hard cider (for taphouse?)
-  - Is he a good source of creature lore?
-
-- Follow up with report that Quenell Alderleaf's son Carp saw Redbrands near a cave in the woods outside their farm near Phandalin (Maybe inform Sildar).
 
 - Manage Tresender Manor: 
   - Clear basement cavern of necrotic magic.
   - Return 'wizard' crates to owner.
   - Secure tunnel leading out of the cavern to the rear cliff face.
   - Barthin quoted 75 days and 13,000g to rebuild.
-
-- Why was Vyerith trying to lure us to Thundertree?
 
 - Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin. (What caused her injuries?)
 
