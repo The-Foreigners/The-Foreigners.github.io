@@ -44,3 +44,16 @@ By the time he reached his late teens, Zera had long since grown to regret his p
 While named after an ancient devil lord that the Themeros family claims to be descended from, Zera holds no more love for his devilish ancestry than he does for his immediate family. For example, he learned Infernal out of necessity, but also chose to study the Celestial language out of respect and love for its beauty (as well as some spiteful defiance). Bloodlines matter little to him, and he would prefer to think that they have little impact on a person's power or virtue, despite his own sorcerous powers and subconscious biases.
 
 Zera has few allies outside of his travelling party. His connection to his wealthy and decently influential family is dubious at best. After all, it was only after delivering their letter that he started to be hunted. Speaking of which, those hunting him are the Haldinia-based group known as The Neighbors. One of the 3 most influential criminal organizations in the kingdom, they appear to have placed a fairly substantial bounty on Zera's head, making conspicuous work risky.
+
+## Atticus Rex
+#### Warlock - Human
+
+Atticus was abandoned at a young age, an unwanted bastard child, the result of a king's indiscretion. He was discovered and raised by a small clan of high elves. He quickly developed a deep respect for the deity Selune, his adopted family members, and greatly venerated all knowledge and natural life.
+
+Sadly, one summer night under the darkness that accompanies a new moon, Atticus' elven clan was sacked under the cover of darkness by unknown forces. Atticus hid, unable to render aid, as he remained blinded by the darkness. His caretakers were brutally masacred one by one, as Atticus was forced to hear their screams of agony, until finally the last was snuffed out, and all that remained was an eternal silence: Atticus was once again alone.
+
+Atticus began to sob, crying out in the darkness. Tearing his robe, he deeply mourned his beloved fallen. His cries of distress were soon met by a shadowy figure lurking in the darkness, exuding a calm female voice. "Hold no pity for those who suffer and die, for death is only the natural end to life."
+
+These tiding brought a strange comfort to Atticus, and a bargain was immediately struck with the Raven Queen. "Travel to the far reaches of this material plane. Accomplish grandiose deeds and bring glory and honor all in my name. In return, you shall never fear darkness again, but instead grow to know its power. Arise, my Raven Knight!"
+
+Atticus gathered his belongings, as well as his resolve, and began to travel west. Always west. Atticus hoped that by countering the motion of the sun in the sky, he would maximize the hours of darkness, while simultaneously basking in the familiar warmth of Selune's moonbeams...
