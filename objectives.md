@@ -8,7 +8,7 @@ permalink: /objectives/
   - Fetch mule and cart.
 
 - Defeat Black Spider and save Rockseekers at Wave Echo Cave. (Gundrand is expecting us by the 19th)
-  - Did Sildar interrogate Vyerith?
+  - What answers did Sildar get interrogating Vyerith?
     - Why was he trying to lure us to Thundertree? 
     - What defenses should we expect at Wave Echo Cave?
     - What are Black Spider's capabilties/weaknesses?
@@ -18,7 +18,7 @@ permalink: /objectives/
   
 - Resolve mysterious happenings in Orlane. (See Ailla)
 
-- Gather intelligence on orc numbers, movements, etc. for Gen. Felix.
+- Gather intelligence on orc numbers, movements, gather material, capture orc captives for Gen. Felix and Cpt. Thayne.
 
 - Manage Tresender Manor: 
   - Clear basement cavern of necrotic magic.
