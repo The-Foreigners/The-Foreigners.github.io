@@ -3,18 +3,8 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-- Complete business in Me'uiedra.
-  - Acquire scrying focus from Thayne.
-  - Purchase chalk (post-it flags), inventory adventuring gear (what are we missing?).
-  - Fetch mule and cart.
-  - Ask Brice about his grandfather and Mealton.
-
-- What answers did Sildar get interrogating Vyerith?
-    - Why was he trying to lure us to Thundertree? 
-    - What defenses should we expect at Wave Echo Cave?
-    - What are Black Spider's capabilties/weaknesses
-
 - Defeat Black Spider and save Rockseekers at Wave Echo Cave. (Gundrand is expecting us by the 19th)
+  - Search goblin corpses outside of cave.
   
 - Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. 
   - Is he a good source of lore?
@@ -41,6 +31,7 @@ permalink: /objectives/
 - Learn history of Mealton the Great, who is the subject of a tapestry we found.
   - Where's the dragon's hoard?
   - What caused the fall of Mealton's empire?
+  - Brice, one of Felix's men, had a grandfather that served in Mealton's army.
 
 ## Goals
 
