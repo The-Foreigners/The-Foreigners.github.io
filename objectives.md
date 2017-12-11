@@ -5,6 +5,7 @@ permalink: /objectives/
 ---
 - Defeat Black Spider and save Rockseekers at Wave Echo Cave. (Gundrand is expecting us by the 19th)
   - Search goblin corpses outside of cave.
+  - Investigate statue.
   
 - Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. 
   - Is he a good source of lore?
