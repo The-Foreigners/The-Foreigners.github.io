@@ -8,11 +8,12 @@ permalink: /objectives/
   - Investigate statue.
   - Find Nundro Rockseeker.
   
-- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Source for lore?)
+- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Potential source for lore?)
   
 - Resolve mysterious happenings in Orlane. (See Ailla)
 
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
+  - Who is (Red Hand) General Nyett Toothsharp?
 
 - Manage Tresender Manor: 
   - Clear basement cavern of necrotic magic.
