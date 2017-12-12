@@ -8,8 +8,7 @@ permalink: /objectives/
   - Investigate statue.
   - Find Nundro Rockseeker.
   
-- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. 
-  - Is he a good source of lore?
+- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Source for lore?)
   
 - Resolve mysterious happenings in Orlane. (See Ailla)
 
