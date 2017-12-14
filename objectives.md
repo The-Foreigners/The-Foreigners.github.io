@@ -12,8 +12,7 @@ permalink: /objectives/
   
 - Resolve mysterious happenings in Orlane. (See Ailla)
 
-- Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
-  - Who is (Red Hand) General Nyett Toothsharp?
+- Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. (Who is Nyett Toothsharp?)
 
 - Manage Tresender Manor: 
   - Clear basement cavern of necrotic magic.
