@@ -1,3 +1,7 @@
+---
+layout: post
+title: Wave Echo Cave
+---
 After a night at the inn, Jorsola arrives delivering an order of 'Barrelbands'. She says she's upset that we didn't tell her we were in town. We head north, camping on the trail through an uneventful evening. The next day we are ambushed by seven Cragmaw goblins while on the trail to Phandalin. 
 
 We arrive in Phandalin on the 18th, and decide to spend the night at the inn. Sildar comes into the tavern to have a pint looking a bit disturbed by the interogation of Vyerith. He tells us that he was just trying to throw us off by luring us into Thundertree, hoping that something would eat us. He says that Black Spider can cast and can fight and that Black Spider only took his personal guard to Wave Echo Cave. Sildar is waiting for the next patrol to send Vyerith on his way. He also says that he's expecting someone new in the Miner's Exchange in a week or so. About the tavern we hear rumors of a mine to the northeast that may strike gold.
