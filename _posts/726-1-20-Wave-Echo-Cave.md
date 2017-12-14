@@ -8,7 +8,7 @@ We arrive in Phandalin on the 18th, and decide to spend the night at the inn. Si
 
 On the 19th, we leave the cart at the manor and head to Wave Echo Cave. We make it to the valley and meet with Gundrand where he leads us to his camp. He reports that the cave has been quiet. There have been large quantities of goblins; groups of 20 to 50 in size. Two days ago there was a large commotion with sounds of fighting. The next day he investigated and found lots of dead goblins with slashing and arrow wounds, but nothing else amongst the dead.
 
-We camp the night, relieving Gundrand of his watch. The next day we convince Gundrand to watch the entrance to make sure nothing surprise us and to wait for his brothers. Entering the cave we can hear a light wave crashing noise. In the antechamber, we find a corpse of a dwarf with sticky webbing and blunt force trauma. We message Gundrand and he rushed in identifying Thurden.
+We camp the night, relieving Gundrand of his watch. The next day we convince Gundrand to watch the entrance to make sure nothing surprises us and to wait for his brothers. Entering the cave we can hear a light wave crashing noise. In the antechamber, we find a corpse of a dwarf with sticky webbing and blunt force trauma. We message Gundrand and he rushed in identifying Thurden on whom I cast gentle repose.
 
 We delve deeper into the cave, usually following the left passage way. In pool of water we find a skeleton with two platinum rings and a wand of magic missiles. Find a room with five bugbears which we defeat. Eventually enter a room with a dwarven statue and a camp of six or so bedrolls, two bugbears, four spiders, and a drow...Black Spider.
 
