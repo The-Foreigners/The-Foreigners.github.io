@@ -16,6 +16,7 @@ permalink: /objectives/
 
 - Manage Tresender Manor: 
   - Clear basement cavern of necrotic magic.
+  - Reinter skeletons.
   - Return 'wizard' crates to owner.
   - Secure tunnel leading out of the cavern to the rear cliff face.
   - Barthin quoted 75 days and 13,000g to rebuild.
