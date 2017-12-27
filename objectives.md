@@ -6,7 +6,7 @@ permalink: /objectives/
 - Explore Wave Echo Cave and find magic forge.
   - Search goblin corpses outside of cave. (What killed them?)
   - Investigate statue.
-  - Find Nundro Rockseeker.
+  - Investigate rock pile bugbears were digging in.
   
 - Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Potential source for lore?)
   
