@@ -4,7 +4,7 @@ title: Current Objectives
 permalink: /objectives/
 ---
 - Explore Wave Echo Cave and find magic forge.
-  - Search goblin corpses outside of cave. (Who are the 'Whip' goblins? Talk with Dead.)
+  - Who, what, where, etc. are the 'Whip' goblins? Speak with Dead.
   - Investigate statue.
   - Investigate rock pile bugbears were digging in.
   
