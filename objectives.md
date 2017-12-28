@@ -4,15 +4,13 @@ title: Current Objectives
 permalink: /objectives/
 ---
 - Explore Wave Echo Cave and find magic forge.
-  - Search goblin corpses outside of cave. (What killed them?)
+  - Search goblin corpses outside of cave. (Who are the 'Whip' goblins? Talk with Dead.)
   - Investigate statue.
   - Investigate rock pile bugbears were digging in.
   
 - Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Potential source for lore?)
   
 - Resolve mysterious happenings in Orlane. (See Ailla)
-
-- Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. (Who is Nyett Toothsharp?)
 
 - Manage Tresender Manor: 
   - Clear basement cavern of necrotic magic.
@@ -21,11 +19,13 @@ permalink: /objectives/
   - Secure tunnel leading out of the cavern to the rear cliff face.
   - Barthin quoted 75 days and 13,000g to rebuild.
 
+- Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. (Who is Nyett Toothsharp?)
+
 - Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin.
   - Who, what, where, etc. about banshee?
-  - What caused her injuries?
-  - What hazards are there? 
-  - Why was the doppelganger trying to lure us there?
+  - What caused Sister Garaelle's injuries?
+  - What hazards are there in Thundertree? 
+  - Why was the doppelganger trying to lure us to Thundertree (Is it a trap)?
 
 - Retrieve Mirna Dendrar's family heirloom from a shop shelf in southeastern Thundertree. (Return to Mirna, she's heading to Drellin's Mill)
 
