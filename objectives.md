@@ -21,7 +21,11 @@ permalink: /objectives/
   - Secure tunnel leading out of the cavern to the rear cliff face.
   - Barthin quoted 75 days and 13,000g to rebuild.
 
-- Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin. (What caused her injuries?)
+- Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin.
+  - Who, what, where, etc. about banshee?
+  - What caused her injuries?
+  - What hazards are there? 
+  - Why was the doppelganger trying to lure us there?
 
 - Retrieve Mirna Dendrar's family heirloom from a shop shelf in southeastern Thundertree. (Return to Mirna, she's heading to Drellin's Mill)
 
