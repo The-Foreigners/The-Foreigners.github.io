@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wave Echo Cave Continued
+title: Wave Echo Cave, Continued
 ---
 We continue to the rooms behind the chamber with Black Spider and find Nundro. He tells us that Black Spider killed his brother. Black Spider went room to room trying to get more information. We escort Nundro back to the entrance, and the brothers are happy to see each other. We convince the brothers to camouflage the cave entrance.
 
