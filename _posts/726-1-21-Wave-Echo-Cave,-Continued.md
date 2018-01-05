@@ -11,3 +11,13 @@ We circle back to the entry, and work our way into a large hall filled with dwar
 The following dawn, we approach the battlefield. We see goblins 50 to 100 on either side fighting. There are two banners, a multicolored whip, and the Cragmaw. The Cragmaw fall, with the Whip losing a third of their number with 40-50 remaining. We then sneak our way back to the cavern.
 
 Continuing down the right pathway we are attacked by stirges. We clear a few rooms and eventually make it to the furnace. There we find a flame skull and eight zombies.
+
+--- 
+
+We continue to the ravine and investigate the rock pile with 'Detect Magic' and find a pair of gauntlets. Returning to the furnace to investigate the flame skull reformed. After re-defeating the flame skull, I detect a magical aura on the skull which I dispel. We head to the front rooms we skipped, find the barracks with eight skeletons and the office with a strong box containing 80g 280s 600c. We take a short rest and identify the Gauntlets of Ogre Power which we give to Atticus.
+
+Going forward we run through a mushroom cave with poisonous spores. We enter a large cavern with two buildings. In the first building we meet Moremusk, an incorporeal entity, that was here when the mine fell. He tells us that the orcs and goblins made it this far in battle, the furnace was damaged in battle, and that the forge still stands and may possibly be functional.
+
+In Moremusk's room there was a bookshelf. Found a book on the fall of the Dwarven empire Oranus that pierece into the underdark and was overrun by drow displacing the dwarfs to the Navashu moutain range. Found a book on Mealton the Great tells the story of his conquering the known world of Pallaria from Orum to Oranus, from Kroll to Kalanzabar. However, there was no indiciation of the cause of the Great Cataclysm. I also find a map of Elsyr Vale that outlines the Witchwood and marks the location of Varrath Keep, and says something about a great treasure there. I trade an augury scroll for the map.
+
+Moremusk escorts us to the forge where we find a creature with four eye stalks and one big eye, and Moremusk flees. After defeating the creature we find a mace and a breastplate. We return to Moremusk, and he attacks. Afterwards, we find a in his chest 25g 160s 1100c, three diamonds worth 100g, and a wooden pipe with platinum filligree worth 150g.
