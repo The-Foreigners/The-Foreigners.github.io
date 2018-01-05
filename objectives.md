@@ -6,6 +6,7 @@ permalink: /objectives/
 - Explore Wave Echo Cave and find magic forge.
   - Who, what, where, etc. are the 'Whip' goblins? Speak with Dead.
   - Investigate statue.
+  - Collect Moremusk's books.
   
 - Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Potential source for lore?)
   
