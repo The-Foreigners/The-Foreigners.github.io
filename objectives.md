@@ -38,7 +38,7 @@ permalink: /objectives/
 
 - Learn history of Mealton the Great, who is the subject of a tapestry we found.
   - Where's the dragon's hoard?
-  - What caused the fall of Mealton's empire?
+  - What caused the fall of Mealton's empire, the Great Cataclysm?
   - Brice, one of Felix's men, had a grandfather that served in Mealton's army.
 
 ## Goals
