@@ -6,7 +6,6 @@ permalink: /objectives/
 - Explore Wave Echo Cave and find magic forge.
   - Who, what, where, etc. are the 'Whip' goblins? Speak with Dead.
   - Investigate statue.
-  - Investigate rock pile bugbears were digging in.
   
 - Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Potential source for lore?)
   
@@ -21,11 +20,13 @@ permalink: /objectives/
 
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. (Who is Nyett Toothsharp?)
 
+- Secure and explore Varrath Keep in the Witchwood of Elsyr Vale. (See map)
+
 - Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin.
   - Who, what, where, etc. about banshee?
   - What caused Sister Garaelle's injuries?
   - What hazards are there in Thundertree? 
-  - Why was the doppelganger trying to lure us to Thundertree (Is it a trap)?
+  - Why was the doppelganger trying to lure us to Thundertree (Is it a trap?)
 
 - Retrieve Mirna Dendrar's family heirloom from a shop shelf in southeastern Thundertree. (Return to Mirna, she's heading to Drellin's Mill)
 
