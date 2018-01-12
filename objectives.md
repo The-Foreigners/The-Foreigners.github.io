@@ -16,6 +16,7 @@ permalink: /objectives/
 
 - Monitor progress of Rockseeker brothers restarting magic forge in Wave Echo Cave.
   - Will maintain contact through Father William
+  - Explore the underground 'ocean'.
   
 - Manage Tresender Manor: 
   - Thanye sent funds to secure cave entrance.
