@@ -11,7 +11,7 @@ permalink: /objectives/
   - Acquire 'Clairvoyance' components. Use to observe Golden Grain tavern.
   - Is there an authority over Orlane that we can report to or may provide material support?
   - Where should we establish a base camp? 
-    - In the woods or abandoned farm house outside of town or at Ailla's? 
+    - In the woods or abandoned farm house outside of town? At Ailla's? 
     - Should we hire guards?
   
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
