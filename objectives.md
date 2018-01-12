@@ -3,31 +3,29 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-- Explore Wave Echo Cave and find magic forge.
-  - Who, what, where, etc. are the 'Whip' goblins? Speak with Dead.
-  - Investigate statue.
-  - Collect Moremusk's books.
-  
-- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Potential source for lore?)
-  
 - Resolve mysterious happenings in Orlane. (See Ailla)
+  - People are being altered, changelings can be identified by fang bites.
 
-- Manage Tresender Manor: 
-  - Clear basement cavern of necrotic magic.
-  - Reinter skeletons.
-  - Return 'wizard' crates to owner.
-  - Secure tunnel leading out of the cavern to the rear cliff face.
-  - Barthin quoted 75 days and 13,000g to rebuild.
+- Secure and explore Vradth Keep in the Witchwood of Elsyr Vale.
+  - See map, and read "The Rise and Fall of Rhestilor"
 
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. (Who is Nyett Toothsharp?)
 
-- Secure and explore Varrath Keep in the Witchwood of Elsyr Vale. (See map)
+- Monitor progress of Rockseeker brothers restarting magic forge in Wave Echo Cave.
+  - Will maintain contact through Father William
+  
+- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Potential source for lore?)
 
-- Trade silver comb for Bowgentle's spellbook with a banshee in Thundertree for Sister Garaelle in Phandalin.
-  - Who, what, where, etc. about banshee?
-  - What caused Sister Garaelle's injuries?
-  - What hazards are there in Thundertree? 
-  - Why was the doppelganger trying to lure us to Thundertree (Is it a trap?)
+- Manage Tresender Manor: 
+  - Thanye sent funds to secure cave entrance.
+  - Barthin quoted 75 days and 13,000g to rebuild.
+    - Paid 500g to rebuild roof over library.
+  - Build library and conduct research.
+    - Recovered 62 books from Mormusk's chambers in Wave Echo Cave.
+
+- Determine whereabouts of Sister Garaelle from Phandalin, she's been missing and presumed dead.
+  - Was attempting to trade a small bag of jewels for Bowgentle's spellbook with Agatha, a banshee in Thundertree.
+    - We were given a silver comb for the trade.
 
 - Retrieve Mirna Dendrar's family heirloom from a shop shelf in southeastern Thundertree. (Return to Mirna, she's heading to Drellin's Mill)
 
