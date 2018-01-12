@@ -3,11 +3,15 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-- Resolve mysterious happenings in Orlane.
-  - Acquire 'Clairvoyance' components. Use to observe Golden Grain Inn.
-  - See letters from Ailla.
+ 
+- Resolve mysterious happenings in Orlane, see letters from Ailla.
+  - Should we 'send' message to Ailla?
   - People are being altered, changelings can be identified by fang bites on the neck.
-
+    - Buy manacles, capture target, determine effect: Detect Magic, Poison & Disease, Evil.
+  - Acquire 'Clairvoyance' components. Use to observe Golden Grain tavern.
+  - Is there an authority over Orlane that we can report to or may provide material support?
+  - Establish base camp in woods or abandoned farm house outside of town or at Ailla's? Hire guards?
+  
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
   - Who is Nyett Toothsharp?
 
