@@ -4,7 +4,7 @@ title: Current Objectives
 permalink: /objectives/
 ---
 - Resolve mysterious happenings in Orlane.
-  - Acquire 'Clairvoyance' components. Possibly observe Golden Grain Inn?
+  - Acquire 'Clairvoyance' components. Use to observe Golden Grain Inn.
   - See letters from Ailla.
   - People are being altered, changelings can be identified by fang bites on the neck.
 
