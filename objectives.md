@@ -3,19 +3,20 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-- Resolve mysterious happenings in Orlane. (See Ailla)
+- Resolve mysterious happenings in Orlane. 
+  - See letters from Ailla.
   - People are being altered, changelings can be identified by fang bites.
+
+- Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. (Who is Nyett Toothsharp?)
 
 - Secure and explore Vradth Keep in the Witchwood of Elsyr Vale.
   - See map, and read "The Rise and Fall of Rhestilor"
 
-- Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. (Who is Nyett Toothsharp?)
+- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Potential source for lore?)
 
 - Monitor progress of Rockseeker brothers restarting magic forge in Wave Echo Cave.
   - Will maintain contact through Father William
   
-- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Potential source for lore?)
-
 - Manage Tresender Manor: 
   - Thanye sent funds to secure cave entrance.
   - Barthin quoted 75 days and 13,000g to rebuild.
