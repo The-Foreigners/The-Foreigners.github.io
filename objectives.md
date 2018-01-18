@@ -7,8 +7,8 @@ permalink: /objectives/
 - Resolve mysterious happenings in Orlane, see letters from Ailla.
   - Establish a base camp.
   - People are being altered, changelings can be identified by fang bites on the neck.
-    - Are the dead altered
-  - Determine cause of death: Medicine, Detect Magic, Poison & Disease, Evil.
+    - Are the dead altered?
+  - Determine cause of death and alteration: Medicine, Detect Magic, Poison & Disease, Evil.
     - Attempt to find Ailla's body.
   
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
@@ -30,9 +30,7 @@ permalink: /objectives/
   - Build library and conduct research.
     - Recovered 62 books from Mormusk's chambers in Wave Echo Cave.
 
-- Determine whereabouts of Sister Garaelle from Phandalin, she's been missing and presumed dead.
-  - Was attempting to trade a small bag of jewels for Bowgentle's spellbook with Agatha, a banshee in Thundertree.
-    - We were given a silver comb for the trade.
+- Determine whereabouts of Sister Garaelle from Phandalin, she's been missing and presumed dead. She attempting to trade a small bag of jewels for Bowgentle's spellbook with Agatha, a banshee in Thundertree. We were given a silver comb for the trade.
 
 - Retrieve Mirna Dendrar's family heirloom from a shop shelf in southeastern Thundertree. 
   - Return to Mirna, she's heading to Drellin's Mill.
