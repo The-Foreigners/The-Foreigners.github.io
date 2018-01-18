@@ -5,14 +5,11 @@ permalink: /objectives/
 ---
  
 - Resolve mysterious happenings in Orlane, see letters from Ailla.
-  - Augury 'Sending' message to Ailla: 'Who am I? Where are you? Are you safe?'
+  - Establish a base camp.
   - People are being altered, changelings can be identified by fang bites on the neck.
-    - Buy manacles, capture target, determine effect: Detect Magic, Poison & Disease, Evil.
-  - Acquire 'Clairvoyance' components. Use to observe Golden Grain tavern.
-  - Is there an authority over Orlane that we can report to or may provide material support?
-  - Where should we establish a base camp? 
-    - In the woods or abandoned farm house outside of town? At Ailla's? 
-    - Should we hire guards?
+    - Are the dead altered
+  - Determine cause of death: Medicine, Detect Magic, Poison & Disease, Evil.
+    - Attempt to find Ailla's body.
   
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
   - Who is Nyett Toothsharp?
