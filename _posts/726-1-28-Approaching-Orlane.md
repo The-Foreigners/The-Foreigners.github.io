@@ -4,4 +4,4 @@ On our way to Orlane we run across two brigands that had set up an ambush along 
 
 We meet Bruwin on the road carrying a wounded Corey across his saddle. He reports there are piles of dead bodies with stabbing and clubbing wounds which have been dead a week or two. There are looters remaining in the town. Bruwin says the town is cursed.
 
-We take a short rest then continue until night. During camp we are attacked by two Air Elementals; of which Ethor gets his first kill. The next morning we carefully approached to outskirts of town.
+We take a short rest then continue until night. During camp we are attacked by two Air Elementals; of which Ethor gets his first kill.
