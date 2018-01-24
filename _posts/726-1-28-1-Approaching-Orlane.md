@@ -1,3 +1,7 @@
+---
+layout: post
+title: Approaching Orlane
+---
 Before we set out we get the descriptions of the riders. The first rider, Corey, is a young blond. The second rider, Bruwin, is a dwarf. Both should be on horseback. We then find Christof's Curiosities and purchase a 'hearing' horn in the hopes of using it for 'Clairvoyance' of the Golden Grain Inn.
 
 On our way to Orlane we run across two brigands that had set up an ambush along the road. We find their camp and loot 220g, a case of nine Tor Vineyards Special Collection (100g ea) ~30 y.o. wine (useful for persuasion), a potion of superior healing, a potion of heroism, and a scroll of cone of cold.
