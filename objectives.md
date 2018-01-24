@@ -4,16 +4,20 @@ title: Current Objectives
 permalink: /objectives/
 ---
 
-
 - Resolve mysterious happenings in Orlane, see letters from Ailla.
-  - Establish a base camp.
+  - Secure town's loot in farm house to the west (Beware of traps).
+    - Where was the second group of looters keeping the spoils?
+    - Find Misha's holy emblem.
+  - Investigate the Golden Grain.
+    - Use clairvoyance to gather intel.
+    - George, "Steer clear of the inn, something is a miss."
+  - Establish a base camp, maybe in the Lathander temple with Misha.
+    - 
+    - Mend statue of Lathander and give to Misha along with holy book.
   - People are being altered, changelings can be identified by fang bites on the neck.
     - Are the dead altered?
   - Determine cause of death and alteration: Medicine, Detect Magic, Poison & Disease, Evil.
     - Attempt to find Ailla's body.
-  - Secure town's loot in farm house to the west (Beware of traps).
-    - Find Misha's holy emblem.
-    - Mend statue of Lathander and give to Misha along with book.
 
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
   - Who is Nyett Toothsharp?
