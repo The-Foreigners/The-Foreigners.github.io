@@ -11,7 +11,7 @@ permalink: /objectives/
     - Are the dead altered?
   - Determine cause of death and alteration: Medicine, Detect Magic, Poison & Disease, Evil.
     - Attempt to find Ailla's body.
-  - Secure town's loot in farm house to the west.
+  - Secure town's loot in farm house to the west (Beware of traps).
     - Find Misha's holy emblem.
     - Mend statue of Lathander and give to Misha along with book.
 
