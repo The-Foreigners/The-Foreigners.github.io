@@ -13,6 +13,7 @@ permalink: /objectives/
     - Attempt to find Ailla's body.
   - Secure town's loot in farm house to the west.
     - Find Misha's holy emblem.
+    - Mend statue of Lathander and give to Misha along with book.
 
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
   - Who is Nyett Toothsharp?
