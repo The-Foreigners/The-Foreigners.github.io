@@ -3,14 +3,17 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
- 
+
+
 - Resolve mysterious happenings in Orlane, see letters from Ailla.
   - Establish a base camp.
   - People are being altered, changelings can be identified by fang bites on the neck.
     - Are the dead altered?
   - Determine cause of death and alteration: Medicine, Detect Magic, Poison & Disease, Evil.
     - Attempt to find Ailla's body.
-  
+  - Secure town's loot in farm house to the west.
+    - Find Misha's holy emblem.
+
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
   - Who is Nyett Toothsharp?
 
