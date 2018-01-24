@@ -7,13 +7,14 @@ permalink: /objectives/
 - Resolve mysterious happenings in Orlane, see letters from Ailla.
   - Secure town's loot in farm house to the west (Beware of traps).
     - Where was the second group of looters keeping the spoils?
-    - Find Misha's holy emblem.
+    - Find Misha's holy emblem. Check to see if she's a Lathander acolyte. (Is she trustworthy?)
   - Investigate the Golden Grain.
     - Use clairvoyance to gather intel.
     - George, "Steer clear of the inn, something is a miss."
-  - Establish a base camp, maybe in the Lathander temple with Misha.
-    - 
-    - Mend statue of Lathander and give to Misha along with holy book.
+  - Establish a base camp.
+    - In the Lathander temple with Misha?
+      - Check Misha's wounds.
+      - Mend statue of Lathander and give to Misha along with holy book.
   - People are being altered, changelings can be identified by fang bites on the neck.
     - Are the dead altered?
   - Determine cause of death and alteration: Medicine, Detect Magic, Poison & Disease, Evil.
