@@ -3,18 +3,22 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
+- Give Mechanus Amulet to Grin or Atticus.
 
-- Avenge the death of Ailla and Ellie at the Massacre of Orlane by Serpent Queen fanatics.
-  - Follow road south and look for trail blazes leaving road towards temple.
-  - Locate second group of looters spoils, and find Misha's holy emblem.
+- Debrief Misha about events at Orlane.
   - Mend statue of Lathander and give to Misha along with holy book.
-  - Determine cause of alteration: Medicine, Detect Magic, Poison & Disease, Evil.
+  - Show her Ailla's letters.
+  - Did she know of the troglodytes?
+  - Will she help with researching/defeating the Serpent Queen (fund with Orlane's treasure)?
+    - Locate second looter's spoils; may contain Misha's holy emblem.
+    - Where is the temple? We left trail blazes off the road south (Towards temple?).
+    - Capture fanatic and determine cause of alteration: Detect Magic, Poison & Disease, or Evil.
 
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
   - Who is Nyett Toothsharp?
 
 - Secure and explore Vradth Keep in the Witchwood of Elsyr Vale.
-  - See map, and read "The Rise and Fall of Rhestilor".
+  - See map, and read "The Rise and Fall of Rhestilor".  
 
 - Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Potential source for lore?)
 
@@ -43,7 +47,7 @@ permalink: /objectives/
 
 ## Goals
 
-- Avenge the death of Ailla and Ellie at the Massacre of Orlane by Serpent Queen fanatics.
+- Avenge the deaths of Ailla and Ellie at the Massacre of Orlane by Serpent Queen fanatics.
 
 - Find Gringur's father.
 
