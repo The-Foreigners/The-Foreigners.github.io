@@ -9,7 +9,7 @@ permalink: /objectives/
   - Mend statue of Lathander and give to Misha along with holy book.
   - Show her Ailla's letters.
   - Did she know of the troglodytes?
-  - Will she help with researching/defeating the Serpent Queen (fund with Orlane's treasure)?
+  - Will she help with researching/defeating the Snake Mother (fund with Orlane's treasure)?
     - Locate second looter's spoils; may contain Misha's holy emblem.
     - Where is the temple? We left trail blazes off the road south (Towards temple?).
     - Capture fanatic and determine cause of alteration: Detect Magic, Poison & Disease, or Evil.
@@ -47,7 +47,7 @@ permalink: /objectives/
 
 ## Goals
 
-- Avenge the deaths of Ailla and Ellie at the Massacre of Orlane by Serpent Queen fanatics.
+- Avenge the deaths of Ailla and Ellie at the Massacre of Orlane by Snake Mother fanatics.
 
 - Find Gringur's father.
 
