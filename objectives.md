@@ -7,7 +7,7 @@ permalink: /objectives/
 
 - Debrief Misha about events at Orlane.
   - Mend statue of Lathander and give to Misha along with holy book.
-  - Show her Ailla's letters.
+  - Show her Ailla's letters. Primo and the ancient Goliath temple.
   - Did she know of the troglodytes?
   - Will she help with researching/defeating the Snake Mother (fund with Orlane's treasure)?
     - Locate second looter's spoils; may contain Misha's holy emblem.
