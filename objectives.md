@@ -4,21 +4,11 @@ title: Current Objectives
 permalink: /objectives/
 ---
 
-- Resolve mysterious happenings in Orlane, see letters from Ailla.
-  - Secure town's loot in farm house to the west (Beware of traps).
-    - Where was the second group of looters keeping the spoils?
-    - Find Misha's holy emblem. Check to see if she's a Lathander acolyte. (Is she trustworthy?)
-  - Investigate the Golden Grain.
-    - Use clairvoyance to gather intel.
-    - George, "Steer clear of the inn, something is a miss."
-  - Establish a base camp.
-    - In the Lathander temple with Misha?
-      - Check Misha's wounds.
-      - Mend statue of Lathander and give to Misha along with holy book.
-  - People are being altered, changelings can be identified by fang bites on the neck.
-    - Are the dead altered?
-  - Determine cause of death and alteration: Medicine, Detect Magic, Poison & Disease, Evil.
-    - Attempt to find Ailla's body.
+- Avenge the death of Ailla and Ellie at the Massacre of Orlane by Serpent Queen fanatics.
+  - Follow road south and look for trail blazes leaving road towards temple.
+  - Locate second group of looters spoils, and find Misha's holy emblem.
+  - Mend statue of Lathander and give to Misha along with holy book.
+  - Determine cause of alteration: Medicine, Detect Magic, Poison & Disease, Evil.
 
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
   - Who is Nyett Toothsharp?
@@ -52,6 +42,8 @@ permalink: /objectives/
 - Learn history of Mealton the Great, what caused the Great Cataclysm?
 
 ## Goals
+
+- Avenge the death of Ailla and Ellie at the Massacre of Orlane by Serpent Queen fanatics.
 
 - Find Gringur's father.
 
