@@ -6,12 +6,12 @@ permalink: /objectives/
 - Give Mechanus Amulet to Grin or Atticus.
 
 - Debrief Misha about events at Orlane.
-  - Mend statue of Lathander and give to Misha along with holy book.
-  - Show her Ailla's letters. Primo and the ancient Goliath temple.
+  - Mend statue of Lathander and give to Misha along with holy book (Instill sense of duty).
+  - Show her Ailla's letters. Garath Primo and the ancient Goliath temple.
   - Did she know of the troglodytes?
   - Will she help with researching/defeating the Snake Mother (fund with Orlane's treasure)?
     - Locate second looter's spoils; may contain Misha's holy emblem.
-    - Where is the temple? We left trail blazes off the road south (Towards temple?).
+    - Where is the temple? We left trail blazes towards temple off the road south.
     - Capture fanatic and determine cause of alteration: Detect Magic, Poison & Disease, or Evil.
 
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
