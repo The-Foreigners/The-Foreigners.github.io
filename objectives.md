@@ -40,7 +40,7 @@ permalink: /objectives/
   - Build library and conduct research.
     - Recovered 62 books from Mormusk's chambers in Wave Echo Cave.
 
-- Determine whereabouts of Sister Garaelle from Phandalin, she's been missing and presumed dead. She attempting to trade a small bag of jewels for Bowgentle's spellbook with Agatha, a banshee in Thundertree. We were given a silver comb for the trade.
+- Determine whereabouts of Sister Garaelle from Phandalin, she's been missing and presumed dead. She was attempting to trade a small bag of jewels for Bowgentle's spellbook with Agatha, a banshee in Thundertree. We were given a silver comb for the trade.
 
 - Retrieve Mirna Dendrar's family heirloom from a shop shelf in southeastern Thundertree. 
   - Return to Mirna, she's heading to Drellin's Mill.
