@@ -16,11 +16,16 @@ permalink: /objectives/
     - Where is the Goliath temple? We left trail blazes towards temple off the road south.
     - Capture fanatic and determine cause of alteration: Detect Magic, Poison & Disease, or Evil.
 
+- Send message to Father William (Sending or Messenger).
+  - Route messages through Cpt. Thayne in Kuldera(?).
+  - Inform him of the loss of Orlane, can he research Snake Mother?
+
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
   - Who is Nyett Toothsharp?
 
 - Secure and explore Vradth Keep in the Witchwood of Elsyr Vale.
-  - See map, and read "The Rise and Fall of Rhestilor".  
+  - See map, and read "The Rise and Fall of Rhestilor".
+  - Can the keep serve as a base of operations in the Vale?
 
 - Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Potential source for lore?)
 
