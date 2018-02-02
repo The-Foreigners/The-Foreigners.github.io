@@ -3,11 +3,11 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-- Give Mechanus Amulet to Grin or Atticus.
+- Give clockwork amulet to Grin or Atticus.
 
 - Debrief Misha about events at Orlane.
   - What's her full name and background?
-  - What brought her to Orlane? What were her responsiblities? Is she still responsible for temple?
+  - What brought her to Orlane? What were her responsibilities? Is she still responsible for temple?
   - Mend statue of Lathander and give to Misha along with holy book (Instill sense of duty).
   - Show her Ailla's letters. Did she know of Garath Primo and the ancient Goliath temple?
   - Did she know of the troglodytes? Any other threats, is it safe to return?
