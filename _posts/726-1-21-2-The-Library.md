@@ -66,94 +66,151 @@ __Serrowen's Dissertations on Elemental Fire Magic Vol. II: Sprays, Rays, and Bl
 *Arthur Mendalon Serrowen, half-elven High Sage of the Magical Arts, College of Elemental Magic, Nevereth Royal University of Magical Studies*
 Volume II of the series describes a wide array of magical formulae for using fire as an offensive tool. The applications are broadly theoretically and have been praised for their ability to be understood across a wide variety of magical disciplines. The general principles laid out in the text provide an excellent template for the development of new offensive magic. Although a wonderful primer for others, Serrowen's lack of personal combat experience can sometimes be evident. His proposal for a "sun burst" spell, requiring a minimum of one hour of concentration to cast, was especially panned by contemporary critics.
 
-Serrowen's Dissertations on Elemental Fire Magic Vol. III: Natural Fire Creatures, Their Habits and Uses	Arthur Mendalon Serrowen, half-elven High Sage of the Magical Arts, College of Elemental Magic, Nevereth Royal University of Magical Studies	Serrowen provides a comprehensive overview of all known natural creatures that use, consume, or otherwise live alongside fire as part of their regular existence. A generous grant from a group of druids interested in cataloguing and protecting these creatures enabled the sage to hire an elite group of rangers to explore and document animals across the known world. Praised as one of the finest texts of its kind, it still provides invaluable information about the creatures within its pages.
+__Serrowen's Dissertations on Elemental Fire Magic Vol. III: Natural Fire Creatures, Their Habits and Uses__
+*Arthur Mendalon Serrowen, half-elven High Sage of the Magical Arts, College of Elemental Magic, Nevereth Royal University of Magical Studies*
+Serrowen provides a comprehensive overview of all known natural creatures that use, consume, or otherwise live alongside fire as part of their regular existence. A generous grant from a group of druids interested in cataloguing and protecting these creatures enabled the sage to hire an elite group of rangers to explore and document animals across the known world. Praised as one of the finest texts of its kind, it still provides invaluable information about the creatures within its pages.
 
-Serrowen's Dissertations on Elemental Fire Magic Vol. IV: Supernatural Fire Creatures, The Magical and Elemental	Arthur Mendalon Serrowen, half-elven High Sage of the Magical Arts, College of Elemental Magic, Nevereth Royal University of Magical Studies	Against the advice and better judgement of his peers, Serrowen went to great pains to contact an efreet noble from the City of Brass. Extensive transcription of his interviews with that noble were transformed into the contents of the fourth and fifth volumes. It is largely unknown what Serrowen used to bargain with (or perhaps even compel) the noble to share the information in the text. Many more learned scholars have chosen to disregard both volumes for fear that they might contain incomplete, or even misleading, information. It is unknown whether those fears have any real foundation, as no one has undertaken any comprehensive fact-checking of the work.
+__Serrowen's Dissertations on Elemental Fire Magic Vol. IV: Supernatural Fire Creatures, The Magical and Elemental__
+*Arthur Mendalon Serrowen, half-elven High Sage of the Magical Arts, College of Elemental Magic, Nevereth Royal University of Magical Studies*
+Against the advice and better judgement of his peers, Serrowen went to great pains to contact an efreet noble from the City of Brass. Extensive transcription of his interviews with that noble were transformed into the contents of the fourth and fifth volumes. It is largely unknown what Serrowen used to bargain with (or perhaps even compel) the noble to share the information in the text. Many more learned scholars have chosen to disregard both volumes for fear that they might contain incomplete, or even misleading, information. It is unknown whether those fears have any real foundation, as no one has undertaken any comprehensive fact-checking of the work.
 
-Serrowen's Dissertations on Elemental Fire Magic Vol. V: The Elemental Plane of Fire, Its Geography and Environs	Arthur Mendalon Serrowen, half-elven High Sage of the Magical Arts, College of Elemental Magic, Nevereth Royal University of Magical Studies	Although tainted by the questionable interviews that plagued his fourth volume, Serrowen's geography of the plane of fire enjoys a slightly better reputation. His insistence on hiring a well respected court painter to record scrying of various features of the plane provide a vivid and colorful impression. Although the specifics of his descriptions are sometimes disputed, conensus tends to suggest that the text and accompanying images are a reasonably accurate presentation of the plane.
+__Serrowen's Dissertations on Elemental Fire Magic Vol. V: The Elemental Plane of Fire, Its Geography and Environs__
+*Arthur Mendalon Serrowen, half-elven High Sage of the Magical Arts, College of Elemental Magic, Nevereth Royal University of Magical Studies*
+Although tainted by the questionable interviews that plagued his fourth volume, Serrowen's geography of the plane of fire enjoys a slightly better reputation. His insistence on hiring a well respected court painter to record scrying of various features of the plane provide a vivid and colorful impression. Although the specifics of his descriptions are sometimes disputed, conensus tends to suggest that the text and accompanying images are a reasonably accurate presentation of the plane.
 
-Serrowen's Dissertations on Elemental Fire Magic Vol. VI: "Gods" of Fire and their Servants	Arthur Mendalon Serrowen, half-elven High Sage of the Magical Arts, College of Elemental Magic, Nevereth Royal University of Magical Studies	An unfortunate low point in an otherwise excellent collection. Serrowen was vehemently opposed to any worship of gods claiming dominion over fire. The first few chapters provide a cursory overview of deities with a portfolio that includes fire. He then proceeds to spend much of the remainder of the text elucidating several arguments as to the "true" nature of fire and its independence from any divine control. It is unknown why Serrowen argued so passionately against fire gods in this text. Several late contemporaries have suggested that he may not have been the actual author. In a nod to prudence, later editions of the text omit the quotation marks in the title.
+__Serrowen's Dissertations on Elemental Fire Magic Vol. VI: "Gods" of Fire and their Servants__
+*Arthur Mendalon Serrowen, half-elven High Sage of the Magical Arts, College of Elemental Magic, Nevereth Royal University of Magical Studies*
+An unfortunate low point in an otherwise excellent collection. Serrowen was vehemently opposed to any worship of gods claiming dominion over fire. The first few chapters provide a cursory overview of deities with a portfolio that includes fire. He then proceeds to spend much of the remainder of the text elucidating several arguments as to the "true" nature of fire and its independence from any divine control. It is unknown why Serrowen argued so passionately against fire gods in this text. Several late contemporaries have suggested that he may not have been the actual author. In a nod to prudence, later editions of the text omit the quotation marks in the title.
 
-Serrowen's Dissertations on Elemental Fire Magic Vol. VII: Fire, Life, and Magic	Arthur Mendalon Serrowen, half-elven High Sage of the Magical Arts, College of Elemental Magic, Nevereth Royal University of Magical Studies	Believed by many to be Serrowen's magnum opus, this work combines the best of the High Sage's understanding of the nature of magical fire with his broad theoretical knowledge of magic itself. In its pages, the author draws parallels between natural fire, magical fire, animating life forces, and the core of magic itself. A dense and difficult text, it nevertheless represents some of the finest scholarship from a lifetime of study in the field. Few claim to have read the volume from cover to cover, but those who have are invariably among the most powerful practitioners of fire magic.
+__Serrowen's Dissertations on Elemental Fire Magic Vol. VII: Fire, Life, and Magic__
+*Arthur Mendalon Serrowen, half-elven High Sage of the Magical Arts, College of Elemental Magic, Nevereth Royal University of Magical Studies*
+Believed by many to be Serrowen's magnum opus, this work combines the best of the High Sage's understanding of the nature of magical fire with his broad theoretical knowledge of magic itself. In its pages, the author draws parallels between natural fire, magical fire, animating life forces, and the core of magic itself. A dense and difficult text, it nevertheless represents some of the finest scholarship from a lifetime of study in the field. Few claim to have read the volume from cover to cover, but those who have are invariably among the most powerful practitioners of fire magic.
 
-Serrowen's Dissertations on Elemental Fire Magic Appendix: Enchantments, Instruments, and Artifacts	Arthur Mendalon Serrowen, half-elven High Sage of the Magical Arts, College of Elemental Magic, Nevereth Royal University of Magical Studies	Only included as an appendix to later editions, Serrowen's index of magical items involving fire was tragically incomplete at the time of his death. The text was clearly designed to consist of three sections. The first is a review of common and uncommon magical items using fire. The second is a discussion of a few of the better known magical artifacts using fire. The third is a theoretical treatise on magical frameworks for constructing these items. Rumors suggest that one of Serrowen's students may have stolen a more complete version of the final text just prior to his death.
+__Serrowen's Dissertations on Elemental Fire Magic Appendix: Enchantments, Instruments, and Artifacts__
+*Arthur Mendalon Serrowen, half-elven High Sage of the Magical Arts, College of Elemental Magic, Nevereth Royal University of Magical Studies*
+Only included as an appendix to later editions, Serrowen's index of magical items involving fire was tragically incomplete at the time of his death. The text was clearly designed to consist of three sections. The first is a review of common and uncommon magical items using fire. The second is a discussion of a few of the better known magical artifacts using fire. The third is a theoretical treatise on magical frameworks for constructing these items. Rumors suggest that one of Serrowen's students may have stolen a more complete version of the final text just prior to his death.
 
-The 7 Habits of Highly Effective Peasants		
+__The 7 Habits of Highly Effective Peasants__
 
-The Compaigns of Mealton		This book details the conquoring of the lands of what is now Avenmar by Mealton the Great
+__The Campaigns of Mealton__
+This book details the conquoring of the lands of what is now Avenmar by Mealton the Great
 
-Zen And The Art Of Monastery Maintenance	Rysli Brownleaf, elven abbot of the Four Winds monastery	Through his daily four hour meditations, Brownleaf discovered the secret to staying cool under pressure, whether it's collecting tuition fees from his students or having his adventuring companion being squeezed in a giant's fist. Brownleaf teaches you how to apply these lessons in your own life, from the battlefield to the boardroom. Found in most ancient temples.
+__Zen And The Art Of Monastery Maintenance__
+*Rysli Brownleaf, elven abbot of the Four Winds monastery*
+Through his daily four hour meditations, Brownleaf discovered the secret to staying cool under pressure, whether it's collecting tuition fees from his students or having his adventuring companion being squeezed in a giant's fist. Brownleaf teaches you how to apply these lessons in your own life, from the battlefield to the boardroom. Found in most ancient temples.
 
-Ready Mindflayer One		
+__Ready Mindflayer One__
 
-The Joy of Sects	Dragar Darkstone, human warlock and high priest of the Old Ones	Legendary warlock Dargar Darkstone recounts his time in a Cult of the Old Ones, and how it gave the parentless human some much-needed direction, as well as lifelong friendships. A heartwarming tale found in all good bookstores.
+__The Joy of Sects__
+*Dragar Darkstone, human warlock and high priest of the Old Ones*
+Legendary warlock Dargar Darkstone recounts his time in a Cult of the Old Ones, and how it gave the parentless human some much-needed direction, as well as lifelong friendships. A heartwarming tale found in all good bookstores.
 
-Mystery, Magic & Miracle: Religion in the Age of Humanity	by Thimoth Learic	A study on how magic and faith changed in the dawn of the human pantheon. Prior to humans becoming a predominant race in the world, the majority of the other races had monotheistic religions and magic was simply an extension of the god's will. However, with the rise of the human pantheon, faith and magic became further separated and the will of the gods became fragmented into different entities.
+__Mystery, Magic & Miracle: Religion in the Age of Humanity__
+*by Thimoth Learic*
+A study on how magic and faith changed in the dawn of the human pantheon. Prior to humans becoming a predominant race in the world, the majority of the other races had monotheistic religions and magic was simply an extension of the god's will. However, with the rise of the human pantheon, faith and magic became further separated and the will of the gods became fragmented into different entities.
 
-Forster's Guide to the Lesser Fair-Folk of Seraelden's Glade	by Alberich "Albie" Forster, Assistant to the Associate Record Keeper of the Emerald Enclave	A truly ponderous and horrifically overwritten tome, FGttLFFoSG is a meticulous and painstakingly detailed overview of the lifestyle, culture, biology, and history of a small clan of pixies native to a remote and unremarkable grove in a little-traveled region of the Feywild. Being several thousand pages long and bound in thick leather with iron fittings, the tome is dramatically more useful as a doorstop or improvised weapon than a reference guide, given the absurd granularity of its subject.[Forster got a reputation for producing this kind of meticulous and, arguably, impressive work that nonetheless was very much worse than useless, and so was sent out by the Enclave on increasingly absurd snipe-hunts, each of which produced a volume more ridiculously particular and pointless than the last. Ironically, because only one copy of each work was ever produced, a brutal, vicious, and unbelievably rich collecters' market has arisen in the centuries since Forster's death with each anonymous collecter seeking to assemble the complete set, by any means necessary. 
+__Forster's Guide to the Lesser Fair-Folk of Seraelden's Glade__
+*by Alberich "Albie" Forster, Assistant to the Associate Record Keeper of the Emerald Enclave*
+A truly ponderous and horrifically overwritten tome, FGttLFFoSG is a meticulous and painstakingly detailed overview of the lifestyle, culture, biology, and history of a small clan of pixies native to a remote and unremarkable grove in a little-traveled region of the Feywild. Being several thousand pages long and bound in thick leather with iron fittings, the tome is dramatically more useful as a doorstop or improvised weapon than a reference guide, given the absurd granularity of its subject.[Forster got a reputation for producing this kind of meticulous and, arguably, impressive work that nonetheless was very much worse than useless, and so was sent out by the Enclave on increasingly absurd snipe-hunts, each of which produced a volume more ridiculously particular and pointless than the last. Ironically, because only one copy of each work was ever produced, a brutal, vicious, and unbelievably rich collecters' market has arisen in the centuries since Forster's death with each anonymous collecter seeking to assemble the complete set, by any means necessary. 
 
-Catchy Harmonics as Spell Mnemonics	Rimnjim Gnollbane, halfling bard, made famous by Catchy Harmonics as Spell Mnemonics	A thick book of sheet music. Each song has accompanying lyrics and details on how those lyrics translate into mnemonics for remembering spellcrafting methods. Unfortunately, the songs and mnemonics are quite long and rarely does a spellcaster find it less tedious to remember the song. A few songs do stick in ones head and some readers have gleaned a new spell from its pages. Mostly, it's a common birthday present for any grandchild whose going to grow up to be "grandma's favourite wizard".
+__Catchy Harmonics as Spell Mnemonics__
+*Rimnjim Gnollbane, halfling bard, made famous by Catchy Harmonics as Spell Mnemonics*
+A thick book of sheet music. Each song has accompanying lyrics and details on how those lyrics translate into mnemonics for remembering spellcrafting methods. Unfortunately, the songs and mnemonics are quite long and rarely does a spellcaster find it less tedious to remember the song. A few songs do stick in ones head and some readers have gleaned a new spell from its pages. Mostly, it's a common birthday present for any grandchild whose going to grow up to be "grandma's favourite wizard".
 
-The Lion, the Witch, and the War-forged		
+__The Lion, the Witch, and the War-forged__
 
-The Vokhoriad	Anonymous	An epic dwarven poem that originated in oral tradition, passed down through the centuries until it was finally transcribed by a runesmith named Storvi Stonequill. It tells in ponderous, long-winded verse the story of the dwarven citadel Vokhor, which was destroyed by elves near the end of the creation wars. It is a tragic and haunting tale of brave dwarf soldiers led to ruin by a weak king's folly.
+__The Vokhoriad__
+*Anonymous*
+An epic dwarven poem that originated in oral tradition, passed down through the centuries until it was finally transcribed by a runesmith named Storvi Stonequill. It tells in ponderous, long-winded verse the story of the dwarven citadel Vokhor, which was destroyed by elves near the end of the creation wars. It is a tragic and haunting tale of brave dwarf soldiers led to ruin by a weak king's folly.
 
-Adventurers in the Wild: A Practical Survival Guide for Commoners	By Clement Bosunsmate, tavern owner from Waterdeep and seventeen time unwilling hostage.	This is a book of practical tips for avoiding contact with adventuring parties. From the best techniques for diving into a bale of hay, to making your house or shop look less interesting, this guide aims to aid common folk in the inevitable event they find themselves in proximity to one of the many dangerous companies of adventurers. Of particular note is a section dealing with identifying and disposing of arcane artifacts and how to locate a village least likely to be the site of demonic horrors.
+__Adventurers in the Wild: A Practical Survival Guide for Commoners__
+*By Clement Bosunsmate, tavern owner from Waterdeep and seventeen time unwilling hostage.*
+This is a book of practical tips for avoiding contact with adventuring parties. From the best techniques for diving into a bale of hay, to making your house or shop look less interesting, this guide aims to aid common folk in the inevitable event they find themselves in proximity to one of the many dangerous companies of adventurers. Of particular note is a section dealing with identifying and disposing of arcane artifacts and how to locate a village least likely to be the site of demonic horrors.
 
-Forgeries and Fanaticism: Never Waste a Crisis of Faith	Perwid Crashdawn, High Priest	A short and cynical treatise on using trying times to turn the common people to one's will. The subjects are divided down into though, action, and outcome, sometimes summarized with bullet points. The writer is long dead, having been victim to a coup d'etat organized along the book's lines. Existing copies are often found as a hand-copied sheaf of notes on the table of a would-be dictator, but libraries which specialize in social studies or collecting as many writings as possible are certain to have at least one copy.
+__Forgeries and Fanaticism: Never Waste a Crisis of Faith__
+*Perwid Crashdawn, High Priest*
+A short and cynical treatise on using trying times to turn the common people to one's will. The subjects are divided down into though, action, and outcome, sometimes summarized with bullet points. The writer is long dead, having been victim to a coup d'etat organized along the book's lines. Existing copies are often found as a hand-copied sheaf of notes on the table of a would-be dictator, but libraries which specialize in social studies or collecting as many writings as possible are certain to have at least one copy.
 
-The Infinite Joy of Husbandry	Allen "The Man of Tools" Taylor, Human, Woodsman and Handyman	It can be found in many libraries as it is among the most common for general handyman work, such as crafting and repairing wagons, chairs, furniture, sewing seeds and farming, how to build a basic irrigation system, things of that nature.
+__The Infinite Joy of Husbandry__
+*Allen "The Man of Tools" Taylor, Human, Woodsman and Handyman*
+It can be found in many libraries as it is among the most common for general handyman work, such as crafting and repairing wagons, chairs, furniture, sewing seeds and farming, how to build a basic irrigation system, things of that nature.
 
-To Kill a Manticore		
+__To Kill a Manticore__
 
-Rock, paper, goblin: 50 educational games and songs for children	Vincent of Erdis, scholar at the Temple of Light	A collection of games and songs for children that teach them about the dangers of the outside world and why they should fear it. It contains such classics as "Rock, paper, goblin", "Tick, tac, terrasque", "Little red riding hood and the big bad warg" as well as 30 completely original games and songs.
+__Rock, paper, goblin: 50 educational games and songs for children__
+*Vincent of Erdis, scholar at the Temple of Light*
+A collection of games and songs for children that teach them about the dangers of the outside world and why they should fear it. It contains such classics as "Rock, paper, goblin", "Tick, tac, terrasque", "Little red riding hood and the big bad warg" as well as 30 completely original games and songs.
 
-Everything You Never Really Wanted To Know About Draconic Reproduction, But Are Going To Learn Anyway By Reading This Book	Migulio Candlechin, gnomish wanderer-bard, First and only Graduate of the College of Suraz	Despite the rakish title, it's a scholarly work dealing with the ecology of dragons; where they like to nest, their mating habits, how to best ensure the eggs hatch, etcetera. One chapter does describe "the acts", in even more detached clinical detail than the rest of the tome, albeit with little vomiting faces drawn in the margins.
+__Everything You Never Really Wanted To Know About Draconic Reproduction, But Are Going To Learn Anyway By Reading This Book__
+*Migulio Candlechin, gnomish wanderer-bard, First and only Graduate of the College of Suraz*
+Despite the rakish title, it's a scholarly work dealing with the ecology of dragons; where they like to nest, their mating habits, how to best ensure the eggs hatch, etcetera. One chapter does describe "the acts", in even more detached clinical detail than the rest of the tome, albeit with little vomiting faces drawn in the margins.
 
-Where the Gold Flows Freely	Airedhel Orson, human economist	A book about taxation and trade, examining the various economic models of cities on the Sword Coast. It's a dry read even if you're interested in economics. For the unschooled, it's best used as a doorstop.
+__Where the Gold Flows Freely__
+*Airedhel Orson, human economist*
+A book about taxation and trade, examining the various economic models of cities on the Sword Coast. It's a dry read even if you're interested in economics. For the unschooled, it's best used as a doorstop.
 
-Our Friends Below: The Art of Demon-Summoning	Tousba Autumnridge, senior Demonologist-in-good-standing, Faerûn Commission of Outreach and Tourism	The book is, upon first opening it, blank. This has, not surprisingly, affected its sales. However, pages can be revealed through a series of rituals and bargains. The first page, usually activated through a paper cut, will reveal how to access other portions of the book. By the time you get to the end, your soul will almost certainly be the property of several malevolent entities, but the payoff is, we are assured, worth it.
+__Our Friends Below: The Art of Demon-Summoning__
+*Tousba Autumnridge, senior Demonologist-in-good-standing, Faerûn Commission of Outreach and Tourism*
+The book is, upon first opening it, blank. This has, not surprisingly, affected its sales. However, pages can be revealed through a series of rituals and bargains. The first page, usually activated through a paper cut, will reveal how to access other portions of the book. By the time you get to the end, your soul will almost certainly be the property of several malevolent entities, but the payoff is, we are assured, worth it.
 
-Planar-shifting for People in a Hurry		
+__Planar-shifting for People in a Hurry__
 
-All That Glitters	Haley Pridedraft	This is a standalone volume that means to introduce its reader to the exciting world of mineralogy and gemcraft. From digging up your first specimens to producing jewelry-ready cut gems, this text has simple, step-by-step instructions from the novice all the way up to the journeyman.
+__All That Glitters__
+*Haley Pridedraft*
+This is a standalone volume that means to introduce its reader to the exciting world of mineralogy and gemcraft. From digging up your first specimens to producing jewelry-ready cut gems, this text has simple, step-by-step instructions from the novice all the way up to the journeyman.
 
-To Serve Man		An ogre cookbook on the delicate art of cooking humans.
+__To Serve Man__
+An ogre cookbook on the delicate art of cooking humans.
 
-It's Familiar, But Not Too Familiar		A guide on how to take care of you're newly acquired companion. 
+__It's Familiar, But Not Too Familiar__
+A guide on how to take care of you're newly acquired companion. 
 
-Who Moved My Cheese?		Step by step guide to Mage Hand for beginners.
+__Who Moved My Cheese?__
+Step by step guide to Mage Hand for beginners.
 
-One Flew Over the Kenku's Nest		
+__One Flew Over the Kenku's Nest__
 
-We've All Made Mistakes		Intro to Necromancy raising your dead wife
+__We've All Made Mistakes__
+Intro to Necromancy raising your dead wife
 
-Of Fleet and Fancy		a Novel that tells the tales of Odd Heroes
+__Of Fleet and Fancy__
+A Novel that tells the tales of Odd Heroes
 
-Are you being invaded?		A guide book on how to protect one's self from Ogres, Goblins, Kobolds, and woodland critters.
+__Are you being invaded?__
+A guide book on how to protect one's self from Ogres, Goblins, Kobolds, and woodland critters.
 
-Ogre's Guide to tying Knots		A Simplistic Guide on how to Tie Various Knots
+__Ogre's Guide to tying Knots__
+A Simplistic Guide on how to Tie Various Knots
 
-The Brothers Dragonbornov		
+__The Brothers Dragonbornov__
 
-My 60 Memorable Games by Rob the Fisher	Rob the Fisher	A true retelling of the life and games of one of the greatest Dragon Chess players of all time.
+__My 60 Memorable Gamesby Rob the Fisher__
+*Rob the Fisher*
+A true retelling of the life and games of one of the greatest Dragon Chess players of all time.
 
-Friar Albert's Guide to Surviving Traps		Chalk, rope, torches and a sturdy pole are your best friends. And a brain
+__Friar Albert's Guide to Surviving Traps__
+Chalk, rope, torches and a sturdy pole are your best friends. And a brain.
 
-Friar Albert's Guide to Forest Trails		Lichen and moss, you fool. Learn the difference. 
+__Friar Albert's Guide to Forest Trails__
+Lichen and moss, you fool. Learn the difference. 
 
-Friar Albert's Guide to Brewing		You should probably not be adventuring while doing this. 
+__Friar Albert's Guide to Brewing__
+You should probably not be adventuring while doing this. 
 
-Friar Albert's Guide to the History of Avenmar		
+__Friar Albert's Guide to the History of Avenmar__
 
-Friar Albert's Guide to Herbs and Plants		If you can't remember this then chew on some hemlock for your nerves
+__Friar Albert's Guide to Herbs and Plants__
+If you can't remember this then chew on some hemlock for your nerves
 
-Friar Albert's Guide to Publishing Law		No I can't be held responsible if you only read the byline and then die
+__Friar Albert's Guide to Publishing Law__
+No I can't be held responsible if you only read the byline and then die
 
-Friar Albert's Guide to Fleeing the Academy and Hiding in a Church Cellar		A Memoir
+__Friar Albert's Guide to Fleeing the Academy and Hiding in a Church Cellar__
+A Memoir
 
-For Whom the Behir Tolls		
+__For Whom the Behir Tolls__
 
-The Power of Mimics: Why Certain Encounters Have Extraordinary Impact		
+__The Power of Mimics: Why Certain Encounters Have Extraordinary Impact__
 
-Beholder in the eye of Beauty		Classic fashion tips for the beholder in your family!
+__Beholder in the eye of Beauty__
+Classic fashion tips for the beholder in your family!
