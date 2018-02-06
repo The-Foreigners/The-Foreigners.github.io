@@ -1,4 +1,4 @@
-Looted from the chambers of Moremusk and transfered to the library of Tresendor Manor.
+**Looted from the chambers of Moremusk and transfered to the library of Tresendor Manor.**
 
 __The Rise and Fall of Rhestilor__
 
