@@ -1,3 +1,5 @@
+Looted from the chambers of Moremusk.
+
 _The Rise and Fall of Rhestilor_
 This book outlines the rise and fall of the duchy of Rhestilor
 
