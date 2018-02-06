@@ -1,6 +1,7 @@
 Looted from the chambers of Moremusk and transfered to the library of Tresendor Manor.
 
-__The Rise and Fall of Rhestilor__This book outlines the rise and fall of the duchy of Rhestilor.
+__The Rise and Fall of Rhestilor__
+This book outlines the rise and fall of the duchy of Rhestilor.
 
 __How to make Illusions and Charm People__
 
