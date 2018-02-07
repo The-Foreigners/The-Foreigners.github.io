@@ -3,7 +3,6 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-- Give clockwork amulet to Grin or Atticus.
 
 - Debrief Misha about events at Orlane.
   - What's her full name and background?
@@ -11,7 +10,7 @@ permalink: /objectives/
   - Mend statue of Lathander and give to Misha along with holy book (Instill sense of duty).
   - Show her Ailla's letters. Did she know of Garath Primo and the ancient Goliath temple?
   - Did she know of the troglodytes? Any other threats, is it safe to return?
-  - Will she help with researching/defeating the Snake Mother (fund with Orlane's treasure)?
+  - Will she help with researching/defeating the Serpent Queen (fund with Orlane's treasure)?
     - Locate second looter's spoils; may contain Misha's holy emblem.
     - Where is the Goliath temple? We left trail blazes towards temple off the road south.
     - Capture fanatic and determine cause of alteration: Detect Magic, Poison & Disease, or Evil.
@@ -54,7 +53,7 @@ permalink: /objectives/
 
 ## Goals
 
-- Avenge the deaths of Ailla and Ellie at the Massacre of Orlane by Snake Mother fanatics.
+- Avenge the deaths of Ailla and Ellie at the Massacre of Orlane by Serpent Queen fanatics.
 
 - Find Gringur's father.
 
