@@ -3,6 +3,8 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
+- Purchase plate armor.
+
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
   - Where is Cpt. Thayne based?
   - Who is Nyett Toothsharp?
