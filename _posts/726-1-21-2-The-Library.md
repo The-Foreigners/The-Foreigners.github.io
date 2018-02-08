@@ -2,7 +2,7 @@
 layout: post
 title: The Library
 ---
-<h3>Looted from the chambers of Moremusk and transfered to the library of Tresendor Manor.</h3>
+Looted from the chambers of Moremusk and transfered to the library of Tresendor Manor.
 
 
 __The Rise and Fall of Rhestilor__
