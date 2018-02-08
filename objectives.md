@@ -11,7 +11,7 @@ permalink: /objectives/
   - Where is Cpt. Thayne based?
   - Who is Nyett Toothsharp?
   - What is the orc strategy?
-    - Gather intel. Report on movement, numbers, and which tribes.
+    - Gather intel. Report on movement, numbers, and which tribes (which ones have not been recruited?).
     - Capture enemies (gentle repose defeated and plant at other raids?).
   
 - Secure and explore Vradth Keep in the Witchwood of Elsyr Vale.
