@@ -3,30 +3,23 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-
-- Debrief Misha about events at Orlane.
-  - What's her full name and background?
-  - What brought her to Orlane? What were her responsibilities? Is she still responsible for temple?
-  - Mend statue of Lathander and give to Misha along with holy book (Instill sense of duty).
-  - Show her Ailla's letters. Did she know of Garath Primo and the ancient Goliath temple?
-  - Did she know of the troglodytes? Any other threats, is it safe to return?
-  - Will she help with researching/defeating the Serpent Queen (fund with Orlane's treasure)?
-    - Locate second looter's spoils; may contain Misha's holy emblem.
-    - Where is the Goliath temple? We left trail blazes towards temple off the road south.
-    - Capture fanatic and determine cause of alteration: Detect Magic, Poison & Disease, or Evil.
-
-- Send message to Father William (Sending or Messenger).
-  - Route messages through Cpt. Thayne in Kuldera(?).
-  - Inform him of the loss of Orlane, can he research Snake Mother?
-
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
+  - Where is Cpt. Thayne based?
   - Who is Nyett Toothsharp?
 
 - Secure and explore Vradth Keep in the Witchwood of Elsyr Vale.
   - See map, and read "The Rise and Fall of Rhestilor".
   - Can the keep serve as a base of operations in the Vale?
 
-- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Potential source for lore?)
+- Send message to Father William (Sending or Messenger).
+  - Route messages through Cpt. Thayne in Kuldera(?).
+  - Inform him of the loss of Orlane, can he research Serpent Queen?
+
+- Follow up with Misha about events at Orlane. Is she staying in Keys?
+  - What lore is there about the Serpent Queen?
+  - Where is the Goliath temple? We left trail blazes towards temple off the road south.
+  - What was the cause of alteration? Detect Magic, Poison & Disease, or Evil.
+  - Who is Garath Primo?
 
 - Monitor progress of Rockseeker brothers restarting magic forge in Wave Echo Cave.
   - Will maintain contact through Father William.
@@ -38,6 +31,8 @@ permalink: /objectives/
     - Paid 500g to rebuild roof over library.
   - Build library and conduct research.
     - Recovered 62 books from Mormusk's chambers in Wave Echo Cave.
+
+- Check in with Darren Edermath, orchard keeper and former adventurer in Phandalin. (Potential source for lore?)
 
 - Determine whereabouts of Sister Garaelle from Phandalin, she's been missing and presumed dead. She was attempting to trade a small bag of jewels for Bowgentle's spellbook with Agatha, a banshee in Thundertree. We were given a silver comb for the trade.
 
