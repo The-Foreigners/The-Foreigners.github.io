@@ -7,6 +7,7 @@ permalink: /objectives/
   - Purchase big city items:
     - PLATE ARMOR
     - manacles (arcane lock?)
+    - map of Elsyer Vale
   - Is there a library? Sages that can research Serpent Queen?
   - Messenger service? See following.
 
