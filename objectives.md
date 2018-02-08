@@ -4,15 +4,16 @@ title: Current Objectives
 permalink: /objectives/
 ---
 - Purchase big city items:
-  - plate armor
+  - PLATE ARMOR
   - manacles
 
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. Bruglor says Azarr’kul will come through the Elsyr Vale, down from the Wyvern Watch and Wyrm Smoke mountains near Drelin’s Mill. If they take the first town and have the river, the rest will be easy. He says that if we loose Brendall, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
   - Where is Cpt. Thayne based?
   - Who is Nyett Toothsharp?
   - What is the orc strategy?
-    - Gather intel. Report on movement, numbers, and which tribes (which ones have not been recruited?).
-    - Capture enemies (gentle repose defeated and plant at other raids?).
+    - What's the timeframe?
+    - Gather intel. Report on movement, numbers, and tribes (which Wyrmlords have not been recruited?).
+    - Capture enemies (gentle repose defeated and plant at other raids to provoke infighting).
   
 - Secure and explore Vradth Keep in the Witchwood of Elsyr Vale.
   - See map, and read "The Rise and Fall of Rhestilor".
