@@ -9,6 +9,7 @@ permalink: /objectives/
     - manacles (arcane lock?)
     - map of Elsyer Vale
   - Is there a library? Sages that can research Serpent Queen?
+  - Find Reeve/Sherrif or private agent. Who is Garath Primo?
   - Messenger service? See following.
 
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. Bruglor says Azarr’kul will come through the Elsyr Vale, down from the Wyvern Watch and Wyrm Smoke mountains near Drelin’s Mill. If they take the first town and have the river, the rest will be easy. He says that if we loose Brendall, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
@@ -31,7 +32,7 @@ permalink: /objectives/
   - What lore is there about the Serpent Queen?
   - Where is the Goliath temple? We left trail blazes towards temple off the road south.
   - What was the cause of alteration? Detect Magic, Poison & Disease, or Evil.
-  - Who is Garath Primo?
+  - Who is the visiting wizard(?) Garath Primo? Is he culpable or can he be helpful?
 
 - Monitor progress of Rockseeker brothers restarting magic forge in Wave Echo Cave.
   - Will maintain contact through Father William.
