@@ -8,6 +8,7 @@ permalink: /objectives/
 - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne.
   - Where is Cpt. Thayne based?
   - Who is Nyett Toothsharp?
+  - What is the orc strategy?
 
 - Secure and explore Vradth Keep in the Witchwood of Elsyr Vale.
   - See map, and read "The Rise and Fall of Rhestilor".
