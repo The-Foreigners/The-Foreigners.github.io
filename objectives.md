@@ -3,6 +3,7 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
+## Primary Objectives
 - Kuldera
   - Purchase big city items:
     - PLATE ARMOR
@@ -34,6 +35,8 @@ permalink: /objectives/
   - Where is the Goliath temple? We left trail blazes towards temple off the road south.
   - What was the cause of alteration? Detect Magic, Poison & Disease, or Evil.
   - Who is the visiting wizard(?) Garath Primo? Is he culpable or can he be helpful?
+
+## Secondary Objectives
 
 - Monitor progress of Rockseeker brothers restarting magic forge in Wave Echo Cave.
   - Will maintain contact through Father William.
