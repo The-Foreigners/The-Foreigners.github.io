@@ -4,6 +4,18 @@ title: Current Objectives
 permalink: /objectives/
 ---
 ## Primary Objectives
+
+- Use pintons to mount dragon to tower.
+
+- How to retreat back across the ravine? 
+  Fly + Enchance Ability: Bull's Strength -> Grin = 1200 lbs. carrying capacity; Atticus = 570 lbs.
+  Atticus weights 200 + (285 max)?
+  Sorren weighs 163 + (225 max)?
+  Zera weighs 130 + (150 max)?
+  (Atticus, Sorren, Zera + max CC = 1153)
+
+- Check with Garath Primo checks in with the Academy at the beginning of the month.
+
 - Kuldera
   - Purchase big city items:
     - PLATE ARMOR
@@ -14,7 +26,7 @@ permalink: /objectives/
   - Messenger service? See following.
   - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
 
-- Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. Bruglor says Azarr’kul will come through the Elsyr Vale, down from the Wyvern Watch and Wyrm Smoke mountains near Drelin’s Mill. If they take the first town and have the river, the rest will be easy. He says that if we loose Brendall, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
+- Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. Bruglor says Azarr’kul will come through the Elsyr Vale, down from the Wyvern Watch and Wyrm Smoke mountains near Drelin’s Ferry. If they take the first town and have the river, the rest will be easy. He says that if we loose Brendall, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
   - Where is Cpt. Thayne based?
   - Who is Nyett Toothsharp?
   - What is the orc strategy?
