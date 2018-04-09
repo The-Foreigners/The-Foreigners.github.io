@@ -5,22 +5,11 @@ permalink: /objectives/
 ---
 ## Primary Objectives
 
-- Use pintons to mount dragon to tower.
-
-- How to retreat back across the ravine? 
-  Fly + Enchance Ability: Bull's Strength -> Grin = 1200 lbs. carrying capacity; Atticus = 570 lbs.
-  Atticus weights 200 + (285 max)?
-  Sorren weighs 163 + (225 max)?
-  Zera weighs 130 + (150 max)?
-  (Atticus, Sorren, Zera + max CC = 1153)
+- Loot last patrol. Flee to the around the NE towards the North Rd.
 
 - Check with Garath Primo checks in with the Academy at the beginning of the month.
 
 - Kuldera
-  - Purchase big city items:
-    - PLATE ARMOR
-    - manacles (arcane lock?)
-    - map of Elsyer Vale
   - Is there a library? Sages that can research Serpent Queen?
   - Find Reeve/Sherrif or private agent. Who is Garath Primo?
   - Messenger service? See following.
