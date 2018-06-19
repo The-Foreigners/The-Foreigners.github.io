@@ -19,14 +19,19 @@ permalink: /objectives/
 - Segment a ladder to mend later, use to infiltrate orc outpost.
 
 - Determine where to next? Review map notations.
-  - Orc outpost. Where's Thayne? Sending message?
+  - Orc outpost. 
+  - Where's Thayne? Sending message?
   
 - Prepare Gentle Repose to capture deceased Wyrmlords, revive later.
 
 - Business:
   - Crafting/Shopping:
-    - divination tools
-    - scrying focus
+    - spell components
+      - 25g Divination 'spirits'
+      - 500g diamond; Raise Dead
+      - 100g diamond dust; Greater Restoration
+      - divination tools; Augury, Legend Lore, Find the Path
+      - Scrying focus, 1000g
   - Messenger service:
   - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
 
