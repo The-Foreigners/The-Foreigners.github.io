@@ -11,8 +11,8 @@ permalink: /objectives/
 - Review items: secondary effects, count attunements.
 
 - Determine where to next? Review map notations.
-  - Where's Thayne?
-  - Get Zera (enchance ability or Atticus assist) to barter for scorpions, two may suffice.
+  - Where's Thayne? Sending message?
+  - Get Zera (Enchance Ability or Atticus assist) to barter for scorpions, two may suffice.
 
 
 ## Primary Objectives
