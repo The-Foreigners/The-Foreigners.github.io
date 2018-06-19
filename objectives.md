@@ -32,8 +32,9 @@ permalink: /objectives/
       - 100g diamond dust; Greater Restoration
       - divination tools; Augury, Legend Lore, Find the Path
       - Scrying focus, 1000g
-      - True Seeing
-      - Heroes' Feast
+      - Legend Lore incense
+      - True Seeing ointment
+      - Heroes' Feast jeweled bowl
   - Messenger service:
   - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
 
