@@ -56,9 +56,9 @@ permalink: /objectives/
   - Explore the underground 'ocean'.
 
 - Manage Tresender Manor: 
-  - Thanye sent funds to secure cave entrance.
   - Barthin quoted 75 days and 13,000g to rebuild.
     - Paid 500g to rebuild roof over library.
+    - Thanye sent funds to secure cave entrance.
   - Build library and conduct research.
     - Recovered 62 books from Mormusk's chambers in Wave Echo Cave.
 
