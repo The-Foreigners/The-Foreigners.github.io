@@ -3,9 +3,19 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-## Primary Objectives
 
-- Loot last patrol. Flee to the around the NE towards the North Rd.
+- Extract dragon teeth, use with medallion to create divination tools.
+
+- Explore lower level of Rhest townhall, Wand of Secrets.
+
+- Review items: secondary effects, count attunements.
+
+- Determine where to next? Review map notations.
+  - Where's Thayne?
+  - Get Zera (enchance ability or Atticus assist) to barter for scorpions, two may suffice.
+
+
+## Primary Objectives
 
 - Check with Garath Primo checks in with the Academy at the beginning of the month.
 
@@ -21,7 +31,7 @@ permalink: /objectives/
   - What is the orc strategy?
     - What's the timeframe?
     - Gather intel. Report on movement, numbers, and tribes (which Wyrmlords have not been recruited?).
-    - Capture enemies (gentle repose defeated and plant at other raids to provoke infighting).
+    - Capture enemies.
   
 - Secure and explore Vradth Keep in the Witchwood of Elsyr Vale.
   - See map, and read "The Rise and Fall of Rhestilor".
