@@ -5,19 +5,21 @@ permalink: /objectives/
 ---
 ## Current Tasks
 
+- Review items: secondary effects, count attunements.
+
 - What is the date? Relative to orc invasion?
 
 - Extract dragon teeth, use with medallion to create divination tools.
 
 - Explore lower level of Rhest townhall, Wand of Secrets.
 
+- Retrieve horses.
+  - Get Zera (Enchance Ability or Atticus assist) to barter for scorpions, two may suffice.
+
 - Segment a ladder to mend later, use to infiltrate orc outpost.
 
-- Review items: secondary effects, count attunements.
-
 - Determine where to next? Review map notations.
-  - Where's Thayne? Sending message?
-  - Get Zera (Enchance Ability or Atticus assist) to barter for scorpions, two may suffice.
+  - Orc outpost. Where's Thayne? Sending message?
   
 - Prepare Gentle Repose to capture deceased Wyrmlords, revive later.
 
