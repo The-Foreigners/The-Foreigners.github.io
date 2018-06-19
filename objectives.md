@@ -4,6 +4,8 @@ title: Current Objectives
 permalink: /objectives/
 ---
 
+- What is the date? Relative to orc invasion?
+
 - Extract dragon teeth, use with medallion to create divination tools.
 
 - Explore lower level of Rhest townhall, Wand of Secrets.
