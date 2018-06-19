@@ -5,7 +5,9 @@ permalink: /objectives/
 ---
 ## Current Tasks
 
-- Review items: secondary effects, count attunements.
+- Review items: 
+  - Check secondary effects, count attunements.
+  - Inventory wine looted outside of Keys.
 
 - What is the date? Relative to orc invasion?
 
