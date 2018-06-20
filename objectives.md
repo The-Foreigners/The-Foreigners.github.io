@@ -6,8 +6,8 @@ permalink: /objectives/
 ## Current Tasks
 
 - Review items: 
-  - Check secondary effects, count attunements.
-  - Inventory wine looted outside of Keys.
+  - Count attunements: armor, weapon, staff, wand
+  - Correct wine inventory to 8.
 
 - What is the date? Relative to orc invasion?
 
@@ -28,7 +28,10 @@ permalink: /objectives/
 
 - Business:
   - Crafting/Shopping:
-    - spell components: 25g Divination 'spirits'; 500g diamond, Raise Dead; 100g diamond dust, Greater Restoration; divination tools: Augury, Legend Lore, Find the Path; 1000g Scrying focus; Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl
+    - spell components: 
+      - Divination tools: Augury, Legend Lore, Find the Path; 1000g Scrying focus;
+      - 25g Divination 'spirits'; 500g diamond, Raise Dead; 100g diamond dust, Greater Restoration 
+      - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl
   - Messenger service:
   - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
 
