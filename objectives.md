@@ -7,23 +7,21 @@ permalink: /objectives/
 
 - Review items: 
   - Count attunements: armor, weapon, staff, wand
-  - Correct wine inventory to 8.
-
-- What is the date? Relative to orc invasion?
-
-- Extract dragon teeth, use with medallion to create divination tools.
-
-- Explore lower level of Rhest townhall, Wand of Secrets.
-
-- Retrieve horses.
-  - Get Zera (Enchance Ability or Atticus assist) to barter for scorpions, two may suffice.
 
 - Segment a ladder to mend later, use to infiltrate orc outpost.
 
+- Return to Rhest, defeat Razorfiends
+  - Extract dragon teeth, use with medallion to create divination tools.
+  - Explore lower level of Rhest townhall: Wand of Secrets, Control Water
+
 - Determine where to next? Review map notations.
-  - Orc outpost. 
   - Where's Thayne? Sending message?
-  
+  - Orc roadblock, 'Has a blackness about it.'
+  - Defend small towns enroute of the invaders from raiding parties.
+
+- Craft duplicate of phylactery
+  - Send to Ghostlord with one of his minions, get him to quit the war.
+
 - Prepare Gentle Repose to capture deceased Wyrmlords, revive later.
 
 - Business:
@@ -32,6 +30,8 @@ permalink: /objectives/
       - Divination tools: Augury, Legend Lore, Find the Path; 1000g Scrying focus;
       - 25g Divination 'spirits'; 500g diamond, Raise Dead; 100g diamond dust, Greater Restoration 
       - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl
+    - phylactery duplicate
+    - 'collapsable' ladder
   - Messenger service:
   - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
 
