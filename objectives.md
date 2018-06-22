@@ -5,9 +5,10 @@ permalink: /objectives/
 ---
 ## Current Tasks
 
-- PRACTICE AVOIDING COUNTERSPELL: range 60ft., opponent must see casting, watch for reactions.
-
-- Send refugees further east than Brendal? We hope to stop the invasion there, but everyone must be prepared.
+- PRACTICE AVOIDING COUNTERSPELL
+  - Stay beyond 60ft range.
+  - Use cover to prevent casting being seen.
+  - Keep track of reactions.
 
 - Review items: 
   - Count attunements: armor, weapon, staff, wand
@@ -22,6 +23,8 @@ permalink: /objectives/
   - Where's Thayne? Sending message?
   - Orc roadblock, 'Has a blackness about it.'
   - Defend small towns enroute of the invaders from raiding parties.
+
+- Send refugees further east than Brendal? "We hope to stop the invasion there, but everyone must be prepared."
 
 - Craft duplicate of phylactery
   - Send to Ghostlord with one of his minions, get him to quit the war.
