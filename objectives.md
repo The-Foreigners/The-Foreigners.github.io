@@ -5,10 +5,14 @@ permalink: /objectives/
 ---
 ## Current Tasks
 
+- DON'T BUNCH UP!!
+
 - PRACTICE AVOIDING COUNTERSPELL
   - Stay beyond 60ft range.
   - Use cover to prevent casting being seen.
   - Keep track of reactions.
+
+- Check in on Garath Primo with Kuldera Academy on the 1st.
 
 - Review items: 
   - Count attunements: armor, weapon, staff, wand
