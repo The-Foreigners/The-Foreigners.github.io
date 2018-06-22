@@ -5,6 +5,9 @@ permalink: /objectives/
 ---
 ## Current Tasks
 
+- PRACTICE AVOIDING COUNTERSPELL: range 60ft., opponent must see casting.
+- USE REACTION TO IDENTIFY SPELLS OR EFFECTS.
+
 - Send refugees further east than Brendal? We hope to stop the invasion there, but everyone must be prepared.
 
 - Review items: 
