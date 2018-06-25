@@ -21,7 +21,9 @@ permalink: /objectives/
 - Review items: 
   - Count attunements: armor, weapon, staff, wand
 
-- Prepare Gentle Repose to capture deceased Wyrmlords to revive later, Nyett Toothsharp in particular.
+- Prepare Gentle Repose
+  - Capture deceased Wyrmlords to revive later, Nyett Toothsharp in particular.
+  - Preserve acid gland from dragon.
 
 - Check in on Garath Primo with Kuldera Academy on the 1st.
 
