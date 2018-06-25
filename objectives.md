@@ -3,7 +3,7 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-## Current Tasks
+## Combat Strategies
 
 - DON'T BUNCH UP!!
 
@@ -14,30 +14,29 @@ permalink: /objectives/
 
 - KEEP ACCURATE ROUND COUNT FOR SPELL EFFECTS.
 
-- REMEMBER TO DETECT MAGIC WHILE LOOTING, Wand of Secrets.
+- DETECT MAGIC WHILE LOOTING, Wand of Secrets.
 
-- Check in on Garath Primo with Kuldera Academy on the 1st.
+## Current Tasks
 
 - Review items: 
   - Count attunements: armor, weapon, staff, wand
 
-- Use segmented ladder to infiltrate orc outpost.
+- Prepare Gentle Repose to capture deceased Wyrmlords to revive later, Nyett Toothsharp in particular.
 
-- Return to Rhest, defeat Razorfiends
-  - Extract dragon teeth, use with medallion to create divination tools.
-  - Explore lower level of Rhest townhall: Wand of Secrets, Control Water
+- Check in on Garath Primo with Kuldera Academy on the 1st.
+
+- Use segmented ladder to infiltrate orc outpost.
+  - 'Has a blackness about it'
+  - Raven Queen desires artifact inside.
 
 - Determine where to next? Review map notations.
   - Where's Thayne? Sending message?
-  - Orc roadblock, 'Has a blackness about it.'
   - Defend small towns enroute of the invaders from raiding parties.
 
 - Send refugees further east than Brendal? "We hope to stop the invasion there, but everyone must be prepared."
 
 - Craft duplicate of phylactery
   - Send to Ghostlord with one of his minions, get him to quit the war.
-
-- Prepare Gentle Repose to capture deceased Wyrmlords to revive later, Nyett Toothsharp in particular.
 
 - Business:
   - Crafting/Shopping:
@@ -46,7 +45,6 @@ permalink: /objectives/
       - 25g Divination 'spirits'; 500g diamond, Raise Dead; 100g diamond dust, Greater Restoration 
       - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl
     - phylactery duplicate
-    - 'collapsable' ladder
   - Messenger service:
   - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
 
@@ -54,7 +52,6 @@ permalink: /objectives/
 ## Primary Objectives
 
 - The Red Hand
-  - Where is Cpt. Thayne?
   - Who is Nyett Toothsharp?
   - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. 
     - Bruglor says Azarr’kul will come through the Elsyr Vale, down from the Wyvern Watch and Wyrm Smoke mountains near Drelin’s Ferry. If they take the first town and have the river, the rest will be easy. He says that if we loose Brendall, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
@@ -62,6 +59,7 @@ permalink: /objectives/
       - What's the timeframe?
       - Gather intel. Report on movement, numbers, and tribes (which Wyrmlords have not been recruited?).
       - Capture enemies.
+  - The Ghostlord.
   - Bruglor Axebiter has agreed to shelter orc refugees in the north. (Has sending stone to communicate)
 
 - The Serpent Queen
