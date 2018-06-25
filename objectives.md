@@ -44,7 +44,7 @@ permalink: /objectives/
 - Business:
   - Crafting/Shopping:
     - spell components: 
-      - Divination tools: Augury, Legend Lore, Find the Path; 1000g Scrying focus;
+      - Divination tools: Augury, Legend Lore, Find the Path; 1000g Scrying focus; 1000g Hallow materials
       - 25g Divination 'spirits'; 500g diamond, Raise Dead; 100g diamond dust, Greater Restoration 
       - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl, Planar Binding gem
     - phylactery duplicate
