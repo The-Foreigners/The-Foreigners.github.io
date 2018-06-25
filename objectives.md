@@ -46,7 +46,7 @@ permalink: /objectives/
     - spell components: 
       - Divination tools: Augury, Legend Lore, Find the Path; 1000g Scrying focus;
       - 25g Divination 'spirits'; 500g diamond, Raise Dead; 100g diamond dust, Greater Restoration 
-      - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl
+      - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl, Planar Binding gem
     - phylactery duplicate
   - Messenger service:
   - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
