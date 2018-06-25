@@ -55,7 +55,7 @@ permalink: /objectives/
 ## Primary Objectives
 
 - The Red Hand
-  - Fortify, reinforce Brendal
+  - Fortify and reinforce Brendal
     - Hallowed ground    
   - Who is Nyett Toothsharp?
   - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. 
