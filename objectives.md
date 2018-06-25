@@ -7,17 +7,21 @@ permalink: /objectives/
 
 - DON'T BUNCH UP!!
 
-- PRACTICE AVOIDING COUNTERSPELL
+- PRACTICE AVOIDING COUNTERSPELL.
   - Stay beyond 60ft range.
   - Use cover to prevent casting being seen.
   - Keep track of reactions.
+
+- KEEP ACCURATE ROUND COUNT FOR SPELL EFFECTS.
+
+- REMEMBER TO DETECT MAGIC WHILE LOOTING, Wand of Secrets.
 
 - Check in on Garath Primo with Kuldera Academy on the 1st.
 
 - Review items: 
   - Count attunements: armor, weapon, staff, wand
 
-- Segment a ladder to mend later, use to infiltrate orc outpost.
+- Use segmented ladder to infiltrate orc outpost.
 
 - Return to Rhest, defeat Razorfiends
   - Extract dragon teeth, use with medallion to create divination tools.
@@ -33,7 +37,7 @@ permalink: /objectives/
 - Craft duplicate of phylactery
   - Send to Ghostlord with one of his minions, get him to quit the war.
 
-- Prepare Gentle Repose to capture deceased Wyrmlords, revive later.
+- Prepare Gentle Repose to capture deceased Wyrmlords to revive later, Nyett Toothsharp in particular.
 
 - Business:
   - Crafting/Shopping:
