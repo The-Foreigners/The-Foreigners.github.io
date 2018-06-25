@@ -3,7 +3,7 @@ layout: page
 title: Current Objectives
 permalink: /objectives/
 ---
-## Combat Strategies
+## Tactics
 
 - DON'T BUNCH UP!!
 
