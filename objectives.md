@@ -46,7 +46,7 @@ permalink: /objectives/
     - spell components: 
       - Divination tools: Augury, Legend Lore, Find the Path; 1000g Scrying focus; 1000g Hallow materials
       - 25g Divination 'spirits'; 500g diamond, Raise Dead; 100g diamond dust, Greater Restoration 
-      - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl, Planar Binding gem
+      - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl, Planar Binding gem, Fordiddance ruby dust
     - phylactery duplicate
   - Messenger service:
   - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
@@ -55,6 +55,8 @@ permalink: /objectives/
 ## Primary Objectives
 
 - The Red Hand
+  - Fortify, reinforce Brendal
+    - Hallowed ground    
   - Who is Nyett Toothsharp?
   - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. 
     - Bruglor says Azarr’kul will come through the Elsyr Vale, down from the Wyvern Watch and Wyrm Smoke mountains near Drelin’s Ferry. If they take the first town and have the river, the rest will be easy. He says that if we loose Brendall, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
