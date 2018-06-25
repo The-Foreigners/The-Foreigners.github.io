@@ -26,11 +26,14 @@ permalink: /objectives/
   - Capture deceased Wyrmlords to revive later, Nyett Toothsharp in particular.
   - Preserve acid gland from dragon.
 
+- 'Sending' B. Hill that Razorfiends destroyed; they may need to destroy eggs.
+
 - Check in on Garath Primo with Kuldera Academy on the 1st.
 
 - Use segmented ladder to infiltrate orc outpost.
   - 'Has a blackness about it'
   - Raven Queen desires artifact inside.
+  - Butcher boars to feed scorpions.
 
 - Determine where to next? Review map notations.
   - Where's Thayne? Sending message?
