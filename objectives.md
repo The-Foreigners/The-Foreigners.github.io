@@ -22,6 +22,7 @@ permalink: /objectives/
   - Count attunements: armor, weapon, staff, wand
 
 - Prepare Gentle Repose
+  - Acquire 2cp spell components.
   - Capture deceased Wyrmlords to revive later, Nyett Toothsharp in particular.
   - Preserve acid gland from dragon.
 
