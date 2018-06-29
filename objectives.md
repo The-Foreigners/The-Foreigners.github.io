@@ -13,6 +13,7 @@ permalink: /objectives/
   - Keep track of reactions.
 
 - USE REACTION TO IDENTIFY SPELL (LEVEL?) AS THEY ARE CAST BEFORE DISPELLING.
+  - spell level 4 is DC 19 check, level 5 is a 20.
 
 - KEEP ACCURATE ROUND COUNT FOR SPELL EFFECTS.
 
