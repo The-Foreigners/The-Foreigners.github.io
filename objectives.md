@@ -39,7 +39,7 @@ permalink: /objectives/
   - Where's Thayne? Sending message?
   - Defend small towns enroute of the invaders from raiding parties.
 
-- Send refugees further east than Brendal? "We hope to stop the invasion there, but everyone must be prepared."
+- Send refugees further east than Brindol? "We hope to stop the invasion there, but everyone must be prepared."
 
 - Craft duplicate of phylactery
   - Send to Ghostlord with one of his minions, get him to quit the war.
@@ -58,13 +58,13 @@ permalink: /objectives/
 ## Primary Objectives
 
 - The Red Hand
-  - Fortify and reinforce Brendal
+  - Fortify and reinforce Brindol
     - Hallow ground
     - Forbiddance sanctuary
     - Glyph of Warding single target buffs
   - Who is Nyett Toothsharp?
   - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. 
-    - Bruglor says Azarr’kul will come through the Elsyr Vale, down from the Wyvern Watch and Wyrm Smoke mountains near Drelin’s Ferry. If they take the first town and have the river, the rest will be easy. He says that if we loose Brendall, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
+    - Bruglor says Azarr Kul will come through the Elsyr Vale, down from the Wyvernwatch and Wyrmsmoke mountains near Drelin’s Ferry. If they take the first town and have the river, the rest will be easy. He says that if we loose Brindol, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
     - What is the orc strategy?
       - What's the timeframe?
       - Gather intel. Report on movement, numbers, and tribes (which Wyrmlords have not been recruited?).
