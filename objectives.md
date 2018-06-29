@@ -12,6 +12,8 @@ permalink: /objectives/
   - Use cover to prevent casting being seen.
   - Keep track of reactions.
 
+- USE REACTION TO IDENTIFY SPELL LEVEL BEFORE DISPELLING.
+
 - KEEP ACCURATE ROUND COUNT FOR SPELL EFFECTS.
 
 - DETECT MAGIC WHILE LOOTING, Wand of Secrets.
