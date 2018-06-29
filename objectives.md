@@ -34,6 +34,7 @@ permalink: /objectives/
 
 - Use segmented ladder to infiltrate orc outpost.
   - 'Has a blackness about it'
+  - Nearby four tent camp, with two large creatures.
   - Raven Queen desires artifact inside.
   - Butcher boars to feed scorpions.
 
