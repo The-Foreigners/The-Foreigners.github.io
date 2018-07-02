@@ -12,8 +12,8 @@ permalink: /objectives/
   - Use cover to prevent casting being seen.
   - Keep track of reactions.
 
-- USE REACTION TO IDENTIFY SPELL (LEVEL?) AS THEY ARE CAST BEFORE DISPELLING.
-  - spell level 4 is DC 19 check, level 5 is a 20.
+- USE REACTION TO IDENTIFY SPELL BEFORE DISPELLING.
+  - 4th level spell is DC 19 check, 5th level is a 20.
 
 - KEEP ACCURATE ROUND COUNT FOR SPELL EFFECTS.
 
@@ -23,20 +23,24 @@ permalink: /objectives/
 
 - Review items: 
   - Count attunements: armor, weapon, staff, wand
+  - Check encumberance, carrying capacity of mounts with travois.
+    - 15 strength x30 large x5 pulling = 2250 (1/2 for travois, 1125)
+    - Carrying Capacity + Weight
+    - Sorren, 225 + 163 = 388; Atticus, 285 + 200 = 485
+      - In excess of carrying capacity, room for 12600 coins @ 1125
+    - Grin,  600 + 240 = 840; Zera, 150 + 130 = 280
+      - In excess of carrying capacity, room for 150 coins      
 
 - Prepare Gentle Repose
   - Acquire 2cp spell components.
-  - Capture deceased Wyrmlords to revive later, Nyett Toothsharp in particular.
+  - Capture deceased Wyrmlords/Commanders to revive later, Nyett Toothsharp in particular.
   - Preserve acid gland from dragon.
 
-- 'Sending' B. Hill that Razorfiends destroyed; they may need to destroy eggs.
+- 'Sending' Hill that Razorfiends destroyed; they may need to destroy eggs.
 
 - Check in on Garath Primo with Kuldera Academy on the 1st.
 
-- Use segmented ladder to infiltrate orc outpost.
-  - 'Has a blackness about it'
-  - Nearby four tent camp, with two large creatures.
-  - Raven Queen desires artifact inside.
+- Destroy orc outpost.
   - Butcher boars to feed scorpions.
 
 - Determine where to next? Review map notations.
