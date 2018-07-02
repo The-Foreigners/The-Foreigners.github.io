@@ -31,12 +31,12 @@ permalink: /objectives/
     - Grin,  600 + 240 = 840; Zera, 150 + 130 = 280
       - In excess of carrying capacity, room for 150 coins      
 
+- 'Sending' Hill that Razorfiends destroyed; they may need to destroy eggs.
+
 - Prepare Gentle Repose
   - Acquire 2cp spell components.
   - Capture deceased Wyrmlords/Commanders to revive later, Nyett Toothsharp in particular.
   - Preserve acid gland from dragon.
-
-- 'Sending' Hill that Razorfiends destroyed; they may need to destroy eggs.
 
 - Check in on Garath Primo with Kuldera Academy on the 1st.
 
