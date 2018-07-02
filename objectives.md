@@ -59,6 +59,7 @@ permalink: /objectives/
       - 25g Divination 'spirits'; 500g diamond, Raise Dead; 100g diamond dust, Greater Restoration; 1000g incense, Hallow
       - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl, Planar Binding gem, Fordiddance ruby dust
     - phylactery duplicate
+    - light crossbow & bolts
   - Messenger service:
   - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
 
