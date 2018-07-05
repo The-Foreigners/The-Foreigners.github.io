@@ -46,8 +46,8 @@ permalink: /objectives/
 - Determine where to next? Review map notations.
   - Where's Thayne? Sending message?
   - Defend small towns enroute of the invaders from raiding parties.
-
-- Send refugees further east than Brindol? "We hope to stop the invasion there, but everyone must be prepared."
+  - Meet with Gen. Felix?
+  - Send refugees further east than Brindol? "We hope to stop the invasion there, but everyone must be prepared."
 
 - Craft duplicate of phylactery
   - Send to Ghostlord with one of his minions, get him to quit the war.
