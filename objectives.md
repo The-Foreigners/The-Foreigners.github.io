@@ -27,7 +27,7 @@ permalink: /objectives/
     - 15 strength x30 large x5 pulling = 2250 (1/2 for travois, 1125)
     - Carrying Capacity + Weight
     - Sorren, 225 + 163 = 388; Atticus, 285 + 200 = 485
-      - Room for 12600 coins @ 1125; factoring in passenger carrying capacity
+      - Room for 12600 coins @ 1125; factoring in passenger's carrying capacity
     - Grin,  600 + 240 = 840; Zera, 150 + 130 = 280
       - Room for 150 coins      
 
