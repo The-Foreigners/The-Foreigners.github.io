@@ -60,6 +60,7 @@ permalink: /objectives/
       - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl, Planar Binding gem, Fordiddance ruby dust
     - phylactery duplicate
     - light crossbow & bolts
+    - wish list: handy haversack, bag of holding, or portable hole
   - Trade unused magic items:
     - Dragon Scale Mail
       - Do we equip a hero?
