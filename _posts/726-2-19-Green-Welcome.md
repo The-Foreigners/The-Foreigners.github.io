@@ -1,3 +1,7 @@
+---
+layout: post
+title: Green Welcome
+---
 We stopped by Sterrel's Provisions before the council meeting, we got four horses for each of us along with riding saddles with bit and bridle, saddlebags with 3 days of feed. Then we made a quick stop by Seterin the Wise to purchase some anti-toxin.
 
 We met at the Speaker's House for the town council meeting. In attendance: Cpt. Serana, grim believes we can't win but will do what she is told; Keellin, an innkeep, believes we should send emissaries and make peace like they have done in the past; Delora, owner of a livery, recommends we flee; Iormel, a person of property, favors fighting; and Nora Wistin, the speaker, is undecided. There is the town guard with 25 warriors and a militia of 88 commoners and 30 warriors. After some persuasion, it was decided that they will leave behind a rear guard to slow down the assault and allow the civilians to flee. They will destroy any war material/provisions that they would leave behind. They will scuttle the ferry when orcs are spotted.
