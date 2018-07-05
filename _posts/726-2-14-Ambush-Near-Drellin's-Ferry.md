@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Ambush Near Drellin's Ferry
