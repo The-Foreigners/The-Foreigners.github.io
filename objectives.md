@@ -60,8 +60,12 @@ permalink: /objectives/
       - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl, Planar Binding gem, Fordiddance ruby dust
     - phylactery duplicate
     - light crossbow & bolts
-  - Messenger service:
-  - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
+  - Trade unused magic items, send out request for bids, silent auction:
+    - Dragon Scale Mail (Or do we equip a hero?)
+  - Hirelings:
+    - See Serpent Queen.
+    - Messenger service (Can we find one to equip with sending stones?):
+    - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
 
 
 ## Primary Objectives
@@ -71,23 +75,24 @@ permalink: /objectives/
     - Hallow ground
     - Forbiddance sanctuary
     - Glyph of Warding single target buffs
-  - Who is Nyett Toothsharp?
+  - Capture Nyett Toothsharp
   - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. 
     - Bruglor says Azarr Kul will come through the Elsir Vale, down from the Wyvernwatch and Wyrmsmoke mountains near Drellin’s Ferry. If they take the first town and have the river, the rest will be easy. He says that if we loose Brindol, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
     - What is the orc strategy?
       - What's the timeframe?
       - Gather intel. Report on movement, numbers, and tribes (which Wyrmlords have not been recruited?).
       - Capture enemies.
-  - The Ghostlord.
+  - Dissuade the Ghostlord.
   - Bruglor Axebiter has agreed to shelter orc refugees in the north. (Has sending stone to communicate)
 
 - The Serpent Queen
   - Where is the Goliath temple? We left trail blazes towards temple off the road south.
+    - Hire adventurers to find Serpent Queen Temple south of Orlane.
+    - Coordinate with Misha, follow up with her about events at Orlane. Is she staying in Keys?  
   - What was the source and nature of the mind control? 
   - What lore is there about the Serpent Queen? 
     - Can anyone at the Kuldera library research Serpent Queen?
-    - Send message to Father William about the loss of Orlane, can he research Serpent Queen?
-  - Follow up with Misha about events at Orlane. Is she staying in Keys?
+    - Send message to Father William about the loss of Orlane, can he research Serpent Queen?  
   - Follow up at the beginning of the month when Garath Primo checks in with the Kuldera Academy.
     - Is he culpable or can he be helpful?
 
