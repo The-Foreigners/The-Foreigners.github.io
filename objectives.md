@@ -27,9 +27,9 @@ permalink: /objectives/
     - 15 strength x30 large x5 pulling = 2250 (1/2 for travois, 1125)
     - Carrying Capacity + Weight
     - Sorren, 225 + 163 = 388; Atticus, 285 + 200 = 485
-      - In excess of carrying capacity, room for 12600 coins @ 1125
+      - Room for 12600 coins @ 1125; factoring in passenger carrying capacity
     - Grin,  600 + 240 = 840; Zera, 150 + 130 = 280
-      - In excess of carrying capacity, room for 150 coins      
+      - Room for 150 coins      
 
 - 'Sending' Hill that Razorfiends destroyed; they may need to destroy eggs.
 
