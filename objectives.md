@@ -31,7 +31,7 @@ permalink: /objectives/
     - Grin,  600 + 240 = 840; Zera, 150 + 130 = 280
       - Room for 150 coins      
 
-- 'Sending' Hill that Razorfiends destroyed; they may need to destroy eggs.
+- 'Sending' Bohol Hill that Razorfiends destroyed; they may need to destroy eggs.
 
 - Prepare Gentle Repose
   - Acquire 2cp spell components.
@@ -73,7 +73,7 @@ permalink: /objectives/
     - Glyph of Warding single target buffs
   - Who is Nyett Toothsharp?
   - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. 
-    - Bruglor says Azarr Kul will come through the Elsyr Vale, down from the Wyvernwatch and Wyrmsmoke mountains near Drelin’s Ferry. If they take the first town and have the river, the rest will be easy. He says that if we loose Brindol, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
+    - Bruglor says Azarr Kul will come through the Elsir Vale, down from the Wyvernwatch and Wyrmsmoke mountains near Drellin’s Ferry. If they take the first town and have the river, the rest will be easy. He says that if we loose Brindol, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
     - What is the orc strategy?
       - What's the timeframe?
       - Gather intel. Report on movement, numbers, and tribes (which Wyrmlords have not been recruited?).
