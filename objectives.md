@@ -13,7 +13,7 @@ permalink: /objectives/
   - Keep track of reactions.
 
 - USE REACTION TO IDENTIFY SPELL BEFORE DISPELLING.
-  - 4th level spell is DC 19 check, 5th level is a 20.
+  - 4th level spell is DC 19 check, 5th is 20.
 
 - KEEP ACCURATE ROUND COUNT FOR SPELL EFFECTS.
 
