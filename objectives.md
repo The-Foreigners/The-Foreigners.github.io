@@ -60,11 +60,13 @@ permalink: /objectives/
       - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl, Planar Binding gem, Fordiddance ruby dust
     - phylactery duplicate
     - light crossbow & bolts
-  - Trade unused magic items, send out request for bids, silent auction:
-    - Dragon Scale Mail (Or do we equip a hero?)
+  - Trade unused magic items:
+    - Dragon Scale Mail
+      - Do we equip a hero?
+      - Send out request for bids to high-end shops, silent auction
   - Hirelings:
     - See Serpent Queen.
-    - Messenger service (Can we find one to equip with sending stones?):
+    - Messenger service (Can we find one to equip or equipped with sending stones?):
     - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
 
 
