@@ -66,7 +66,7 @@ permalink: /objectives/
       - Send out request for bids to high-end shops, silent auction
   - Hirelings:
     - See Serpent Queen.
-    - Messenger service (Can we find one to equip or equipped with sending stones?):
+    - Messenger service (Any equipped with sending stones/animal messengers?):
     - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
 
 
