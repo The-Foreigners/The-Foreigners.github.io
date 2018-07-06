@@ -1,4 +1,4 @@
-During the night we were attacked by seven harpies. Early, before dawn, we attacked the camp. Though they were easily dispatched with the help of a well-placed fireball, they had sounded the alarm as we approached. Next, we charged the fort through the dim light, but as soon as one of the guards fell the rest fled.
+During the night, we were attacked by seven harpies. Early, before dawn, we attacked the camp. Though they were easily dispatched with the help of a well-placed fireball, they had sounded the alarm as we approached. Next, we charged the fort through the dim light, but as soon as one of the guards fell the rest fled.
 
 Breaking in the doors, we found a warlock summoning a devil. In the room there were dead bodies everywhere, five colored banners with streamers to a large ruby (1000g) hanging from the ceiling. Upon seeing us the warlock fled too, using several spells. Zera hasted Atticus who quickly chased down the warlock, while Grin chased down the fleeing guard captain.
 
