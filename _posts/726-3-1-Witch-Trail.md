@@ -1,0 +1,1 @@
+During the night we were attached by seven harpies. Early, before dawn, we attacked the camp. Though they were easily dispatched with the help of a well-placed fireball, they had blown a horn as we approached.
