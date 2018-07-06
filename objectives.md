@@ -58,6 +58,7 @@ permalink: /objectives/
       - 200g Divination tools (x4 ivory strips): Augury, Legend Lore, Find the Path; 1000g Scrying focus
       - 25g Divination 'spirits'; 500g diamond, Raise Dead; 100g diamond dust, Greater Restoration; 1000g incense, Hallow
       - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl, Planar Binding gem, Fordiddance ruby dust
+        - pulverize 1000g ruby
     - phylactery duplicate
     - light crossbow & bolts
     - wish list: handy haversack, bag of holding, or portable hole
