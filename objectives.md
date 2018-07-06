@@ -83,7 +83,7 @@ permalink: /objectives/
   - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. 
     - Bruglor says Azarr Kul will come through the Elsir Vale, down from the Wyvernwatch and Wyrmsmoke mountains near Drellin’s Ferry. If they take the first town and have the river, the rest will be easy. He says that if we loose Brindol, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
     - What is the orc strategy?
-      - What's the timeframe?
+      - What's the timeframe? Reached Drellin's Ferry on the 26th (Where the delayed by the scuttling?).
       - Gather intel. Report on movement, numbers, and tribes (which Wyrmlords have not been recruited?).
       - Capture enemies.
   - Dissuade the Ghostlord.
