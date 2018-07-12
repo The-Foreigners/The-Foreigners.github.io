@@ -92,7 +92,9 @@ permalink: /objectives/
 - The Serpent Queen
   - Where is the Goliath temple? We left trail blazes towards temple off the road south.
     - Hire adventurers to find Serpent Queen Temple south of Orlane.
-    - Coordinate with Misha, follow up with her about events at Orlane. Is she staying in Keys?  
+    - Coordinate with Misha, follow up with her about events at Orlane. 
+      - Is she staying in Keys? Is her order coverning up?
+      - Did she find anyone to help, or conduct any research?
   - What was the source and nature of the mind control? 
   - What lore is there about the Serpent Queen? 
     - Can anyone at the Kuldera library research Serpent Queen?
