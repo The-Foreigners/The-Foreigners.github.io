@@ -19,6 +19,8 @@ permalink: /objectives/
 
 - DETECT MAGIC WHILE LOOTING, Wand of Secrets.
 
+- GUIDANCE RANGE IS TOUCH.
+
 ## Current Tasks
 
 - Review items: 
