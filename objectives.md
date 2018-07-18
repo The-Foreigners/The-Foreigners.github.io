@@ -12,13 +12,14 @@ permalink: /objectives/
   - Use cover to prevent casting being seen.
   - Keep track of reactions.
 
-- USE REACTION TO IDENTIFY A SPELL AS IT IS CAST (especially for non-obvious effects).
+- USE REACTION TO IDENTIFY A SPELL AS IT IS CAST
   - Use to cast dispel at appropriate level.
-  - Review XGtE on perceiving a caster at work (e.g. Charm/Suggestion).
+  - Do especially for non-obvious effects.
+    - Review XGtE on perceiving a caster at work (e.g. Charm/Suggestion).
   - From XGtE, DC is INT(Arcana) 15 + Spell Level (with advantage if cleric).
     - What if it is an innate ability from a creature you've seen before?
   
-- ATTEMPT BREAKING CONCENTRATION BY HOLDING DAMAGE UNTIL OPPOSING CASTER CASTS.  
+- ATTEMPT BREAKING CONCENTRATION BY HOLDING DAMAGE.  
 
 - KEEP ACCURATE ROUND COUNT FOR SPELL EFFECTS.
 
