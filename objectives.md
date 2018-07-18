@@ -13,13 +13,16 @@ permalink: /objectives/
   - Keep track of reactions.
 
 - USE REACTION TO IDENTIFY SPELL BEFORE DISPELLING.
+  - Review XGtE on perceiving a caster at work (e.g. Charm/Suggestion).
   - 4th level spell is DC 19 check, 5th is 20.
+  
+- BREAK CONCENTRATION BY HOLDING DAMAGE UNTIL OPPOSING CASTER CASTS.  
 
 - KEEP ACCURATE ROUND COUNT FOR SPELL EFFECTS.
 
-- DETECT MAGIC WHILE LOOTING, Wand of Secrets.
+- DETECT MAGIC WHILE LOOTING (Wand of Secrets).
 
-- GUIDANCE RANGE IS TOUCH.
+- WATCH SPELL RANGES (e.g. Guidance).
 
 ## Current Tasks
 
@@ -33,20 +36,13 @@ permalink: /objectives/
     - Grin,  600 + 240 = 840; Zera, 150 + 130 = 280
       - Room for 150 coins      
 
-- 'Sending' Bohol Hill that Razorfiends destroyed; they may need to destroy eggs.
+- Is it possible to send the Toothsharps to Bruglor Axebiter in the north?
 
 - Prepare Gentle Repose
-  - Acquire 2cp spell components.
   - Capture deceased Wyrmlords/Commanders to revive later, Nyett Toothsharp in particular.
   - Preserve acid gland from dragon.
 
-- Check in on Garath Primo with Kuldera Academy on the 1st.
-
-- Destroy orc outpost.
-  - Butcher boars to feed scorpions.
-
 - Determine where to next? Review map notations.
-  - Where's Thayne? Sending message?
   - Defend small towns enroute of the invaders from raiding parties.
   - Meet with Gen. Felix?
   - Send refugees further east than Brindol? "We hope to stop the invasion there, but everyone must be prepared."
@@ -81,7 +77,6 @@ permalink: /objectives/
     - Hallow ground
     - Forbiddance sanctuary
     - Glyph of Warding single target buffs
-  - Capture Nyett Toothsharp
   - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. 
     - Bruglor says Azarr Kul will come through the Elsir Vale, down from the Wyvernwatch and Wyrmsmoke mountains near Drellin’s Ferry. If they take the first town and have the river, the rest will be easy. He says that if we loose Brindol, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
     - What is the orc strategy?
@@ -101,8 +96,9 @@ permalink: /objectives/
   - What lore is there about the Serpent Queen? 
     - Can anyone at the Kuldera library research Serpent Queen?
     - Send message to Father William about the loss of Orlane, can he research Serpent Queen?  
-  - Follow up at the beginning of the month when Garath Primo checks in with the Kuldera Academy.
+  - Garath Primo
     - Is he culpable or can he be helpful?
+    - He failed to check-in with the Kuldera Academy.
 
 
 ## Secondary Objectives
