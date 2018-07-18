@@ -44,6 +44,7 @@ permalink: /objectives/
 
 - Craft duplicate of phylactery
   - Send to Ghostlord with one of his minions, get him to quit the war.
+  - Track with 'Detect Magic'.
 
 - Business:
   - Crafting/Shopping:
