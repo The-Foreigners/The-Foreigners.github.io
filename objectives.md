@@ -12,11 +12,13 @@ permalink: /objectives/
   - Use cover to prevent casting being seen.
   - Keep track of reactions.
 
-- USE REACTION TO IDENTIFY SPELL BEFORE DISPELLING.
+- USE REACTION TO IDENTIFY A SPELL AS IT IS CAST (especially for non-obvious effects).
+  - Use to cast dispel at appropriate level.
   - Review XGtE on perceiving a caster at work (e.g. Charm/Suggestion).
-  - 4th level spell is DC 19 check, 5th is 20.
+  - From XGtE, DC is INT(Arcana) 15 + Spell Level (with advantage if cleric).
+    - What if it is an innate ability from a creature you've seen before?
   
-- BREAK CONCENTRATION BY HOLDING DAMAGE UNTIL OPPOSING CASTER CASTS.  
+- ATTEMPT BREAKING CONCENTRATION BY HOLDING DAMAGE UNTIL OPPOSING CASTER CASTS.  
 
 - KEEP ACCURATE ROUND COUNT FOR SPELL EFFECTS.
 
@@ -26,20 +28,12 @@ permalink: /objectives/
 
 ## Current Tasks
 
-- Review items: 
-  - Count attunements: armor, weapon, staff, wand
-  - Check encumberance, carrying capacity of mounts with travois.
-    - 15 strength x30 large x5 pulling = 2250 (1/2 for travois, 1125)
-    - Carrying Capacity + Weight
-    - Sorren, 225 + 163 = 388; Atticus, 285 + 200 = 485
-      - Room for 12600 coins @ 1125; factoring in passenger's carrying capacity
-    - Grin,  600 + 240 = 840; Zera, 150 + 130 = 280
-      - Room for 150 coins      
+- What is our current wealth? Budget enough for material components.
 
 - Is it possible to send the Toothsharps to Bruglor Axebiter in the north?
 
 - Prepare Gentle Repose
-  - Capture deceased Wyrmlords/Commanders to revive later, Nyett Toothsharp in particular.
+  - Capture deceased Wyrmlords/Commanders to revive later.
   - Preserve acid gland from dragon.
 
 - Determine where to next? Review map notations.
@@ -80,7 +74,7 @@ permalink: /objectives/
   - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. 
     - Bruglor says Azarr Kul will come through the Elsir Vale, down from the Wyvernwatch and Wyrmsmoke mountains near Drellin’s Ferry. If they take the first town and have the river, the rest will be easy. He says that if we loose Brindol, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
     - What is the orc strategy?
-      - What's the timeframe? Reached Drellin's Ferry on the 26th (Where the delayed by the scuttling?).
+      - What's the timeframe? Reached Drellin's Ferry on the 26th (Were they delayed by the scuttling?).
       - Gather intel. Report on movement, numbers, and tribes (which Wyrmlords have not been recruited?).
       - Capture enemies.
   - Dissuade the Ghostlord.
@@ -90,7 +84,7 @@ permalink: /objectives/
   - Where is the Goliath temple? We left trail blazes towards temple off the road south.
     - Hire adventurers to find Serpent Queen Temple south of Orlane.
     - Coordinate with Misha, follow up with her about events at Orlane. 
-      - Is she staying in Keys? Is her order coverning up?
+      - Is she staying in Keys? Is her order covering up the incident?
       - Did she find anyone to help, or conduct any research?
   - What was the source and nature of the mind control? 
   - What lore is there about the Serpent Queen? 
@@ -124,6 +118,7 @@ permalink: /objectives/
 - Investigate the Hommlet moathouse and it's rumored riches.
 
 - Learn history of Mealton the Great, what caused the Great Cataclysm?
+  - Question Norcan (sp?) 'the Blue Rider', former court wizard.
 
 
 ## Goals
