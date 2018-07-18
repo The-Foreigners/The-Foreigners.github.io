@@ -57,7 +57,7 @@ permalink: /objectives/
   - Trade unused magic items:
     - Dragon Scale Mail
       - Do we equip a hero?
-      - Send out request for bids to high-end shops, silent auction
+      - Send out request for bids to high-end shops (Christof's Curiosities), silent auction
   - Hirelings:
     - See Serpent Queen.
     - Messenger service (Any equipped with sending stones/animal messengers?):
