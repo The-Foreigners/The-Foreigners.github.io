@@ -5,7 +5,7 @@ permalink: /objectives/
 ---
 ## Tactics
 
-- DON'T BUNCH UP!!
+- DON'T BUNCH UP!! FOCUS FIRE!!
 
 - PRACTICE AVOIDING COUNTERSPELL.
   - Stay beyond 60ft range.
