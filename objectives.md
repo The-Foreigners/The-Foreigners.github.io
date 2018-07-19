@@ -29,6 +29,9 @@ permalink: /objectives/
 
 ## Current Tasks
 
+- Can we create traps around camp? Survival check?
+  - Using acid/poision glands?
+
 - What is our current wealth? Budget enough for material components.
 
 - Is it possible to send the Toothsharps to Bruglor Axebiter in the north?
