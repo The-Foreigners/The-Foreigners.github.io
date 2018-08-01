@@ -43,8 +43,9 @@ permalink: /objectives/
   - Send refugees further east than Brindol? "We hope to stop the invasion there, but everyone must be prepared."
 
 - Craft duplicate of phylactery
+  - Use divination spells to determine if it is real.
   - Send to Ghostlord with one of his minions, get him to quit the war.
-  - Track with 'Detect Magic'.
+  - Track with 'Detect Magic'/'Locate Object'.
 
 - Business:
   - Crafting/Shopping:
