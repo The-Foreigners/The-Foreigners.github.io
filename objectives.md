@@ -40,11 +40,9 @@ permalink: /objectives/
 - Determine where to next? Review map notations.
   - Defend small towns enroute of the invaders from raiding parties.
   - Meet with Gen. Felix?
-  - Send refugees further east than Brindol? "We hope to stop the invasion there, but everyone must be prepared."
 
-- Craft duplicate of phylactery
-  - Use divination spells to determine if it is real.
-  - Send to Ghostlord with one of his minions, get him to quit the war.
+- Craft duplicate of phylactery  
+  - Send to Ghostlord with one of his minions, get him to withdrawl his forces from Elsir Vale.
   - Track with 'Detect Magic'/'Locate Object'.
 
 - Business:
@@ -71,9 +69,12 @@ permalink: /objectives/
 
 - The Red Hand
   - Fortify and reinforce Brindol
-    - Hallow ground
-    - Forbiddance sanctuary
-    - Glyph of Warding single target buffs
+    - Hallow ground (Is there a likely entry point?).
+    - Forbiddance a sanctuary.
+    - Glyph of Warding single target buffs (at 10th level = 1 5th level spell). 
+    - What is the arrangement of the river? Control Water...
+    - How to counter Wyverns?
+    - Prepare for siege? Send refugees east?
   - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. 
     - Bruglor says Azarr Kul will come through the Elsir Vale, down from the Wyvernwatch and Wyrmsmoke mountains near Drellin’s Ferry. If they take the first town and have the river, the rest will be easy. He says that if we loose Brindol, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
     - What is the orc strategy?
@@ -81,7 +82,11 @@ permalink: /objectives/
       - Gather intel. Report on movement, numbers, and tribes (which Wyrmlords have not been recruited?).
       - Capture enemies.
   - Dissuade the Ghostlord.
-  - Bruglor Axebiter has agreed to shelter orc refugees in the north. (Has sending stone to communicate)
+  - Bruglor Axebiter has agreed to shelter orc refugees in the north. 
+    - Has sending stone to communicate (Currently too far to reach).
+    - Will be a week or so (from Day 62) until he finds a suitable place to settle.
+    - According to Toothsharps, it's unlikely any orcs will want to move north.
+    - His intel was what alerted us to the invasion, and should be rewarded with a safe haven (Need to negotiate w/ Dukes/Felix).
 
 - The Serpent Queen
   - Where is the Goliath temple? We left trail blazes towards temple off the road south.
