@@ -42,8 +42,7 @@ permalink: /objectives/
   - Meet with Gen. Felix.
 
 - Craft duplicate of phylactery  
-  - Send to Ghostlord with one of his minions, get him to withdrawl his forces from Elsir Vale.
-    - Prepare 'Tongues' when attempting to subdue.
+  - Send to Ghostlord with one of his minions (Tongues?), get him to withdrawl his forces from Elsir Vale.
   - Track with 'Detect Magic'/'Locate Object'.
 
 - Business:
