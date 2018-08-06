@@ -43,6 +43,7 @@ permalink: /objectives/
 
 - Craft duplicate of phylactery  
   - Send to Ghostlord with one of his minions, get him to withdrawl his forces from Elsir Vale.
+    - Prepare 'Tongues' when attempting to subdue.
   - Track with 'Detect Magic'/'Locate Object'.
 
 - Business:
