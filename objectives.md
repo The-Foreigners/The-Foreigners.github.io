@@ -7,6 +7,8 @@ permalink: /objectives/
 
 - DON'T BUNCH UP!! FOCUS FIRE!!
 
+- WATCH THE ACTION ECONOMY.
+
 - PRACTICE AVOIDING COUNTERSPELL.
   - Stay beyond 60ft range.
   - Use cover to prevent casting being seen.
