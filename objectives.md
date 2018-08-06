@@ -71,7 +71,7 @@ permalink: /objectives/
   - Fortify and reinforce Brindol
     - Hallow ground (Is there a likely entry point?).
     - Forbiddance a sanctuary.
-    - Glyph of Warding single target buffs (at 10th level = 1 5th level spell). 
+    - Glyph of Warding single target buffs (@10L 1 5th level spell). 
     - What is the arrangement of the river? Control Water...
     - How to counter Wyverns?
     - Prepare for siege? Send refugees east?
