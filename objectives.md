@@ -31,15 +31,13 @@ permalink: /objectives/
 
 - What is our current wealth? Budget enough for material components.
 
-- Is it possible to send the Toothsharps to Bruglor Axebiter in the north?
-
 - Prepare Gentle Repose
   - Capture deceased Wyrmlords/Commanders to revive later.
   - Preserve acid gland from dragon.
 
 - Determine where to next? Review map notations.
   - Defend small towns enroute of the invaders from raiding parties.
-  - Meet with Gen. Felix?
+  - Meet with Gen. Felix.
 
 - Craft duplicate of phylactery  
   - Send to Ghostlord with one of his minions, get him to withdrawl his forces from Elsir Vale.
