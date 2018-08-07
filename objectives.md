@@ -29,6 +29,10 @@ permalink: /objectives/
 
 - WATCH SPELL RANGES (e.g. Guidance).
 
+- CONDUCT AARs & SAND TABLES
+
+- WRITE 'MONSTER MANUAL' OF ENCOUNTERS
+
 ## Current Tasks
 
 - What is our current wealth? Budget enough for material components.
