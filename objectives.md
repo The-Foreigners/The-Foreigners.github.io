@@ -76,7 +76,7 @@ permalink: /objectives/
   - Fortify and reinforce Brindol
     - Glyph of Warding buffs (@10L 1 5th level spell).
       - Errata'd to allow a target of self and area effect buffs (Spirit Guardians, Beacon of Hope?).
-      - Stoneshape an altar with a glyph of raise dead (a common use, but not RAW).
+      - Stoneshape an altar with a glyph of raise dead (corpses are objects, still valid with errata?).
     - Hallow ground (Is there a likely entry point?).
     - Forbiddance a sanctuary (especially a phylactery vault).
     - What is the arrangement of the river? Control Water...
