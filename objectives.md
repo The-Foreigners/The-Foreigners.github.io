@@ -54,6 +54,7 @@ permalink: /objectives/
         - pulverize 1000g ruby
     - phylactery duplicate
     - light crossbow & bolts
+    - whistle, tripwire & bells
     - wish list: handy haversack, bag of holding, or portable hole
   - Trade unused magic items:
     - Dragon Scale Mail
