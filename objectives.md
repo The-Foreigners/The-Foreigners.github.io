@@ -14,7 +14,7 @@ permalink: /objectives/
   - Use cover to prevent casting being seen.
   - Keep track of reactions.
 
-- USE REACTION TO IDENTIFY A SPELL AS IT IS CAST
+- USE REACTION TO IDENTIFY A SPELL AS IT IS CAST.
   - Use to cast dispel at appropriate level.
   - Do especially for non-obvious effects.
     - Review XGtE on perceiving a caster at work (e.g. Charm/Suggestion).
@@ -29,9 +29,9 @@ permalink: /objectives/
 
 - WATCH SPELL RANGES (e.g. Guidance).
 
-- CONDUCT AARs & SAND TABLES
+- CONDUCT AARs & SAND TABLES.
 
-- WRITE 'MONSTER MANUAL' OF ENCOUNTERS
+- WRITE 'MONSTER MANUAL' OF ENCOUNTERS.
 
 ## Current Tasks
 
@@ -74,9 +74,10 @@ permalink: /objectives/
 
 - The Red Hand
   - Fortify and reinforce Brindol
+    - Glyph of Warding single target buffs (@10L 1 5th level spell).
+      - Stoneshape an altar with a glyph of raise dead (not RAW).
     - Hallow ground (Is there a likely entry point?).
-    - Forbiddance a sanctuary.
-    - Glyph of Warding single target buffs (@10L 1 5th level spell). 
+    - Forbiddance a sanctuary (especially a phylactery vault).
     - What is the arrangement of the river? Control Water...
     - How to counter Wyverns?
     - Prepare for siege? Send refugees east?
