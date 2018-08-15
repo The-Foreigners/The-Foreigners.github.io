@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Current Objectives
-
 permalink: /objectives/
 ---
 ## Tactics
