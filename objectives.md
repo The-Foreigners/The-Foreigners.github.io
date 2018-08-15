@@ -7,24 +7,22 @@ permalink: /objectives/
 ## Tactics
 
 - DON'T BUNCH UP!! FOCUS FIRE!!
-l
+
 - WATCH THE ACTION ECONOMY.
 
 - PRACTICE AVOIDING COUNTERSPELL.
-
-- Stay beyond 60ft range.
+  - Stay beyond 60ft range.
   - Use cover to prevent casting being seen.
   - Keep track of reactions.
 
 - USE REACTION TO IDENTIFY A SPELL AS IT IS CAST.
   - Use to cast dispel at appropriate level.
   - Do especially for non-obvious effects.
-    - Review XGtE on perceiving a caster at work (e.g. Charm/Suggestion).
+  - Review XGtE on perceiving a caster at work (e.g. Charm/Suggestion).
   - From XGtE, DC is INT(Arcana) 15 + Spell Level (with advantage if cleric).
-
-- What if it is an innate ability from a creature you've seen before?
+    - What if it is an innate ability from a creature you've seen before?
   
-- ATTEMPT BREAKING CONCENTRATION BY HOLDING DAMAGE.  
+- BREAK POTENTIAL CONCENTRATION BY HOLDING DAMAGE UNTIL CASTER'S TURN.  
 
 - KEEP ACCURATE ROUND COUNT FOR SPELL EFFECTS.
 
@@ -40,7 +38,7 @@ l
 
 - What is our current wealth? Budget enough for material components.
 
-- Prepare Gentle Repose
+- Prepare Gentle Repose.
   - Capture deceased Wyrmlords/Commanders to revive later.
   - Preserve acid gland from dragon.
 
@@ -48,10 +46,11 @@ l
   - Defend small towns enroute of the invaders from raiding parties.
   - Meet with Gen. Felix.
 
-- Craft duplicate of phylactery  
+- Craft duplicate of phylactery.  
   - Send to Ghostlord with one of his minions (Tongues?), get him to withdrawl his forces from Elsir Vale.
   - Track with 'Detect Magic'/'Locate Object'.
 
+- Stoneshape quern stone altar.
 
 - Business:
   - Crafting/Shopping:
@@ -66,7 +65,7 @@ l
     - wish list: handy haversack, bag of holding, or portable hole
   - Trade unused magic items:
     - Dragon Scale Mail
-      - Do we equip a hero?
+      - Do we equip a hero? 
       - Send out request for bids to high-end shops (Christof's Curiosities), silent auction
   - Hirelings:
     - See Serpent Queen.
