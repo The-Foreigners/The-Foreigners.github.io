@@ -1,16 +1,18 @@
 ---
 layout: page
 title: Current Objectives
+
 permalink: /objectives/
 ---
 ## Tactics
 
 - DON'T BUNCH UP!! FOCUS FIRE!!
-
+l
 - WATCH THE ACTION ECONOMY.
 
 - PRACTICE AVOIDING COUNTERSPELL.
-  - Stay beyond 60ft range.
+
+- Stay beyond 60ft range.
   - Use cover to prevent casting being seen.
   - Keep track of reactions.
 
@@ -19,7 +21,8 @@ permalink: /objectives/
   - Do especially for non-obvious effects.
     - Review XGtE on perceiving a caster at work (e.g. Charm/Suggestion).
   - From XGtE, DC is INT(Arcana) 15 + Spell Level (with advantage if cleric).
-    - What if it is an innate ability from a creature you've seen before?
+
+- What if it is an innate ability from a creature you've seen before?
   
 - ATTEMPT BREAKING CONCENTRATION BY HOLDING DAMAGE.  
 
@@ -49,6 +52,7 @@ permalink: /objectives/
   - Send to Ghostlord with one of his minions (Tongues?), get him to withdrawl his forces from Elsir Vale.
   - Track with 'Detect Magic'/'Locate Object'.
 
+
 - Business:
   - Crafting/Shopping:
     - spell components: 
@@ -75,7 +79,7 @@ permalink: /objectives/
 - The Red Hand
   - Fortify and reinforce Brindol
     - Glyph of Warding buffs (@10L 1 5th level spell).
-      - Stoneshape an altar with a glyph of Raise Dead (corpses are objects, not valid RAW).
+      - Raise Dead targeting deceased clerics (corpses are objects, not valid RAW).
     - Hallow ground (Is there a likely entry point?).
     - Forbiddance a sanctuary (especially a phylactery vault).
     - What is the layout of the river? Control Water...
@@ -100,8 +104,7 @@ permalink: /objectives/
     - Coordinate with Misha, follow up with her about events at Orlane. 
       - Is she staying in Keys? Is her order covering up the incident?
       - Did she find anyone to help, or conduct any research?
-  - What was the source and nature of the mind control? 
-  - What lore is there about the Serpent Queen? 
+  - What was the source and nature of the mind control?   - What lore is there about the Serpent Queen? 
     - Can anyone at the Kuldera library research Serpent Queen?
     - Send message to Father William about the loss of Orlane, can he research Serpent Queen?  
   - Garath Primo
@@ -110,7 +113,6 @@ permalink: /objectives/
 
 
 ## Secondary Objectives
-
 - Monitor progress of Rockseeker brothers restarting magic forge in Wave Echo Cave.
   - Will maintain contact through Father William.
   - Explore the underground 'ocean'.
