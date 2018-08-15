@@ -25,13 +25,14 @@ permalink: /objectives/
 
 - KEEP ACCURATE ROUND COUNT FOR SPELL EFFECTS.
 
-- DETECT MAGIC WHILE LOOTING (Wand of Secrets).
+- DETECT MAGIC WHILE LOOTING (Wand of Secrets)
 
 - WATCH SPELL RANGES (e.g. Guidance).
 
 - CONDUCT AARs & SAND TABLES.
 
 - WRITE 'MONSTER MANUAL' OF ENCOUNTERS.
+
 
 ## Current Tasks
 
@@ -52,6 +53,7 @@ permalink: /objectives/
 - Stoneshape quern stone altar.
 
 - Business:
+  - Emerstall the Red in Brindol.
   - Crafting/Shopping:
     - spell components: 
       - 200g Divination tools (x4 ivory strips): Augury, Legend Lore, Find the Path; 1000g Scrying focus
@@ -108,9 +110,10 @@ permalink: /objectives/
   - Garath Primo
     - Is he culpable or can he be helpful?
     - He failed to check-in with the Kuldera Academy.
-
+    - Attempt to scry on him.
 
 ## Secondary Objectives
+
 - Monitor progress of Rockseeker brothers restarting magic forge in Wave Echo Cave.
   - Will maintain contact through Father William.
   - Explore the underground 'ocean'.
@@ -132,7 +135,7 @@ permalink: /objectives/
 - Investigate the Hommlet moathouse and it's rumored riches.
 
 - Learn history of Mealton the Great, what caused the Great Cataclysm?
-  - Question Norcan (sp?) 'the Blue Rider', former court wizard.
+  - Question Norcan 'the Blue Rider', former court wizard, and offer him the Mealton tapestry.
 
 
 ## Goals
