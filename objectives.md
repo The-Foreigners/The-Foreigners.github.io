@@ -21,8 +21,9 @@ permalink: /objectives/
   - From XGtE, DC is INT(Arcana) 15 + Spell Level (with advantage if cleric).
     - What if it is an innate ability from a creature you've seen before?
   
-- BREAK POTENTIAL CONCENTRATION BY HOLDING DAMAGE UNTIL CASTER'S TURN.  
-
+- BREAK POTENTIAL CONCENTRATION BY HOLDING DAMAGE UNTIL CASTER'S TURN. 
+  - Holding a spell requires concentration. 
+  
 - KEEP ACCURATE ROUND COUNT FOR SPELL EFFECTS.
 
 - DETECT MAGIC WHILE LOOTING (Wand of Secrets)
@@ -62,7 +63,7 @@ permalink: /objectives/
         - pulverize 1000g ruby
     - phylactery duplicate
     - light crossbow & bolts
-    - whistle, tripwire & bells
+    - whistle, tripwire & bells, vials
     - wish list: handy haversack, bag of holding, or portable hole
   - Trade unused magic items:
     - Dragon Scale Mail
