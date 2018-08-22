@@ -19,7 +19,7 @@ permalink: /objectives/
   - Do especially for non-obvious effects.  
   - Review XGtE on perceiving a caster at work (e.g. Charm/Suggestion).
   - From XGtE, DC is INT(Arcana) 15 + Spell Level (with advantage if cleric).
-    - What if it is an innate ability from a creature you've seen before?
+     - What if it is an innate ability from a creature you've seen before?
   
 - BREAK POTENTIAL CONCENTRATION BY HOLDING DAMAGE UNTIL CASTER'S TURN. 
   - Holding a spell requires concentration. 
@@ -37,10 +37,10 @@ permalink: /objectives/
 
 ## Current Tasks
 
-- *Are Zera and Sorren still flying?
-  - Survey the enemy encampment. Try to get a rough count. 
-    - Is the large tent area for the Ettins or a command tent? Look for intel on our way through.
-  - Can Zera firebolt other enemy tents as a distraction?*
+- *Are Zera and Sorren still flying?*
+  - *Survey the enemy encampment. Try to get a rough count.*
+    - *Is the large tent area for the Ettins or a command tent? Look for intel on our way through.*
+  - *Can Zera firebolt other enemy tents as a distraction?*
 
 - *Does anyone have an empty vial? Harvest wyvern poison.*
 
@@ -52,7 +52,7 @@ permalink: /objectives/
 - Protect Zera from the Neighbors when entering Brindol.
   - We may have a reputation and may attract unwanted attention.
   - Should we talk to local law? Find potential hideouts/hangouts.
-  - Feign Death upon entering town.
+  - Feign Death upon entering town. Find a coffin. Lay a trap.
   - Death Ward to prevent an assassination.
 
 - What is our current wealth? Budget enough for material components.
