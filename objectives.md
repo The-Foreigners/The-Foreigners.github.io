@@ -16,7 +16,7 @@ permalink: /objectives/
 
 - USE REACTION TO IDENTIFY A SPELL AS IT IS CAST.
   - Use to cast dispel at appropriate level.
-  - Do especially for non-obvious effects.
+  - Do especially for non-obvious effects.  
   - Review XGtE on perceiving a caster at work (e.g. Charm/Suggestion).
   - From XGtE, DC is INT(Arcana) 15 + Spell Level (with advantage if cleric).
     - What if it is an innate ability from a creature you've seen before?
@@ -37,15 +37,36 @@ permalink: /objectives/
 
 ## Current Tasks
 
+- *Are Zera and Sorren still flying?
+  - Survey the enemy encampment. Try to get a rough count. 
+    - Is the large tent area for the Ettins or a command tent? Look for intel on our way through.
+  - Can Zera firebolt other enemy tents as a distraction?*
+
+- *Does anyone have an empty vial? Harvest wyvern poison.*
+
+- Break through enemy lines and head towards Witchcross. 
+  - Has it been evacuated or raided?
+  - Can we setup an ambush?
+  - Can we short rest?
+
+- Protect Zera from the Neighbors when entering Brindol.
+  - We may have a reputation and may attract unwanted attention.
+  - Should we talk to local law? Find potential hideouts/hangouts.
+  - Feign Death upon entering town.
+  - Death Ward to prevent an assassination.
+
 - What is our current wealth? Budget enough for material components.
 
 - Prepare Gentle Repose.
   - Capture deceased Wyrmlords/Commanders to revive later.
   - Preserve acid gland from dragon.
 
-- Determine where to next? Review map notations.
+- Meet with Gen. Felix. Where to next?
+  - Fortify Brindol.
   - Defend small towns enroute of the invaders from raiding parties.
-  - Meet with Gen. Felix.
+  - Begin negotiating potential peace conditions. 
+    - "We cannot destroy the orcs, or we're no more civilized than they."
+    - Find locatons for Axebiters and Toothsharps.
 
 - Craft duplicate of phylactery.  
   - Send to Ghostlord with one of his minions (Tongues?), get him to withdrawl his forces from Elsir Vale.
@@ -85,7 +106,7 @@ permalink: /objectives/
     - Forbiddance a sanctuary (especially a phylactery vault).
     - What is the layout of the river? Control Water...
     - How to counter Wyverns?
-    - Prepare for siege? Send refugees east?
+    - Prepare for siege? Send refugees east? Purify Food.
   - Gather intelligence on orcs for Gen. Felix and Cpt. Thayne. 
     - Bruglor says Azarr Kul will come through the Elsir Vale, down from the Wyvernwatch and Wyrmsmoke mountains near Drellin’s Ferry. If they take the first town and have the river, the rest will be easy. He says that if we loose Brindol, it will be all he needs to finish recruiting more orcs and we’ll have an all out war. He has several Wyrmlords serving under him, their names are unknown.
     - What is the orc strategy?
