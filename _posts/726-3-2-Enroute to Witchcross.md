@@ -15,3 +15,5 @@ Thayne says this army lays on this side of the Witch Stream, and they've begun e
 Nyett asks us to free them from their honor binds; sever the head of Azaar. He is a the Nightmare Ridge near the Fane of Tiamat. He's working to summon Tiamat. She tells us that the blue dragon is always with him. Ulumai always (??).
 
 We go cleaned up and feed. We come across a mysterious grove with an orc raiding party mutilating a caravan. We find a letter of orders for mercenaries in Hadon's Cross. We split up, Zera and Atticus head towards Hadon's cross with the payment for the mercenaries, and Grin, Thayne, Martin, and I head back from reenforcements.
+
+During camp, we're attacked by a deadly ten-headed hydra, which Thayne novas. 
