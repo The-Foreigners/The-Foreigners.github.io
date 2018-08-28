@@ -41,7 +41,7 @@ permalink: /objectives/
 
 - *Have a drink, show remorse for unnecessary violence.*
   - *Any +25g wine?*
-  - *Reflavor Toll the Dead as pleading for surrender.*
+  - *Flavor Toll the Dead by pleading for surrender.*
 
 - Entering Witchcross.
   - Defeated looters.
