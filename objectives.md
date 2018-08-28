@@ -47,11 +47,16 @@ permalink: /objectives/
     - Mentioned "their side of the street", are there other looters?
     - Take them to Brindol to be identified. Who do they work for?
     - Speak with Dead.
-  - Can we setup an ambush?
-  - All war material destroyed?
+      - What name should we put on your grave marker?
+      - Who should we tell of your passing?
+      - We meant no harm, why did you attack?
+      - How can we earn your forgiveness?
+      - What is your dying wish?
+  - Can we setup an ambush? Lay any traps?
+  - All war material destroyed? Should we contaminate remaining food?
   
 - Protect Zera from the Neighbors when entering Brindol.
-  - We may have a reputation and may attract unwanted attention.
+  - We have a reputation and may attract unwanted attention.
   - Should we talk to local law? Find potential hideouts/hangouts.
   - Feign Death upon entering town. Find a coffin. Lay a trap.
   - Death Ward to prevent an assassination.
