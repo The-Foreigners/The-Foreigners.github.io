@@ -11,17 +11,19 @@ permalink: /objectives/
 
 - PRACTICE AVOIDING COUNTERSPELL.
   - Stay beyond 60ft range.
-  - Use cover to prevent casting being seen.
+  - Use cover to prevent being seen.
   - Keep track of reactions.
 
+- GAIN INSIGHT DURING AMBIGIOUS CONFRONTATIONS.
+
 - USE REACTION TO IDENTIFY A SPELL AS IT IS CAST.
+  - From XGtE, DC is INT(Arcana) 15 + Spell Level (with advantage if cleric).
+    - What if it is an innate ability from a creature you've seen before?
   - Use to cast dispel at appropriate level.
   - Do especially for non-obvious effects.  
-  - Review XGtE on perceiving a caster at work (e.g. Charm/Suggestion).
-  - From XGtE, DC is INT(Arcana) 15 + Spell Level (with advantage if cleric).
-     - What if it is an innate ability from a creature you've seen before?
+    - Review XGtE on perceiving a caster at work (e.g. Charm/Suggestion).
   
-- BREAK POTENTIAL CONCENTRATION BY HOLDING DAMAGE UNTIL CASTER'S TURN. 
+- BREAK OPPOSING CASTER'S CONCENTRATION BY HOLDING DAMAGE UNTIL THEIR TURN. 
   - Holding a spell requires concentration. 
   
 - KEEP ACCURATE ROUND COUNT FOR SPELL EFFECTS.
@@ -37,18 +39,17 @@ permalink: /objectives/
 
 ## Current Tasks
 
-- *Are Zera and Sorren still flying?*
-  - *Survey the enemy encampment. Try to get a rough count.*
-    - *Is the large tent area for the Ettins or a command tent? Look for intel on our way through.*
-  - *Can Zera firebolt other enemy tents as a distraction?*
+- *Have a drink, show remorse for unnecessary violence. Any +25g wine?*
 
-- *Does anyone have an empty vial? Harvest wyvern poison.*
-
-- Break through enemy lines and head towards Witchcross. 
-  - Has it been evacuated or raided?
+- Entering Witchcross.
+  - Defeated looters.
+    - Where were they dragging loot? Can we secure for citizens?
+    - Mentioned "their side of the street", are there other looters?
+    - Take them to Brindol to be identified. Who do they work for?
+    - Speak with Dead.
   - Can we setup an ambush?
-  - Can we short rest?
-
+  - All war material destroyed?
+  
 - Protect Zera from the Neighbors when entering Brindol.
   - We may have a reputation and may attract unwanted attention.
   - Should we talk to local law? Find potential hideouts/hangouts.
