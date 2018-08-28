@@ -39,7 +39,9 @@ permalink: /objectives/
 
 ## Current Tasks
 
-- *Have a drink, show remorse for unnecessary violence. Any +25g wine?*
+- *Have a drink, show remorse for unnecessary violence.*
+  - *Any +25g wine?*
+  - *Reflavor Toll the Dead as pleading for surrender.*
 
 - Entering Witchcross.
   - Defeated looters.
