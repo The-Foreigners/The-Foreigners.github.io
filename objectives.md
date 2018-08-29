@@ -39,9 +39,9 @@ permalink: /objectives/
 
 ## Current Tasks
 
-- *Have a drink, show remorse for unnecessary violence.*
-  - *Any +25g wine?*
-  - *Flavor Toll the Dead by pleading for surrender.*
+- *Have a drink (any +25g wine?), show remorse for unnecessary violence.*
+
+- *Flavor 'Toll the Dead' by pleading for surrender/retreat/peace.*
 
 - Entering Witchcross.
   - Defeated looters.
@@ -52,10 +52,10 @@ permalink: /objectives/
       - What name should we put on your grave marker?
       - Who should we tell of your passing?
       - We meant no harm, why did you attack?
-      - How can we earn your forgiveness?
-      - What is your dying wish?
+      - ???
+      - What are your last words?
   - Can we setup an ambush? Lay any traps?
-  - All war material destroyed? Should we contaminate remaining food?
+  - All war material destroyed?
   
 - Protect Zera from the Neighbors when entering Brindol.
   - We have a reputation and may attract unwanted attention.
