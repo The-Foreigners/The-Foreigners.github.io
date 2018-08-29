@@ -39,7 +39,7 @@ permalink: /objectives/
 
 ## Current Tasks
 
-- *Have a drink (any +25g wine?), show remorse for unnecessary violence.*
+- *Have a drink (save any +25g wine), show remorse for unnecessary violence.*
 
 - *Flavor 'Toll the Dead' by pleading for surrender/retreat/peace.*
 
