@@ -63,21 +63,19 @@ permalink: /objectives/
   - Feign Death upon entering town. Find a coffin. Lay a trap.
   - Death Ward to prevent an assassination.
 
-- What is our current wealth? Budget enough for material components.
-
 - Prepare Gentle Repose.
   - Capture deceased Wyrmlords/Commanders to revive later.
-  - Preserve acid gland from dragon.
 
 - Meet with Gen. Felix. Where to next?
-  - Fortify Brindol.
+  - Fortify Brindol, see The Red Hand below.
   - Defend small towns enroute of the invaders from raiding parties.
   - Begin negotiating potential peace conditions. 
     - "We cannot destroy the orcs, or we're no more civilized than they."
     - Find locatons for Axebiters and Toothsharps.
 
 - Craft duplicate of phylactery.  
-  - Send to Ghostlord with one of his minions (Tongues?), get him to withdrawl his forces from Elsir Vale.
+  - Send to Ghostlord; get him to withdrawl his forces from Elsir Vale.
+    - Use one of his minions as messenger. Tongues to speak with, Divination to locate.
   - Track with 'Detect Magic'/'Locate Object'.
 
 - Stoneshape quern stone altar.
@@ -90,7 +88,6 @@ permalink: /objectives/
       - 25g Divination 'spirits'; 500g diamond, Raise Dead; 100g diamond dust, Greater Restoration; 1000g incense, Hallow
       - Legend Lore incense; True Seeing ointment; Heroes' Feast jeweled bowl, Planar Binding gem, Fordiddance ruby dust
         - pulverize 1000g ruby
-    - phylactery duplicate
     - light crossbow & bolts
     - whistle, tripwire & bells, vials
     - wish list: handy haversack, bag of holding, or portable hole
@@ -99,7 +96,7 @@ permalink: /objectives/
       - Do we equip a hero? 
       - Send out request for bids to high-end shops (Christof's Curiosities), silent auction
   - Hirelings:
-    - See Serpent Queen.
+    - See Serpent Queen below.
     - Messenger service (Any equipped with sending stones/animal messengers?):
     - AL spell casting services: (Level)^2∗10+(ConsumedMaterials∗2)+(NonConsumedMaterials∗0.1)
 
