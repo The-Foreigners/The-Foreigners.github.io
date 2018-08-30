@@ -86,6 +86,8 @@ permalink: /objectives/
 
 - Stoneshape quern stone altar.
 
+- Attempt to scry on Garath Primo.
+
 - Business:
   - Emerstall the Red in Brindol.
   - Crafting/Shopping:
@@ -167,10 +169,11 @@ permalink: /objectives/
 - Retrieve Mirna Dendrar's family heirloom from a shop shelf in southeastern Thundertree. 
   - Return to Mirna, she's heading to Drellin's Ferry.
 
-- Investigate the Hommlet moathouse and it's rumored riches.
+- Investigate the Hommlet moathouse and its rumored riches.
 
 - Learn history of Mealton the Great, what caused the Great Cataclysm?
-  - Question Norcan 'the Blue Rider', former court wizard, and offer him the Mealton tapestry.
+  - Question Norcan 'the Blue Rider', former court wizard.
+    - Offer him the Mealton tapestry.
 
 
 ## Goals
