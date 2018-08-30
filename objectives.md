@@ -61,12 +61,12 @@ permalink: /objectives/
       - We meant no harm, why did you attack?
       - ???
       - What are your last words?  
-  - All war material destroyed?
+  - All war material removed or destroyed?
+    - Look for silos, root cellars, livestock.
   
 - Protect Zera from the Neighbors when entering Brindol.
   - We have a reputation and may attract unwanted attention.
   - Should we talk to local law? Find potential hideouts/hangouts.
-  - Feign Death upon entering town. Find a coffin. Lay a trap.
   - Death Ward to prevent an assassination.
 
 - Prepare Gentle Repose.
