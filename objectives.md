@@ -80,7 +80,7 @@ permalink: /objectives/
     - Find locatons for Axebiters and Toothsharps.
 
 - Craft duplicate of phylactery.  
-  - Send to Ghostlord; get him to withdrawl his forces from Elsir Vale.
+  - Send to Ghostlord; get him to withdraw his forces from Elsir Vale.
     - Use one of his minions as messenger. Tongues to speak with, Divination to locate.
   - Track with 'Detect Magic'/'Locate Object'.
 
@@ -100,7 +100,9 @@ permalink: /objectives/
   - Trade unused magic items:
     - Dragon Scale Mail
       - Do we equip a hero? 
-      - Send out request for bids to high-end shops (Christof's Curiosities), silent auction
+      - Contact high-end shops (Christof's Curiosities)
+        - Request for bids
+        - Silent auction
   - Hirelings:
     - See Serpent Queen below.
     - Messenger service (Any equipped with sending stones/animal messengers?):
