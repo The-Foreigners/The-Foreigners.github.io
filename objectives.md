@@ -42,10 +42,17 @@ permalink: /objectives/
 - *Have a drink (save any +25g wine), show remorse for unnecessary violence.*
 
 - *Flavor 'Toll the Dead' by pleading for surrender/retreat/peace.*
+  - *Hark! Your death knell.*
+  - *Woe to thee! Your end is near.*
+  - *Lo! The bell peals for you.*
 
 - Entering Witchcross.
+  - Are we being pursued by the orcs? Has the town been raided?
+    - Can we setup an ambush? Lay any traps?
   - Defeated looters.
-    - Where were they dragging loot? Can we secure for citizens?
+    - Where were they dragging loot?
+      - Can we secure for citizens?
+      - Do they have a cart or wagon?
     - Mentioned "their side of the street", are there other looters?
     - Take them to Brindol to be identified. Who do they work for?
     - Speak with Dead.
@@ -53,8 +60,7 @@ permalink: /objectives/
       - Who should we tell of your passing?
       - We meant no harm, why did you attack?
       - ???
-      - What are your last words?
-  - Can we setup an ambush? Lay any traps?
+      - What are your last words?  
   - All war material destroyed?
   
 - Protect Zera from the Neighbors when entering Brindol.
