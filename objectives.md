@@ -39,54 +39,44 @@ permalink: /objectives/
 
 ## Current Tasks
 
-- *Have a drink (save any +25g wine), show remorse for unnecessary violence.*
-
 - *Flavor 'Toll the Dead' by pleading for surrender/retreat/peace.*
-  - *Hark! Your death knell.*
-  - *Woe to thee! Your end is near.*
-  - *Lo! The bell peals for you.*
+  - *Harken your death knell!, Lo! The bell keens for you.*
 
-- Entering Witchcross.
-  - Are we being pursued by the orcs? Has the town been raided?
-    - Can we setup an ambush? Lay any traps?
-  - Defeated looters.
-    - Where were they dragging loot?
-      - Can we secure for citizens?
-      - Do they have a cart or wagon?
-    - Mentioned "their side of the street", are there other looters?
-    - Take them to Brindol to be identified. Who do they work for?
-    - Speak with Dead.
-      - What name should we put on your grave marker?
-      - Who should we tell of your passing?
-      - We meant no harm, why did you attack?
-      - ???
-      - What are your last words?  
-  - All war material removed or destroyed?
-    - Look for silos, root cellars, livestock.
-  
 - Protect Zera from the Neighbors when entering Brindol.
-  - We have a reputation and may attract unwanted attention.
-  - Should we talk to local law? Find potential hideouts/hangouts.
-  - Death Ward to prevent an assassination.
+  - While in Brindol, maintain Death Ward to prevent an assassination.  
+  - Learn more about ‘Upright Man’ and the ‘Crimson Tigers’.
+    - Should we talk to local law? Find potential hideouts/hangouts.
+    - Defeated looter, find a coffin.
+      - Can anyone in Brindol identify? Otherwise, keep identity hidden.
+      - Speak with Dead.
+        - What name should we put on your grave marker?
+        - Who should we tell of your passing?
+        - Where should we hold your wake?
+        - With Zera dead, how do you claim the contract?
+        - What are your last words?  
+  
+- Meet with the Field Marshal. Where to next?
+  - Return identifying items from fallen patrol.
+  - Fortify Brindol, see The Red Hand below (Hallow 24hrs, 1000g).
+  - Defend Talar from main invasion force.
+    - Has there been much resistance? Can we surprise? Or should we flank?
+  - Find and attack high value targets, any scout reports?
+  - Coordinate with forest giants.
+  - Begin negotiating potential peace conditions. 
+    - "We cannot destroy the orcs, or we're no more civilized than they."
+    - Find locations for Axebiters and Toothsharps. Can we convince others?
 
-- Prepare Gentle Repose.
-  - Capture deceased Wyrmlords/Commanders to revive later.
-
-- Meet with Gen. Felix. Where to next?
-  - Fortify Brindol, see The Red Hand below.
-  - Defend small towns enroute of the invaders from raiding parties.
-  - Begin negotiating potential peace conditions. 
-    - "We cannot destroy the orcs, or we're no more civilized than they."
-    - Find locatons for Axebiters and Toothsharps.
-
-- Craft duplicate of phylactery.  
-  - Send to Ghostlord; get him to withdraw his forces from Elsir Vale.
-    - Use one of his minions as messenger. Tongues to speak with, Divination to locate.
-  - Track with 'Detect Magic'/'Locate Object'.
+- Craft duplicate of phylactery.  
+  - Send to Ghostlord; get him to withdraw his forces from Elsir Vale.
+    - Use one of his minions as messenger. Tongues to speak with, Divination to locate.
+  - Track with 'Detect Magic'/'Locate Object'.
 
 - Stoneshape quern stone altar.
 
+- Drink fine dwarven ale for Commune.
+
 - Attempt to scry on Garath Primo.
+
 
 - Business:
   - Emerstall the Red in Brindol.
