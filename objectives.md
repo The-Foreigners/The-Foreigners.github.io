@@ -40,43 +40,41 @@ permalink: /objectives/
 ## Current Tasks
 
 - *Flavor 'Toll the Dead' by pleading for surrender/retreat/peace.*
-  - *Harken your death knell!, Lo! The bell keens for you.*
-
+   - *Harken your death knell!, Lo! The bell keens for you.*
+   
 - Protect Zera from the Neighbors when entering Brindol.
-  - While in Brindol, maintain Death Ward to prevent an assassination.  
-  - Learn more about ‘Upright Man’ and the ‘Crimson Tigers’.
-    - Should we talk to local law? Find potential hideouts/hangouts.
-    - Defeated looter, find a coffin.
-      - Can anyone in Brindol identify? Otherwise, keep identity hidden.
-      - Speak with Dead.
-        - What name should we put on your grave marker?
-        - Who should we tell of your passing?
-        - Where should we hold your wake?
-        - With Zera dead, how do you claim the contract?
-        - What are your last words?  
-  
+  - While in Brindol, maintain Death Ward to prevent an assassination.  
+  - Learn more about ‘Upright Man’ and the ‘Crimson Tigers’.
+    - Should we talk to local law? Find potential hideouts/hangouts.
+    - Defeated looter, find a coffin.
+      - Can anyone in Brindol identify? Otherwise, keep identity hidden.
+      - Speak with Dead.
+        - What name should we put on your grave marker?
+        - Who should we tell of your passing?
+        - Where should we hold your wake?
+        - With Zera dead, how do you claim the contract?
+        - What are your last words?  
+
 - Meet with the Field Marshal. Where to next?
-  - Return identifying items from fallen patrol.
-  - Fortify Brindol, see The Red Hand below (Hallow 24hrs, 1000g).
-  - Defend Talar from main invasion force.
-    - Has there been much resistance? Can we surprise? Or should we flank?
-  - Find and attack high value targets, any scout reports?
-  - Coordinate with forest giants.
-  - Begin negotiating potential peace conditions. 
-    - "We cannot destroy the orcs, or we're no more civilized than they."
-    - Find locations for Axebiters and Toothsharps. Can we convince others?
+  - Return identifying items from fallen patrol.
+  - Fortify Brindol, see The Red Hand below (Hallow 24hrs, 1000g).
+  - Defend Talar from main invasion force.
+    - Has there been much resistance? Can we surprise? Or should we flank?
+  - Find and attack high value targets, any scout reports?
+  - Coordinate with forest giants.
+  - Begin negotiating potential peace conditions. 
+    - "We cannot destroy the orcs, or we're no more civilized than they."
+    - Find locations for Axebiters and Toothsharps. Can we convince others?
 
 - Craft duplicate of phylactery.  
-  - Send to Ghostlord; get him to withdraw his forces from Elsir Vale.
-    - Use one of his minions as messenger. Tongues to speak with, Divination to locate.
-  - Track with 'Detect Magic'/'Locate Object'.
+  - Send to Ghostlord; get him to withdraw his forces from Elsir Vale.
+  - Use one of his minions as messenger. Tongues to speak with, Divination to locate.
 
 - Stoneshape quern stone altar.
 
 - Drink fine dwarven ale for Commune.
 
 - Attempt to scry on Garath Primo.
-
 
 - Business:
   - Emerstall the Red in Brindol.
@@ -93,8 +91,7 @@ permalink: /objectives/
     - Dragon Scale Mail
       - Do we equip a hero? 
       - Contact high-end shops (Christof's Curiosities)
-        - Request for bids
-        - Silent auction
+        - Request for trades or a silent auction
   - Hirelings:
     - See Serpent Queen below.
     - Messenger service (Any equipped with sending stones/animal messengers?):
